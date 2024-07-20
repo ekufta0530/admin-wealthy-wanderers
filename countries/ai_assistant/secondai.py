@@ -1,8 +1,13 @@
 import openai
 import json
+from dotenv import load_dotenv
+import os
 
-# Set your OpenAI API key
-openai.api_key = 'sk-None-80inpj47tlii4rywkOtxT3BlbkFJmybIr9hRZ7xHoRtumtEM'
+# Load environment variables from .env file
+load_dotenv()
+
+# Set your OpenAI API key from environment variable
+openai.api_key = os.getenv('OPENAI_API_KEY')
 
 # List of countries to update
 countries = [

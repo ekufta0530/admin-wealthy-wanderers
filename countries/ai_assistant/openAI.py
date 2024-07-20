@@ -1,8 +1,13 @@
 import openai
 import json
+from dotenv import load_dotenv
+import os
 
-# Set your OpenAI API key
-openai.api_key = 'sk-None-80inpj47tlii4rywkOtxT3BlbkFJmybIr9hRZ7xHoRtumtEM'
+# Load environment variables from .env file
+load_dotenv()
+
+# Set your OpenAI API key from environment variable
+openai.api_key = os.getenv('OPENAI_API_KEY')
 
 # List of countries to update
 countries = [
@@ -77,12 +82,12 @@ template = {
 # Function to get tax information for a country using OpenAI API
 def get_tax_information(country):
     prompt = f"""
-    rovide detailed tax information for {country}, including income tax and social security rates for employees, contractors, and retirees. 
+    Provide detailed tax information for {country}, including income tax and social security rates for employees, contractors, and retirees. 
     Format it as a JSON document with the following structure paying special attention to how the tax brackets are structured with min_income_range, max_income_range and rate_pct. I provided an example in income tax and social security tax for guidance. Don't include any comments after the json. Only include the json. add a comma after the end of the json so we can insert the next json document after. 
     {json.dumps(template, indent=4)}
     """
     
-    response = openai.chat.completions.create(
+    response = openai.ChatCompletion.create(
       model="gpt-4",
       messages=[
           {"role": "system", "content": "You are a helpful assistant."},
@@ -92,7 +97,7 @@ def get_tax_information(country):
       temperature=0
     )
     # print(response.choices[0].message.content)
-    return response.choices[0].message.content.strip()
+    return response.choices[0].message['content'].strip()
 
 # Dictionary to hold the JSON documents for all countries
 country_data = {}
