@@ -1,0 +1,243 @@
+{
+  "country_name": "Ireland",
+  "country_code": "IE",
+  "capital": "Dublin",
+  "display": true,
+  "currency": "EUR",
+  "anchor_country": false,
+  "has_nomad_visa": false,
+  "schengen_zone": false,
+  "in_european_union": true,
+  "cost_of_living_index": 66.5,
+  "cost_of_living_lvl": "$$$",
+  "practical_tips": {
+    "financial_benefits": [
+      {
+        "benefit": "Low Corporate Tax",
+        "description": "Ireland offers a low corporate tax rate of 12.5%, attracting many multinational companies."
+      },
+      {
+        "benefit": "Access to EU Markets",
+        "description": "Being part of the European Union, Ireland provides access to the EU's single market and trade agreements."
+      }
+    ],
+    "lifestyle_benefits": [
+      {
+        "benefit": "Beautiful Landscapes",
+        "description": "Ireland boasts stunning natural landscapes, including rugged coastlines and green countryside."
+      },
+      {
+        "benefit": "Rich Cultural Heritage",
+        "description": "Experience Ireland's rich history, music, literature, and vibrant arts scene."
+      }
+    ],
+    "additional_benefits": [
+      {
+        "benefit": "English Speaking",
+        "description": "English is the primary language spoken in Ireland, facilitating communication for expatriates."
+      },
+      {
+        "benefit": "Tech and Innovation Hub",
+        "description": "Dublin is a prominent hub for technology and innovation companies, offering diverse career opportunities."
+      }
+    ]
+  },
+  "key_consideration": "Ireland does not have a specific digital nomad visa, but offers work permits and visa options for those employed or self-employed.",
+  "best_for": [
+    "employees",
+    "contractors"
+    ],
+  "action_comment": "Consider Ireland for its vibrant culture, beautiful landscapes, and opportunities in tech and innovation.",
+  "tagline": "Experience the charm of Ireland and its dynamic economy.",
+  "image": "ireland.jpg",
+  "tax_residency_trigger": 183,
+  "tax_residency_trigger_details": "You are considered a tax resident if you spend more than 183 days in Ireland in a tax year.",
+  "country_standard_taxes": {
+    "tax_currency": "EUR",
+    "employees": {
+      "income_tax": [
+        {
+          "min_income_range": 0,
+          "max_income_range": 35300,
+          "rate_pct": 20
+        },
+        {
+          "min_income_range": 35301,
+          "max_income_range": 70044,
+          "rate_pct": 40
+        },
+        {
+          "min_income_range": 70045,
+          "max_income_range": null,
+          "rate_pct": 45
+        }
+      ],
+      "social_security": [
+        {
+          "min_income_range": 0,
+          "max_income_range": 502,
+          "rate_pct": 4
+        }
+      ]
+    },
+    "contractors": {
+      "income_tax": [
+        {
+          "min_income_range": 0,
+          "max_income_range": 35300,
+          "rate_pct": 20
+        },
+        {
+          "min_income_range": 35301,
+          "max_income_range": 70044,
+          "rate_pct": 40
+        },
+        {
+          "min_income_range": 70045,
+          "max_income_range": null,
+          "rate_pct": 45
+        }
+      ],
+      "social_security": [
+        {
+          "min_income_range": 0,
+          "max_income_range": 502,
+          "rate_pct": 4
+        }
+      ]
+    },
+    "retirees": {
+      "income_tax": [
+        {
+          "min_income_range": 0,
+          "max_income_range": 35300,
+          "rate_pct": 20
+        },
+        {
+          "min_income_range": 35301,
+          "max_income_range": 70044,
+          "rate_pct": 40
+        },
+        {
+          "min_income_range": 70045,
+          "max_income_range": null,
+          "rate_pct": 45
+        }
+      ],
+      "social_security": []
+    }
+  },
+  "visas": [
+    {
+      "visa_name": "Critical Skills Employment Permit",
+      "nomad_visa": false,
+      "official_government_link": "https://enterprise.gov.ie/en/What-We-Do/Workplace-and-Skills/Employment-Permits/Permit-Types/Critical-Skills-Employment-Permit/",
+      "key_consideration": "For highly skilled workers in demand occupations.",
+      "validity_months": 24,
+      "income_requirement": {
+        "currency": "EUR",
+        "single_monthly": 3000,
+        "family_monthly": 5000,
+        "misc_details": "Salary must meet specified minimum levels for the occupation."
+      },
+      "application_timeline_days": 60,
+      "application_in_country": true,
+      "application_fee": {
+        "currency": "EUR",
+        "single": 1000,
+        "family": 3000,
+        "details": "Fee varies based on the number of applicants."
+      },
+      "dependent_application": true,
+      "local_tax_on_foreign_income": true,
+      "renewability": true,
+      "renewability_details": "Can renew or apply for long-term residency after fulfilling conditions.",
+      "days_in_country_to_renew_visa": 0,
+      "special_tax_regime": false,
+      "special_tax_regime_details": "",
+      "leads_to_permanent_residence": true,
+      "permanent_residency_details": "Eligible for permanent residency after specified years of legally residing in Ireland.",
+      "taxes": {
+        "employees": {
+          "income_tax": [
+            {
+              "min_income_range": 0,
+              "max_income_range": 35300,
+              "rate_pct": 20
+            },
+            {
+              "min_income_range": 35301,
+              "max_income_range": 70044,
+              "rate_pct": 40
+            },
+            {
+              "min_income_range": 70045,
+              "max_income_range": null,
+              "rate_pct": 45
+            }
+          ],
+          "social_security": [
+            {
+              "min_income_range": 0,
+              "max_income_range": 502,
+              "rate_pct": 4
+            }
+          ]
+        },
+        "contractors": {
+          "income_tax": [
+            {
+              "min_income_range": 0,
+              "max_income_range": 35300,
+              "rate_pct": 20
+            },
+            {
+              "min_income_range": 35301,
+              "max_income_range": 70044,
+              "rate_pct": 40
+            },
+            {
+              "min_income_range": 70045,
+              "max_income_range": null,
+              "rate_pct": 45
+            }
+          ],
+          "social_security": [
+            {
+              "min_income_range": 0,
+              "max_income_range": 502,
+              "rate_pct": 4
+            }
+          ]
+        },
+        "retirees": {
+          "income_tax": [
+            {
+              "min_income_range": 0,
+              "max_income_range": 35300,
+              "rate_pct": 20
+            },
+            {
+              "min_income_range": 35301,
+              "max_income_range": 70044,
+              "rate_pct": 40
+            },
+            {
+              "min_income_range": 70045,
+              "max_income_range": null,
+              "rate_pct": 45
+            }
+          ],
+          "social_security": []
+        },
+        "special_regimes": []
+      },
+      "required_documents": [
+        "Valid passport",
+        "Job offer from an Irish employer",
+        "Proof of qualifications and skills",
+        "Proof of accommodation in Ireland"
+      ]
+    }
+  ]
+}

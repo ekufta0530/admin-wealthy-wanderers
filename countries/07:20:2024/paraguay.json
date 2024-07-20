@@ -1,0 +1,306 @@
+{
+  "country_name": "Paraguay",
+  "country_code": "PY",
+  "capital": "Asunci�n",
+  "display": true,
+  "currency": "PYG",
+  "anchor_country": false,
+  "has_nomad_visa": false,
+  "schengen_zone": false,
+  "in_european_union": false,
+  "cost_of_living_index": 27.6,
+  "cost_of_living_lvl": "$",
+  "practical_tips": {
+    "financial_benefits": [
+      {
+        "benefit": "Low Tax Rates",
+        "description": "Paraguay offers some of the lowest tax rates in South America, including a flat income tax rate."
+      },
+      {
+        "benefit": "Affordable Living",
+        "description": "The cost of living in Paraguay is relatively low, making it an affordable destination for long-term stays."
+      }
+    ],
+    "lifestyle_benefits": [
+      {
+        "benefit": "Mild Climate",
+        "description": "Enjoy a subtropical climate with warm temperatures throughout the year."
+      },
+      {
+        "benefit": "Friendly Locals",
+        "description": "Paraguayans are known for their hospitality and friendliness towards foreigners."
+      }
+    ],
+    "additional_benefits": [
+      {
+        "benefit": "Rich Culture",
+        "description": "Paraguay has a rich cultural heritage with a blend of indigenous and Spanish influences."
+      },
+      {
+        "benefit": "Scenic Landscapes",
+        "description": "Explore beautiful landscapes, including the Gran Chaco and the Paraguay River."
+      }
+    ]
+  },
+  "key_consideration": "Paraguay offers various long-term residency options with favorable tax conditions and a low cost of living.",
+  "best_for": [
+    "contractors",
+    "retirees"
+  ],
+  "action_comment": "Consider Paraguay for its low cost of living, favorable tax rates, and friendly environment for long-term residents.",
+  "tagline": "Live affordably and comfortably in Paraguay.",
+  "image": "paraguay.jpg",
+  "tax_residency_trigger": 183,
+  "tax_residency_trigger_details": "You are considered a tax resident if you stay for longer than 183 days in a calendar year.",
+  "country_standard_taxes": {
+    "tax_currency": "PYG",
+    "employees": {
+      "income_tax": [
+        {
+          "min_income_range": 0,
+          "max_income_range": null,
+          "rate_pct": 9
+        }
+      ],
+      "social_security": [
+        {
+          "min_income_range": 0,
+          "max_income_range": null,
+          "rate_pct": 9
+        }
+      ]
+    },
+    "contractors": {
+      "income_tax": [
+        {
+          "min_income_range": 0,
+          "max_income_range": 12000000,
+          "rate_pct": 8
+        },
+        {
+          "min_income_range": 12000001,
+          "max_income_range": null,
+          "rate_pct": 10
+        }
+      ],
+      "social_security": [
+        {
+          "min_income_range": 0,
+          "max_income_range": null,
+          "rate_pct": 9
+        }
+      ]
+    },
+    "retirees": {
+      "income_tax": [
+        {
+          "min_income_range": 0,
+          "max_income_range": 12000000,
+          "rate_pct": 8
+        },
+        {
+          "min_income_range": 12000001,
+          "max_income_range": null,
+          "rate_pct": 10
+        }
+      ],
+      "social_security": []
+    }
+  },
+  "visas": [
+    {
+      "visa_name": "Permanent Residence Visa",
+      "nomad_visa": false,
+      "official_government_link": "https://www.mre.gov.py/",
+      "key_consideration": "Allows foreigners to live and work in Paraguay indefinitely with favorable tax conditions.",
+      "validity_months": null,
+      "income_requirement": {
+        "currency": "USD",
+        "single_monthly": 1300,
+        "family_monthly": 2500,
+        "misc_details": "Applicants must show proof of sufficient funds or income to support themselves."
+      },
+      "application_timeline_days": 90,
+      "application_in_country": true,
+      "application_fee": {
+        "currency": "USD",
+        "single": 200,
+        "family": 400,
+        "details": "Fee covers the main applicant and dependents."
+      },
+      "dependent_application": true,
+      "local_tax_on_foreign_income": false,
+      "renewability": true,
+      "renewability_details": "Permanent residency does not require renewal but may be subject to periodic reviews.",
+      "days_in_country_to_renew_visa": 183,
+      "special_tax_regime": false,
+      "special_tax_regime_details": "",
+      "leads_to_permanent_residence": true,
+      "permanent_residency_details": "Permanent residency allows individuals to live and work in Paraguay indefinitely.",
+      "taxes": {
+        "employees": {
+          "income_tax": [
+            {
+              "min_income_range": 0,
+              "max_income_range": 12000000,
+              "rate_pct": 8
+            },
+            {
+              "min_income_range": 12000001,
+              "max_income_range": null,
+              "rate_pct": 10
+            }
+          ],
+          "social_security": [
+            {
+              "min_income_range": 0,
+              "max_income_range": null,
+              "rate_pct": 9
+            }
+          ]
+        },
+        "contractors": {
+          "income_tax": [
+            {
+              "min_income_range": 0,
+              "max_income_range": 12000000,
+              "rate_pct": 8
+            },
+            {
+              "min_income_range": 12000001,
+              "max_income_range": null,
+              "rate_pct": 10
+            }
+          ],
+          "social_security": [
+            {
+              "min_income_range": 0,
+              "max_income_range": null,
+              "rate_pct": 9
+            }
+          ]
+        },
+        "retirees": {
+          "income_tax": [
+            {
+              "min_income_range": 0,
+              "max_income_range": 12000000,
+              "rate_pct": 8
+            },
+            {
+              "min_income_range": 12000001,
+              "max_income_range": null,
+              "rate_pct": 10
+            }
+          ],
+          "social_security": []
+        },
+        "special_regimes": []
+      },
+      "required_documents": [
+        "Valid passport",
+        "Proof of income or funds",
+        "Police clearance certificate",
+        "Health insurance covering the duration of stay",
+        "Proof of residence in Paraguay"
+      ]
+    },
+    {
+      "visa_name": "Temporary Residence Visa",
+      "nomad_visa": false,
+      "official_government_link": "https://www.mre.gov.py/",
+      "key_consideration": "Allows foreigners to live and work in Paraguay for up to one year, with the possibility of renewal.",
+      "validity_months": 12,
+      "income_requirement": {
+        "currency": "USD",
+        "single_monthly": 1000,
+        "family_monthly": 2000,
+        "misc_details": "Applicants must show proof of sufficient funds or income to support themselves."
+      },
+      "application_timeline_days": 60,
+      "application_in_country": true,
+      "application_fee": {
+        "currency": "USD",
+        "single": 150,
+        "family": 300,
+        "details": "Fee covers the main applicant and dependents."
+      },
+      "dependent_application": true,
+      "local_tax_on_foreign_income": false,
+      "renewability": true,
+      "renewability_details": "The visa can be renewed for another 12 months.",
+      "days_in_country_to_renew_visa": 183,
+      "special_tax_regime": false,
+      "special_tax_regime_details": "",
+      "leads_to_permanent_residence": false,
+      "permanent_residency_details": "Temporary residency does not lead to permanent residency.",
+      "taxes": {
+        "employees": {
+          "income_tax": [
+            {
+              "min_income_range": 0,
+              "max_income_range": 12000000,
+              "rate_pct": 8
+            },
+            {
+              "min_income_range": 12000001,
+              "max_income_range": null,
+              "rate_pct": 10
+            }
+          ],
+          "social_security": [
+            {
+              "min_income_range": 0,
+              "max_income_range": null,
+              "rate_pct": 9
+            }
+          ]
+        },
+        "contractors": {
+          "income_tax": [
+            {
+              "min_income_range": 0,
+              "max_income_range": 12000000,
+              "rate_pct": 8
+            },
+            {
+              "min_income_range": 12000001,
+              "max_income_range": null,
+              "rate_pct": 10
+            }
+          ],
+          "social_security": [
+            {
+              "min_income_range": 0,
+              "max_income_range": null,
+              "rate_pct": 9
+            }
+          ]
+        },
+        "retirees": {
+          "income_tax": [
+            {
+              "min_income_range": 0,
+              "max_income_range": 12000000,
+              "rate_pct": 8
+            },
+            {
+              "min_income_range": 12000001,
+              "max_income_range": null,
+              "rate_pct": 10
+            }
+          ],
+          "social_security": []
+        },
+        "special_regimes": []
+      },
+      "required_documents": [
+        "Valid passport",
+        "Proof of income or funds",
+        "Police clearance certificate",
+        "Health insurance covering the duration of stay",
+        "Proof of residence in Paraguay"
+      ]
+    }
+  ]
+}

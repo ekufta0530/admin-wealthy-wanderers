@@ -1,0 +1,175 @@
+{
+  "country_name": "Guadeloupe",
+  "country_code": "GP",
+  "capital": "Basse-Terre",
+  "display": true,
+  "currency": "EUR",
+  "anchor_country": false,
+  "has_nomad_visa": false,
+  "schengen_zone": false,
+  "in_european_union": false,
+  "cost_of_living_index": 73.23,
+  "cost_of_living_lvl": "$$$$",
+  "practical_tips": {
+    "financial_benefits": [
+      {
+        "benefit": "No Income Tax on Foreign Income",
+        "description": "Guadeloupe does not tax foreign income, making it attractive for digital nomads."
+      },
+      {
+        "benefit": "Euro Currency",
+        "description": "Guadeloupe uses the Euro (EUR), providing a stable financial environment."
+      }
+    ],
+    "lifestyle_benefits": [
+      {
+        "benefit": "Tropical Climate",
+        "description": "Enjoy a warm tropical climate throughout the year in Guadeloupe."
+      },
+      {
+        "benefit": "French-Caribbean Culture",
+        "description": "Experience a rich blend of French and Caribbean cultures, cuisine, and traditions."
+      }
+    ],
+    "additional_benefits": [
+      {
+        "benefit": "French Speaking",
+        "description": "French is the official language, useful for those familiar with the language or seeking to learn."
+      },
+      {
+        "benefit": "Natural Beauty",
+        "description": "Explore stunning beaches, rainforests, and volcanic landscapes across the archipelago."
+      }
+    ]
+  },
+  "key_consideration": "Consider Guadeloupe for its tax benefits on foreign income, Euro currency, and vibrant French-Caribbean lifestyle.",
+  "best_for": [
+    "nature enthusiasts",
+    "French speakers",
+    "culture seekers"
+  ],
+  "action_comment": "Explore Guadeloupe for its unique blend of French culture and Caribbean charm amidst beautiful natural surroundings.",
+  "tagline": "Discover Guadeloupe: Where French elegance meets Caribbean warmth.",
+  "image": "guadeloupe.jpg",
+  "tax_residency_trigger": 183,
+  "tax_residency_trigger_details": "You become a tax resident if you spend 183 days or more in Guadeloupe in a calendar year.",
+  "country_standard_taxes": {
+    "tax_currency": "EUR",
+    "employees": {
+      "income_tax": [],
+      "social_security": []
+    },
+    "contractors": {
+      "income_tax": [],
+      "social_security": []
+    },
+    "retirees": {
+      "income_tax": [],
+      "social_security": []
+    }
+  },
+  "visas": [
+    {
+      "visa_name": "Short Stay Visa",
+      "nomad_visa": false,
+      "official_government_link": "https://www.diplomatie.gouv.fr/en/coming-to-france/getting-a-visa/article/short-stay-visas",
+      "key_consideration": "Allows for stays of up to 90 days within a 180-day period for tourism or business purposes.",
+      "validity_months": 3,
+      "income_requirement": {
+        "currency": "EUR",
+        "single_monthly": 0,
+        "family_monthly": 0,
+        "misc_details": "Proof of sufficient funds to cover expenses during the stay."
+      },
+      "application_timeline_days": 15,
+      "application_in_country": false,
+      "application_fee": {
+        "currency": "EUR",
+        "single": 80,
+        "family": 80,
+        "details": "Fee per applicant, may vary by nationality."
+      },
+      "dependent_application": true,
+      "local_tax_on_foreign_income": false,
+      "renewability": true,
+      "renewability_details": "May be extended in-country under certain circumstances.",
+      "days_in_country_to_renew_visa": 0,
+      "special_tax_regime": false,
+      "special_tax_regime_details": "",
+      "leads_to_permanent_residence": false,
+      "permanent_residency_details": "",
+      "taxes": {
+        "employees": {
+          "income_tax": [],
+          "social_security": []
+        },
+        "contractors": {
+          "income_tax": [],
+          "social_security": []
+        },
+        "retirees": {
+          "income_tax": [],
+          "social_security": []
+        },
+        "special_regimes": []
+      },
+      "required_documents": [
+        "Passport valid for at least 3 months beyond the intended stay",
+        "Proof of accommodation in Guadeloupe",
+        "Travel itinerary",
+        "Health insurance covering the duration of stay"
+      ]
+    },
+    {
+      "visa_name": "Long Stay Visa",
+      "nomad_visa": false,
+      "official_government_link": "https://www.diplomatie.gouv.fr/en/coming-to-france/getting-a-visa/article/long-stay-visas",
+      "key_consideration": "For stays longer than 90 days, required for employment, study, or family reunion.",
+      "validity_months": 12,
+      "income_requirement": {
+        "currency": "EUR",
+        "single_monthly": 1200,
+        "family_monthly": 0,
+        "misc_details": "Proof of sufficient funds to support oneself without relying on public assistance."
+      },
+      "application_timeline_days": 60,
+      "application_in_country": false,
+      "application_fee": {
+        "currency": "EUR",
+        "single": 99,
+        "family": 99,
+        "details": "Fee per applicant, may vary by nationality."
+      },
+      "dependent_application": true,
+      "local_tax_on_foreign_income": false,
+      "renewability": true,
+      "renewability_details": "May be renewed for long-term stays depending on visa category.",
+      "days_in_country_to_renew_visa": 0,
+      "special_tax_regime": false,
+      "special_tax_regime_details": "",
+      "leads_to_permanent_residence": false,
+      "permanent_residency_details": "",
+      "taxes": {
+        "employees": {
+          "income_tax": [],
+          "social_security": []
+        },
+        "contractors": {
+          "income_tax": [],
+          "social_security": []
+        },
+        "retirees": {
+          "income_tax": [],
+          "social_security": []
+        },
+        "special_regimes": []
+      },
+      "required_documents": [
+        "Valid passport with at least 1 year validity",
+        "Proof of accommodation in Guadeloupe",
+        "Proof of sufficient funds (bank statements)",
+        "Medical certificate"
+      ]
+    }
+  ]
+}

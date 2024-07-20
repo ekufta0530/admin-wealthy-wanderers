@@ -1,0 +1,232 @@
+{
+  "country_name": "Taiwan",
+  "country_code": "TW",
+  "capital": "Taipei",
+  "display": true,
+  "currency": "TWD",
+  "anchor_country": false,
+  "has_nomad_visa": false,
+  "schengen_zone": false,
+  "in_european_union": false,
+  "cost_of_living_index": 49,
+  "cost_of_living_lvl": "$$$",
+  "practical_tips": {
+    "financial_benefits": [
+      {
+        "benefit": "Low Personal Tax Rates",
+        "description": "Taiwan offers competitive personal income tax rates, making it attractive for remote workers and expatriates."
+      },
+      {
+        "benefit": "Affordable Healthcare",
+        "description": "Access to affordable and high-quality healthcare services for residents."
+      }
+    ],
+    "lifestyle_benefits": [
+      {
+        "benefit": "Safe and Clean Environment",
+        "description": "Taiwan is known for its safety, cleanliness, and efficient public services."
+      },
+      {
+        "benefit": "Rich Cultural Heritage",
+        "description": "Experience a blend of traditional Chinese culture, modern influences, and vibrant festivals."
+      }
+    ],
+    "additional_benefits": [
+      {
+        "benefit": "English Proficiency",
+        "description": "English is widely spoken, especially in business and tourism sectors."
+      },
+      {
+        "benefit": "Excellent Public Transport",
+        "description": "Efficient and extensive public transportation network across the island."
+      }
+    ]
+  },
+  "key_consideration": "Foreigners are subject to Taiwan's income tax if they reside for 183 days or more in a tax year, or if their residence is deemed to be in Taiwan for over 183 days in a tax year.",
+  "best_for": [
+    "entrepreneurs",
+    "tech professionals",
+    "culture enthusiasts"
+  ],
+  "action_comment": "Consider Taiwan for its dynamic tech scene, rich cultural heritage, and favorable tax environment.",
+  "tagline": "Explore innovation and tradition in Taiwan.",
+  "image": "taiwan.jpg",
+  "tax_residency_trigger": 183,
+  "tax_residency_trigger_details": "You are considered a tax resident in Taiwan if you stay for 183 days or more in a calendar year.",
+  "country_standard_taxes": {
+    "tax_currency": "TWD",
+    "employees": {
+      "income_tax": [
+        {
+          "min_income_range": 0,
+          "max_income_range": 560000,
+          "rate_pct": 5
+        },
+        {
+          "min_income_range": 560001,
+          "max_income_range": 1260000,
+          "rate_pct": 12
+        },
+        {
+          "min_income_range": 1260001,
+          "max_income_range": 2520000,
+          "rate_pct": 20
+        },
+        {
+          "min_income_range": 2520001,
+          "max_income_range": 4720000,
+          "rate_pct": 30
+        },
+        {
+          "min_income_range": 4720001,
+          "max_income_range": null,
+          "rate_pct": 40
+        }
+      ],
+      "social_security": []
+    },
+    "contractors": {
+      "income_tax": [
+        {
+          "min_income_range": 0,
+          "max_income_range": null,
+          "rate_pct": 18
+        }
+      ],
+      "social_security": []
+    },
+    "retirees": {
+      "income_tax": [
+        {
+          "min_income_range": 0,
+          "max_income_range": 540000,
+          "rate_pct": 5
+        },
+        {
+          "min_income_range": 540001,
+          "max_income_range": 1210000,
+          "rate_pct": 12
+        },
+        {
+          "min_income_range": 1210001,
+          "max_income_range": 2420000,
+          "rate_pct": 20
+        },
+        {
+          "min_income_range": 2420001,
+          "max_income_range": 4530000,
+          "rate_pct": 30
+        },
+        {
+          "min_income_range": 4530001,
+          "max_income_range": null,
+          "rate_pct": 40
+        }
+      ],
+      "social_security": []
+    }
+  },
+  "visas": [
+    {
+      "visa_name": "Employment Gold Card",
+      "nomad_visa": true,
+      "official_government_link": "https://foreigntalentact.nia.gov.tw/foreigntalent/index",
+      "key_consideration": "Provides a streamlined process for skilled professionals and entrepreneurs to live and work in Taiwan.",
+      "validity_months": 36,
+      "income_requirement": {
+        "currency": "TWD",
+        "single_monthly": 160000,
+        "family_monthly": 160000,
+        "misc_details": "Income requirements vary based on applicant qualifications and job type."
+      },
+      "application_timeline_days": 30,
+      "application_in_country": true,
+      "application_fee": {
+        "currency": "TWD",
+        "single": 10000,
+        "family": 10000,
+        "details": "Application fee varies based on the applicant's circumstances and visa duration."
+      },
+      "dependent_application": true,
+      "local_tax_on_foreign_income": true,
+      "renewability": true,
+      "renewability_details": "The Gold Card can be renewed based on continued employment or contribution to Taiwan's economy.",
+      "days_in_country_to_renew_visa": 0,
+      "special_tax_regime": false,
+      "special_tax_regime_details": "",
+      "leads_to_permanent_residence": true,
+      "permanent_residency_details": "Gold Card holders are eligible to apply for permanent residency after meeting specific criteria, including continuous residence and economic contribution.",
+      "taxes": {
+        "employees": {
+          "income_tax": [],
+          "social_security": []
+        },
+        "contractors": {
+          "income_tax": [],
+          "social_security": []
+        },
+        "retirees": {
+          "income_tax": [],
+          "social_security": []
+        },
+        "special_regimes": []
+      },
+      "required_documents": [
+        "Passport with valid visa",
+        "Employment contract or offer letter",
+        "Educational certificates and professional qualifications"
+      ]
+    },
+    {
+      "visa_name": "Entrepreneur Visa",
+      "nomad_visa": false,
+      "official_government_link": "https://foreigntalentact.nia.gov.tw/foreigntalent/index",
+      "key_consideration": "For foreign entrepreneurs wishing to start and operate a business in Taiwan. Must meet certain investment and business requirements.",
+      "validity_months": 36,
+      "income_requirement": {
+        "currency": "TWD",
+        "single_monthly": 0,
+        "family_monthly": 0,
+        "misc_details": "Evaluated based on business plan, investment amount, and potential economic impact."
+      },
+      "application_timeline_days": 30,
+      "application_in_country": true,
+      "application_fee": {
+        "currency": "TWD",
+        "single": 10000,
+        "family": 10000,
+        "details": "Application fee varies based on the applicant's circumstances and visa duration."
+      },
+      "dependent_application": true,
+      "local_tax_on_foreign_income": true,
+      "renewability": true,
+      "renewability_details": "Renewable based on business performance and contribution to Taiwan's economy.",
+      "days_in_country_to_renew_visa": 0,
+      "special_tax_regime": false,
+      "special_tax_regime_details": "",
+      "leads_to_permanent_residence": true,
+      "permanent_residency_details": "Entrepreneurs can apply for permanent residency after fulfilling residency and business contribution requirements.",
+      "taxes": {
+        "employees": {
+          "income_tax": [],
+          "social_security": []
+        },
+        "contractors": {
+          "income_tax": [],
+          "social_security": []
+        },
+        "retirees": {
+          "income_tax": [],
+          "social_security": []
+        },
+        "special_regimes": []
+      },
+      "required_documents": [
+        "Passport with valid visa",
+        "Detailed business plan",
+        "Financial statements and evidence of business investment"
+      ]
+    }
+  ]
+}
+
