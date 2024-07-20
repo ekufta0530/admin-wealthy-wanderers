@@ -1,0 +1,281 @@
+{
+  "country_name": "Canada",
+  "country_code": "CA",
+  "capital": "Ottawa",
+  "display": true,
+  "currency": "CAD",
+  "anchor_country": true,
+  "has_nomad_visa": true,
+  "schengen_zone": false,
+  "in_european_union": false,
+  "cost_of_living_index": 68.4,
+  "cost_of_living_lvl": "$$$$",
+  "practical_tips": {
+    "financial_benefits": [
+      {
+        "benefit": "Varied Tax Benefits",
+        "description": "Canada offers various tax credits and deductions, including the ability to claim foreign tax credits."
+      },
+      {
+        "benefit": "Stable Economy",
+        "description": "The Canadian Dollar (CAD) provides a stable financial environment, supported by a diverse economy."
+      }
+    ],
+    "lifestyle_benefits": [
+      {
+        "benefit": "Diverse Culture",
+        "description": "Experience a multicultural society with vibrant arts, food, and festivals across different provinces."
+      },
+      {
+        "benefit": "Natural Beauty",
+        "description": "Enjoy stunning landscapes, including national parks, mountains, and coastlines."
+      }
+    ],
+    "additional_benefits": [
+      {
+        "benefit": "English and French Speaking",
+        "description": "English and French are Canada's official languages, facilitating communication and integration."
+      },
+      {
+        "benefit": "High Quality of Life",
+        "description": "Canada consistently ranks high in quality of life indices, offering healthcare and education benefits."
+      }
+    ]
+  },
+  "key_consideration": "Canada's tax system may require filing taxes on worldwide income for residents, but various deductions and credits can mitigate tax liabilities.",
+  "best_for": [
+    "nature enthusiasts",
+    "culture seekers",
+    "professionals"
+  ],
+  "action_comment": "Explore Canada for its cultural diversity, natural beauty, and robust economic opportunities across its provinces.",
+  "tagline": "Discover Canada: A country of diverse landscapes and multicultural experiences.",
+  "image": "canada.jpg",
+  "tax_residency_trigger": 183,
+  "tax_residency_trigger_details": "You become a tax resident if you spend 183 days or more in Canada in a calendar year.",
+  "country_standard_taxes": {
+    "tax_currency": "CAD",
+    "employees": {
+      "income_tax": [
+        {
+          "min_income_range": 0,
+          "max_income_range": 50197,
+          "rate_pct": 15
+        },
+        {
+          "min_income_range": 50195,
+          "max_income_range": 100392,
+          "rate_pct": 20.5
+        },
+        {
+          "min_income_range": 100392,
+          "max_income_range": 155625,
+          "rate_pct": 26
+        },
+        {
+          "min_income_range": 155625,
+          "max_income_range": 221708,
+          "rate_pct": 29
+        }
+      ],
+      "social_security": [
+        {
+          "min_income_range": 3500,
+          "max_income_range": 59500,
+          "rate_pct": 5.25
+        },
+        {
+          "min_income_range": 59500,
+          "max_income_range": -1,
+          "rate_pct": 6.85
+        }
+      ]
+    },
+    "contractors": {
+      "income_tax": [
+        {
+          "min_income_range": 0,
+          "max_income_range": 49020,
+          "rate_pct": 15
+        },
+        {
+          "min_income_range": 49020,
+          "max_income_range": 98040,
+          "rate_pct": 20.5
+        },
+        {
+          "min_income_range": 98040,
+          "max_income_range": 151978,
+          "rate_pct": 26
+        },
+        {
+          "min_income_range": 151978,
+          "max_income_range": 216511,
+          "rate_pct": 29
+        },
+        {
+          "min_income_range": 216511,
+          "max_income_range": -1,
+          "rate_pct": 33
+        }
+      ],
+      "social_security": [
+        {
+          "min_income_range": 3500,
+          "max_income_range": 59500,
+          "rate_pct": 5.25
+        },
+        {
+          "min_income_range": 59500,
+          "max_income_range": -1,
+          "rate_pct": 6.85
+        }
+      ]
+    },
+    "retirees": {
+      "income_tax": [
+        {
+          "min_income_range": 0,
+          "max_income_range": 49020,
+          "rate_pct": 15
+        },
+        {
+          "min_income_range": 49020,
+          "max_income_range": 98040,
+          "rate_pct": 20.5
+        },
+        {
+          "min_income_range": 98040,
+          "max_income_range": 151978,
+          "rate_pct": 26
+        },
+        {
+          "min_income_range": 151978,
+          "max_income_range": 216511,
+          "rate_pct": 29
+        },
+        {
+          "min_income_range": 216511,
+          "max_income_range": -1,
+          "rate_pct": 33
+        }
+      ],
+      "social_security": [
+        {
+          "min_income_range": 3500,
+          "max_income_range": 59500,
+          "rate_pct": 5.25
+        },
+        {
+          "min_income_range": 59500,
+          "max_income_range": -1,
+          "rate_pct": 6.85
+        }
+      ]
+    }
+  },
+  "visas": [
+    {
+      "visa_name": "Nomad Visa (Visitor Visa)",
+      "nomad_visa": true,
+      "official_government_link": "https://ircc.canada.ca/english/visit/visas.asp",
+      "key_consideration": "Allows for short-term stays for tourism, visiting family, or business purposes.",
+      "validity_months": 6,
+      "income_requirement": {
+        "currency": "CAD",
+        "single_monthly": 0,
+        "family_monthly": 0,
+        "misc_details": "Proof of funds to cover expenses during the stay."
+      },
+      "application_timeline_days": 30,
+      "application_in_country": false,
+      "application_fee": {
+        "currency": "CAD",
+        "single": 100,
+        "family": 500,
+        "details": "Fee per applicant, may vary by nationality."
+      },
+      "dependent_application": true,
+      "local_tax_on_foreign_income": false,
+      "renewability": true,
+      "renewability_details": "May be extended or re-applied for multiple entries.",
+      "days_in_country_to_renew_visa": 0,
+      "special_tax_regime": false,
+      "special_tax_regime_details": "",
+      "leads_to_permanent_residence": false,
+      "permanent_residency_details": "",
+      "taxes": {
+        "employees": {
+          "income_tax": [],
+          "social_security": []
+        },
+        "contractors": {
+          "income_tax": [],
+          "social_security": []
+        },
+        "retirees": {
+          "income_tax": [],
+          "social_security": []
+        },
+        "special_regimes": []
+      },
+      "required_documents": [
+        "Passport valid for at least 6 months beyond the intended stay",
+        "Proof of sufficient funds (bank statements)",
+        "Travel itinerary",
+        "Letter of invitation (if visiting family/friends)"
+      ]
+    },
+    {
+      "visa_name": "Express Entry (Permanent Residence)",
+      "nomad_visa": false,
+      "official_government_link": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry.html",
+      "key_consideration": "For skilled workers and professionals who want to settle permanently in Canada.",
+      "validity_months": 60,
+      "income_requirement": {
+        "currency": "CAD",
+        "single_monthly": 0,
+        "family_monthly": 0,
+        "misc_details": "Proof of funds to support settlement."
+      },
+      "application_timeline_days": 180,
+      "application_in_country": false,
+      "application_fee": {
+        "currency": "CAD",
+        "single": 1325,
+        "family": 1325,
+        "details": "Processing fee per applicant, additional fees for dependents."
+      },
+      "dependent_application": true,
+      "local_tax_on_foreign_income": false,
+      "renewability": false,
+      "renewability_details": "",
+      "days_in_country_to_renew_visa": 0,
+      "special_tax_regime": false,
+      "special_tax_regime_details": "",
+      "leads_to_permanent_residence": true,
+      "permanent_residency_details": "Leads to permanent residency and potential citizenship after meeting residency requirements.",
+      "taxes": {
+        "employees": {
+          "income_tax": [],
+          "social_security": []
+        },
+        "contractors": {
+          "income_tax": [],
+          "social_security": []
+        },
+        "retirees": {
+          "income_tax": [],
+          "social_security": []
+        },
+        "special_regimes": []
+      },
+      "required_documents": [
+        "Language test results (English or French)",
+        "Education credential assessment report (if applicable)",
+        "Police certificates and other background checks",
+        "Proof of funds"
+      ]
+    }
+  ]
+}

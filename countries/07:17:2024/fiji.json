@@ -1,0 +1,251 @@
+{
+  "country_name": "Fiji",
+  "country_code": "FJ",
+  "capital": "Suva",
+  "display": true,
+  "currency": "FJD",
+  "anchor_country": false,
+  "has_nomad_visa": false,
+  "schengen_zone": false,
+  "in_european_union": false,
+  "cost_of_living_index": 34.8,
+  "cost_of_living_lvl": "$$",
+  "practical_tips": {
+    "financial_benefits": [
+      {
+        "benefit": "Low Personal Taxation",
+        "description": "Fiji offers low personal income tax rates, which can be beneficial for residents."
+      },
+      {
+        "benefit": "Affordable Cost of Living",
+        "description": "Enjoy a relatively affordable cost of living compared to many Western countries."
+      }
+    ],
+    "lifestyle_benefits": [
+      {
+        "benefit": "Tropical Paradise",
+        "description": "Experience a tropical climate with beautiful beaches and lush landscapes."
+      },
+      {
+        "benefit": "Friendly Locals",
+        "description": "Fijians are known for their hospitality and welcoming nature towards expatriates."
+      }
+    ],
+    "additional_benefits": [
+      {
+        "benefit": "English Speaking",
+        "description": "English is widely spoken, facilitating communication for foreign residents."
+      },
+      {
+        "benefit": "Cultural Diversity",
+        "description": "Explore a rich cultural heritage with influences from Melanesian, Polynesian, Indian, and European traditions."
+      }
+    ]
+  },
+  "key_consideration": "Foreign nationals must obtain a work permit to legally work in Fiji.",
+  "best_for": [
+    "beach enthusiasts",
+    "nature lovers",
+    "culture explorers"
+  ],
+  "action_comment": "Consider Fiji for its tropical beauty, friendly atmosphere, and favorable tax environment.",
+  "tagline": "Discover the tropical paradise of Fiji.",
+  "image": "fiji.jpg",
+  "tax_residency_trigger": 183,
+  "tax_residency_trigger_details": "You are considered a tax resident if you reside in Fiji for more than 183 days in a calendar year.",
+  "country_standard_taxes": {
+    "tax_currency": "FJD",
+    "employees": {
+      "income_tax": [
+        {
+          "min_income_range": 0,
+          "max_income_range": 27000,
+          "rate_pct": 0
+        },
+        {
+          "min_income_range": 27001,
+          "max_income_range": 54000,
+          "rate_pct": 7
+        },
+        {
+          "min_income_range": 54001,
+          "max_income_range": 108000,
+          "rate_pct": 16
+        },
+        {
+          "min_income_range": 108001,
+          "max_income_range": null,
+          "rate_pct": 20
+        }
+      ],
+      "social_security": []
+    },
+    "contractors": {
+      "income_tax": [
+        {
+          "min_income_range": 0,
+          "max_income_range": 27000,
+          "rate_pct": 0
+        },
+        {
+          "min_income_range": 27001,
+          "max_income_range": 54000,
+          "rate_pct": 7
+        },
+        {
+          "min_income_range": 54001,
+          "max_income_range": 108000,
+          "rate_pct": 16
+        },
+        {
+          "min_income_range": 108001,
+          "max_income_range": null,
+          "rate_pct": 20
+        }
+      ],
+      "social_security": []
+    },
+    "retirees": {
+      "income_tax": [
+        {
+          "min_income_range": 0,
+          "max_income_range": 27000,
+          "rate_pct": 0
+        },
+        {
+          "min_income_range": 27001,
+          "max_income_range": 54000,
+          "rate_pct": 7
+        },
+        {
+          "min_income_range": 54001,
+          "max_income_range": 108000,
+          "rate_pct": 16
+        },
+        {
+          "min_income_range": 108001,
+          "max_income_range": null,
+          "rate_pct": 20
+        }
+      ],
+      "social_security": []
+    }
+  },
+  "visas": [
+    {
+      "visa_name": "Work Permit",
+      "nomad_visa": false,
+      "official_government_link": "https://www.immigration.gov.fj/",
+      "key_consideration": "Required for foreigners seeking employment or engaging in business activities in Fiji.",
+      "validity_months": 12,
+      "income_requirement": {
+        "currency": "FJD",
+        "single_monthly": 2500,
+        "family_monthly": 5000,
+        "misc_details": "Proof of sufficient funds or employment offer to support oneself and dependents."
+      },
+      "application_timeline_days": 30,
+      "application_in_country": true,
+      "application_fee": {
+        "currency": "FJD",
+        "single": 220,
+        "family": 440,
+        "details": "Fee varies based on visa type and duration."
+      },
+      "dependent_application": true,
+      "local_tax_on_foreign_income": false,
+      "renewability": true,
+      "renewability_details": "Work permits can be renewed within Fiji.",
+      "days_in_country_to_renew_visa": 30,
+      "special_tax_regime": false,
+      "special_tax_regime_details": "",
+      "leads_to_permanent_residence": true,
+      "permanent_residency_details": "Eligible for permanent residency after 5 years of continuous legal residence in Fiji.",
+      "taxes": {
+        "employees": {
+          "income_tax": [
+            {
+              "min_income_range": 0,
+              "max_income_range": 27000,
+              "rate_pct": 0
+            },
+            {
+              "min_income_range": 27001,
+              "max_income_range": 54000,
+              "rate_pct": 7
+            },
+            {
+              "min_income_range": 54001,
+              "max_income_range": 108000,
+              "rate_pct": 16
+            },
+            {
+              "min_income_range": 108001,
+              "max_income_range": null,
+              "rate_pct": 20
+            }
+          ],
+          "social_security": []
+        },
+        "contractors": {
+          "income_tax": [
+            {
+              "min_income_range": 0,
+              "max_income_range": 27000,
+              "rate_pct": 0
+            },
+            {
+              "min_income_range": 27001,
+              "max_income_range": 54000,
+              "rate_pct": 7
+            },
+            {
+              "min_income_range": 54001,
+              "max_income_range": 108000,
+              "rate_pct": 16
+            },
+            {
+              "min_income_range": 108001,
+              "max_income_range": null,
+              "rate_pct": 20
+            }
+          ],
+          "social_security": []
+        },
+        "retirees": {
+          "income_tax": [
+            {
+              "min_income_range": 0,
+              "max_income_range": 27000,
+              "rate_pct": 0
+            },
+            {
+              "min_income_range": 27001,
+              "max_income_range": 54000,
+              "rate_pct": 7
+            },
+            {
+              "min_income_range": 54001,
+              "max_income_range": 108000,
+              "rate_pct": 16
+            },
+            {
+              "min_income_range": 108001,
+              "max_income_range": null,
+              "rate_pct": 20
+            }
+          ],
+          "social_security": []
+        },
+        "special_regimes": []
+      },
+      "required_documents": [
+        "Valid passport",
+        "Passport-sized photograph",
+        "Proof of employment or business registration in Fiji",
+        "Bank statements showing sufficient funds",
+        "Health insurance covering the duration of stay"
+      ]
+    }
+  ]
+}

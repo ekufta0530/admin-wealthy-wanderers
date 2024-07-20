@@ -1,0 +1,167 @@
+{
+  "country_name": "Tonga",
+  "country_code": "TO",
+  "capital": "Nuku'alofa",
+  "display": true,
+  "currency": "TOP",
+  "anchor_country": false,
+  "has_nomad_visa": false,
+  "schengen_zone": false,
+  "in_european_union": false,
+  "cost_of_living_index": 50.5,
+  "cost_of_living_lvl": "$$",
+  "practical_tips": {
+    "financial_benefits": [
+      {
+        "benefit": "Low Personal Taxation",
+        "description": "Tonga offers a low tax regime with no personal income tax, making it appealing for investors and expatriates."
+      },
+      {
+        "benefit": "Affordable Living Costs",
+        "description": "Enjoy a relatively low cost of living compared to many Western countries."
+      }
+    ],
+    "lifestyle_benefits": [
+      {
+        "benefit": "Island Paradise",
+        "description": "Experience the charm of a Pacific island with pristine beaches and a relaxed lifestyle."
+      },
+      {
+        "benefit": "Cultural Richness",
+        "description": "Explore Tongan traditions, music, and festivals showcasing Polynesian heritage."
+      }
+    ],
+    "additional_benefits": [
+      {
+        "benefit": "English Language",
+        "description": "English is widely spoken, alongside Tongan, facilitating communication for international residents."
+      },
+      {
+        "benefit": "Warm Climate",
+        "description": "Enjoy a warm tropical climate year-round, ideal for outdoor activities."
+      }
+    ]
+  },
+  "key_consideration": "Tonga does not offer specific digital nomad visas; long-term stays may require appropriate visa arrangements or residency permits.",
+  "best_for": [
+    "nature lovers",
+    "culture enthusiasts",
+    "adventurers"
+  ],
+  "action_comment": "Consider Tonga for its relaxed lifestyle, cultural richness, and favorable tax environment.",
+  "tagline": "Discover paradise in Tonga.",
+  "image": "tonga.jpg",
+  "tax_residency_trigger": 183,
+  "tax_residency_trigger_details": "You are considered a tax resident if you spend more than 183 days in Tonga in a calendar year.",
+  "country_standard_taxes": {
+    "tax_currency": "TOP",
+    "employees": {
+      "income_tax": [],
+      "social_security": []
+    },
+    "contractors": {
+      "income_tax": [],
+      "social_security": []
+    },
+    "retirees": {
+      "income_tax": [],
+      "social_security": []
+    }
+  },
+  "visas": [
+    {
+      "visa_name": "Visitor Visa",
+      "nomad_visa": false,
+      "official_government_link": "https://www.tonga-travel.to/visa.html",
+      "key_consideration": "Allows for short-term stays for tourism and business purposes.",
+      "validity_months": 3,
+      "income_requirement": {
+        "currency": "TOP",
+        "single_monthly": 0,
+        "family_monthly": 0,
+        "misc_details": "No specific income requirements for visitor visas; proof of sufficient funds for stay may be requested."
+      },
+      "application_timeline_days": 30,
+      "application_in_country": true,
+      "application_fee": {
+        "currency": "TOP",
+        "single": 80,
+        "family": 160,
+        "details": "Application fee varies based on nationality and type of visa applied for."
+      },
+      "dependent_application": true,
+      "local_tax_on_foreign_income": false,
+      "renewability": true,
+      "renewability_details": "Visitor visas can typically be extended for longer stays upon application.",
+      "days_in_country_to_renew_visa": 0,
+      "special_tax_regime": false,
+      "special_tax_regime_details": "",
+      "leads_to_permanent_residence": false,
+      "permanent_residency_details": "Visitor visas do not lead to permanent residency or citizenship.",
+      "taxes": {
+        "employees": {
+          "income_tax": [],
+          "social_security": []
+        },
+        "contractors": {
+          "income_tax": [],
+          "social_security": []
+        },
+        "retirees": {
+          "income_tax": [],
+          "social_security": []
+        },
+        "special_regimes": []
+      },
+      "required_documents": [
+        "Valid passport",
+        "Proof of sufficient funds for stay",
+        "Return ticket or onward travel itinerary",
+        "Proof of accommodation in Tonga"
+      ]
+    },
+    {
+      "visa_name": "Long Term Residence Permit",
+      "nomad_visa": false,
+      "type": "long term",
+      "key_consideration": "For individuals seeking to reside in Tonga for an extended period; requirements include financial stability and medical clearance.",
+      "special_tax_regime": false,
+      "application_timeline_days": 90,
+      "application_in_country": true,
+      "application_fee": {
+        "currency": "TOP",
+        "single": 150,
+        "family": 300,
+        "details": "Fee covers processing costs for residence permits."
+      },
+      "dependent_application": true,
+      "local_tax_on_foreign_income": false,
+      "renewability": true,
+      "renewability_details": "Residence permits are renewable based on continued fulfillment of eligibility criteria.",
+      "days_in_country_to_renew_visa": 0,
+      "permanent_residency_details": "Long-term residence permits can lead to permanent residency after a specified period.",
+      "taxes": {
+        "employees": {
+          "income_tax": [],
+          "social_security": []
+        },
+        "contractors": {
+          "income_tax": [],
+          "social_security": []
+        },
+        "retirees": {
+          "income_tax": [],
+          "social_security": []
+        },
+        "special_regimes": []
+      },
+      "required_documents": [
+        "Valid passport",
+        "Proof of sufficient financial means to support stay",
+        "Medical clearance certificate",
+        "Police clearance certificate from home country"
+      ]
+    }
+  ]
+}
+

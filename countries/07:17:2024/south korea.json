@@ -1,0 +1,262 @@
+{
+  "country_name": "South Korea",
+  "country_code": "KR",
+  "capital": "Seoul",
+  "display": true,
+  "currency": "KRW",
+  "anchor_country": true,
+  "has_nomad_visa": true,
+  "schengen_zone": false,
+  "in_european_union": false,
+  "cost_of_living_index": 64.4,
+  "cost_of_living_lvl": "$$$$",
+  "practical_tips": {
+    "financial_benefits": [
+      {
+        "benefit": "High Earning Potential",
+        "description": "South Korea offers competitive salaries, especially in sectors like technology and finance."
+      },
+      {
+        "benefit": "Advanced Banking System",
+        "description": "The country has a sophisticated banking system with easy access to international transactions."
+      }
+    ],
+    "lifestyle_benefits": [
+      {
+        "benefit": "Modern Infrastructure",
+        "description": "Enjoy advanced infrastructure with efficient public transportation and modern amenities."
+      },
+      {
+        "benefit": "Cultural Richness",
+        "description": "Explore a rich cultural heritage, from ancient palaces to vibrant festivals and cuisine."
+      }
+    ],
+    "additional_benefits": [
+      {
+        "benefit": "Safe Environment",
+        "description": "South Korea is known for its safety and low crime rates, providing a secure living environment."
+      },
+      {
+        "benefit": "Tech-Savvy Society",
+        "description": "Experience one of the most technologically advanced societies globally, fostering innovation."
+      }
+    ]
+  },
+  "key_consideration": "Foreigners in South Korea are subject to income tax on both local and foreign-sourced income, with rates varying based on income levels.",
+  "best_for": [
+    "career professionals",
+    "tech enthusiasts",
+    "culture aficionados"
+  ],
+  "action_comment": "Consider South Korea for its dynamic economy, advanced infrastructure, and rich cultural experiences.",
+  "tagline": "Experience innovation and tradition in South Korea.",
+  "image": "south_korea.jpg",
+  "tax_residency_trigger": 183,
+  "tax_residency_trigger_details": "You are considered a tax resident in South Korea if you reside for more than 183 days in a calendar year or if your principal place of business is located in Korea.",
+  "country_standard_taxes": {
+    "tax_currency": "KRW",
+    "employees": {
+      "income_tax": [
+        {
+          "min_income_range": 0,
+          "max_income_range": 12000000,
+          "rate_pct": 6.6
+        },
+        {
+          "min_income_range": 12000001,
+          "max_income_range": 46000000,
+          "rate_pct": 16
+        },
+        {
+          "min_income_range": 46000001,
+          "max_income_range": 88000000,
+          "rate_pct": 26.4
+        },
+        {
+          "min_income_range": 88000001,
+          "max_income_range": 150000000,
+          "rate_pct": 38.5
+        },
+        {
+          "min_income_range": 150000001,
+          "max_income_range": 300000000,
+          "rate_pct": 41.8
+        },
+        {
+          "min_income_range": 300000001,
+          "max_income_range": 500000000,
+          "rate_pct": 44
+        },
+        {
+          "min_income_range": 500000001,
+          "max_income_range": 1000000000,
+          "rate_pct": 46.2
+        },
+        {
+          "min_income_range": 1000000000,
+          "max_income_range": null,
+          "rate_pct": 49.5
+        }
+
+      ],
+      "social_security": []
+    },
+    "contractors": {
+      "income_tax": [
+        {
+          "min_income_range": 0,
+          "max_income_range": 12000000,
+          "rate_pct": 6
+        },
+        {
+          "min_income_range": 12000001,
+          "max_income_range": 46000000,
+          "rate_pct": 15
+        },
+        {
+          "min_income_range": 46000001,
+          "max_income_range": 88000000,
+          "rate_pct": 24
+        },
+        {
+          "min_income_range": 88000001,
+          "max_income_range": 150000000,
+          "rate_pct": 35
+        },
+        {
+          "min_income_range": 150000001,
+          "max_income_range": null,
+          "rate_pct": 38
+        }
+      ],
+      "social_security": []
+    },
+    "retirees": {
+      "income_tax": [
+        {
+          "min_income_range": 0,
+          "max_income_range": 45000000,
+          "rate_pct": 6
+        },
+        {
+          "min_income_range": 45000001,
+          "max_income_range": 90000000,
+          "rate_pct": 15
+        },
+        {
+          "min_income_range": 90000001,
+          "max_income_range": 150000000,
+          "rate_pct": 24
+        },
+        {
+          "min_income_range": 150000001,
+          "max_income_range": null,
+          "rate_pct": 38
+        }
+      ],
+      "social_security": []
+    }
+  },
+  "visas": [
+    {
+      "visa_name": "Employment Visa (E-7)",
+      "nomad_visa": true,
+      "official_government_link": "https://www.hikorea.go.kr/pt/main_en.pt",
+      "key_consideration": "Allows foreign nationals to work in South Korea under specific job categories, such as professors, foreign language instructors, and technology experts.",
+      "validity_months": 12,
+      "income_requirement": {
+        "currency": "KRW",
+        "single_monthly": 0,
+        "family_monthly": 0,
+        "misc_details": "Depends on the employment contract and job category; no specific income threshold for the E-7 visa."
+      },
+      "application_timeline_days": 15,
+      "application_in_country": true,
+      "application_fee": {
+        "currency": "KRW",
+        "single": 60000,
+        "family": 0,
+        "details": "Application fee for each E-7 visa application."
+      },
+      "dependent_application": true,
+      "local_tax_on_foreign_income": true,
+      "renewability": true,
+      "renewability_details": "E-7 visa can be renewed based on continued employment and meeting visa requirements.",
+      "days_in_country_to_renew_visa": 0,
+      "special_tax_regime": false,
+      "special_tax_regime_details": "",
+      "leads_to_permanent_residence": true,
+      "permanent_residency_details": "E-7 visa holders can apply for permanent residency after fulfilling the residency period and meeting the requirements.",
+      "taxes": {
+        "employees": {
+          "income_tax": [],
+          "social_security": []
+        },
+        "contractors": {
+          "income_tax": [],
+          "social_security": []
+        },
+        "retirees": {
+          "income_tax": [],
+          "social_security": []
+        },
+        "special_regimes": []
+      },
+      "required_documents": [
+        "Passport with valid visa",
+        "Employment contract or offer letter",
+        "Education and professional credentials"
+      ]
+    },
+    {
+      "visa_name": "Investment Visa (D-8)",
+      "nomad_visa": false,
+      "official_government_link": "https://www.investkorea.org/en/whykorea/visainfo.do",
+      "key_consideration": "For foreign investors looking to establish or invest in a business in South Korea.",
+      "validity_months": 24,
+      "income_requirement": {
+        "currency": "KRW",
+        "single_monthly": 0,
+        "family_monthly": 0,
+        "misc_details": "Depends on the investment amount and business plan submitted with the visa application."
+      },
+      "application_timeline_days": 30,
+      "application_in_country": true,
+      "application_fee": {
+        "currency": "KRW",
+        "single": 130000,
+        "family": 0,
+        "details": "Application fee for each D-8 visa application."
+      },
+      "dependent_application": true,
+      "local_tax_on_foreign_income": true,
+      "renewability": true,
+      "renewability_details": "D-8 visa can be renewed based on continued investment and meeting visa requirements.",
+      "days_in_country_to_renew_visa": 0,
+      "special_tax_regime": false,
+      "special_tax_regime_details": "",
+      "leads_to_permanent_residence": true,
+      "permanent_residency_details": "D-8 visa holders can apply for permanent residency after fulfilling the residency period and meeting the requirements.",
+      "taxes": {
+        "employees": {
+          "income_tax": [],
+          "social_security": []
+        },
+        "contractors": {
+          "income_tax": [],
+          "social_security": []
+        },
+        "retirees": {
+          "income_tax": [],
+          "social_security": []
+        },
+        "special_regimes": []
+      },
+      "required_documents": [
+        "Passport with valid visa",
+        "Detailed business plan or investment proposal",
+        "Financial statements and evidence of investment funds"
+      ]
+    }
+  ]
+}

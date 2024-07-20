@@ -1,0 +1,304 @@
+{
+  "country_name": "Switzerland",
+  "country_code": "CH",
+  "capital": "Bern",
+  "display": true,
+  "currency": "CHF",
+  "anchor_country": false,
+  "has_nomad_visa": false,
+  "schengen_zone": true,
+  "in_european_union": false,
+  "cost_of_living_index": 112.2,
+  "cost_of_living_lvl": "$$$$",
+  "practical_tips": {
+    "financial_benefits": [
+      {
+        "benefit": "High Wages",
+        "description": "Switzerland offers some of the highest wages globally, contributing to a high standard of living."
+      },
+      {
+        "benefit": "Strong Economy",
+        "description": "Switzerland has a stable and prosperous economy, offering a secure environment for work and business."
+      }
+    ],
+    "lifestyle_benefits": [
+      {
+        "benefit": "Scenic Beauty",
+        "description": "Enjoy stunning landscapes with mountains, lakes, and picturesque villages."
+      },
+      {
+        "benefit": "High Quality of Life",
+        "description": "Switzerland provides excellent healthcare, education, and public services."
+      }
+    ],
+    "additional_benefits": [
+      {
+        "benefit": "Multilingualism",
+        "description": "Switzerland is multilingual, with German, French, Italian, and Romansh spoken, along with English in business and tourism."
+      },
+      {
+        "benefit": "Safety and Security",
+        "description": "Switzerland is known for its safety, low crime rates, and stable political environment."
+      }
+    ]
+  },
+  "key_consideration": "Switzerland has no specific digital nomad visa, but offers various work permit options based on employment, self-employment, or business activities.",
+  "best_for": [
+    "contractors",
+    "retirees"
+  ],
+  "action_comment": "Consider Switzerland for its high standard of living, scenic beauty, and strong economy, though work permit processes can be complex.",
+  "tagline": "Experience the beauty and prosperity of Switzerland.",
+  "image": "switzerland.jpg",
+  "tax_residency_trigger": 180,
+  "tax_residency_trigger_details": "You are considered a tax resident if you spend more than 180 days in Switzerland in a calendar year.",
+  "country_standard_taxes": {
+    "tax_currency": "CHF",
+    "employees": {
+      "income_tax": [
+        {
+          "min_income_range": 0,
+          "max_income_range": 12000,
+          "rate_pct": 0
+        },
+        {
+          "min_income_range": 12001,
+          "max_income_range": 50000,
+          "rate_pct": 10
+        },
+        {
+          "min_income_range": 50001,
+          "max_income_range": 250000,
+          "rate_pct": 20
+        },
+        {
+          "min_income_range": 250001,
+          "max_income_range": 500000,
+          "rate_pct": 30
+        },
+        {
+          "min_income_range": 500001,
+          "max_income_range": null,
+          "rate_pct": 35
+        }
+      ],
+      "social_security": [
+        {
+          "min_income_range": 0,
+          "max_income_range": 148200,
+          "rate_pct": 5.125
+        }
+      ]
+    },
+    "contractors": {
+      "income_tax": [
+        {
+          "min_income_range": 0,
+          "max_income_range": 12000,
+          "rate_pct": 0
+        },
+        {
+          "min_income_range": 12001,
+          "max_income_range": 50000,
+          "rate_pct": 10
+        },
+        {
+          "min_income_range": 50001,
+          "max_income_range": 250000,
+          "rate_pct": 20
+        },
+        {
+          "min_income_range": 250001,
+          "max_income_range": 500000,
+          "rate_pct": 30
+        },
+        {
+          "min_income_range": 500001,
+          "max_income_range": null,
+          "rate_pct": 35
+        }
+      ],
+      "social_security": [
+        {
+          "min_income_range": 0,
+          "max_income_range": 148200,
+          "rate_pct": 5.125
+        }
+      ]
+    },
+    "retirees": {
+      "income_tax": [
+        {
+          "min_income_range": 0,
+          "max_income_range": 12000,
+          "rate_pct": 0
+        },
+        {
+          "min_income_range": 12001,
+          "max_income_range": 50000,
+          "rate_pct": 10
+        },
+        {
+          "min_income_range": 50001,
+          "max_income_range": 250000,
+          "rate_pct": 20
+        },
+        {
+          "min_income_range": 250001,
+          "max_income_range": 500000,
+          "rate_pct": 30
+        },
+        {
+          "min_income_range": 500001,
+          "max_income_range": null,
+          "rate_pct": 35
+        }
+      ],
+      "social_security": []
+    }
+  },
+  "visas": [
+    {
+      "visa_name": "Swiss Work Permit",
+      "nomad_visa": false,
+      "official_government_link": "https://www.sem.admin.ch/sem/en/home/themen/arbeit/nicht-eu_efta-angehoerige.html",
+      "key_consideration": "For non-EU/EEA nationals seeking employment in Switzerland.",
+      "validity_months": 60,
+      "income_requirement": {
+        "currency": "CHF",
+        "single_monthly": 0,
+        "family_monthly": 0,
+        "misc_details": "Salary must meet prevailing wage standards for the occupation and region."
+      },
+      "application_timeline_days": 60,
+      "application_in_country": true,
+      "application_fee": {
+        "currency": "CHF",
+        "single": 100,
+        "family": 100,
+        "details": "Fee applies per applicant."
+      },
+      "dependent_application": true,
+      "local_tax_on_foreign_income": true,
+      "renewability": true,
+      "renewability_details": "Can renew as long as employment conditions are met.",
+      "days_in_country_to_renew_visa": 0,
+      "special_tax_regime": false,
+      "special_tax_regime_details": "",
+      "leads_to_permanent_residence": true,
+      "permanent_residency_details": "Eligible to apply for permanent residence after 10 years.",
+      "taxes": {
+        "employees": {
+          "income_tax": [
+            {
+              "min_income_range": 0,
+              "max_income_range": 12000,
+              "rate_pct": 0
+            },
+            {
+              "min_income_range": 12001,
+              "max_income_range": 50000,
+              "rate_pct": 10
+            },
+            {
+              "min_income_range": 50001,
+              "max_income_range": 250000,
+              "rate_pct": 20
+            },
+            {
+              "min_income_range": 250001,
+              "max_income_range": 500000,
+              "rate_pct": 30
+            },
+            {
+              "min_income_range": 500001,
+              "max_income_range": null,
+              "rate_pct": 35
+            }
+          ],
+          "social_security": [
+            {
+              "min_income_range": 0,
+              "max_income_range": 148200,
+              "rate_pct": 5.125
+            }
+          ]
+        },
+        "contractors": {
+          "income_tax": [
+            {
+              "min_income_range": 0,
+              "max_income_range": 12000,
+              "rate_pct": 0
+            },
+            {
+              "min_income_range": 12001,
+              "max_income_range": 50000,
+              "rate_pct": 10
+            },
+            {
+              "min_income_range": 50001,
+              "max_income_range": 250000,
+              "rate_pct": 20
+            },
+            {
+              "min_income_range": 250001,
+              "max_income_range": 500000,
+              "rate_pct": 30
+            },
+            {
+              "min_income_range": 500001,
+              "max_income_range": null,
+              "rate_pct": 35
+            }
+          ],
+          "social_security": [
+            {
+              "min_income_range": 0,
+              "max_income_range": 148200,
+              "rate_pct": 5.125
+            }
+          ]
+        },
+        "retirees": {
+          "income_tax": [
+            {
+              "min_income_range": 0,
+              "max_income_range": 12000,
+              "rate_pct": 0
+            },
+            {
+              "min_income_range": 12001,
+              "max_income_range": 50000,
+              "rate_pct": 10
+            },
+            {
+              "min_income_range": 50001,
+              "max_income_range": 250000,
+              "rate_pct": 20
+            },
+            {
+              "min_income_range": 250001,
+              "max_income_range": 500000,
+              "rate_pct": 30
+            },
+            {
+              "min_income_range": 500001,
+              "max_income_range": null,
+              "rate_pct": 35
+            }
+          ],
+          "social_security": []
+        },
+        "special_regimes": []
+      },
+      "required_documents": [
+        "Valid passport or travel document",
+        "Job offer from a Swiss employer",
+        "Proof of professional qualifications",
+        "Proof of accommodation in Switzerland"
+      ]
+    }
+  ]
+}
+

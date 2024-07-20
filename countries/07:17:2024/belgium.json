@@ -1,0 +1,273 @@
+{
+  "country_name": "Belgium",
+  "country_code": "BE",
+  "capital": "Brussels",
+  "display": true,
+  "currency": "EUR",
+  "anchor_country": false,
+  "has_nomad_visa": false,
+  "schengen_zone": true,
+  "in_european_union": true,
+  "cost_of_living_index": 63.0,
+  "cost_of_living_lvl": "$$$$",
+  "practical_tips": {
+    "financial_benefits": [
+      {
+        "benefit": "Strong Economy",
+        "description": "Belgium has a robust and diversified economy, providing stability and opportunities for business."
+      },
+      {
+        "benefit": "Euro Currency",
+        "description": "Belgium uses the Euro (EUR), facilitating financial transactions within the Eurozone."
+      }
+    ],
+    "lifestyle_benefits": [
+      {
+        "benefit": "High Quality of Life",
+        "description": "Belgium offers excellent healthcare, education, and public services, contributing to a high standard of living."
+      },
+      {
+        "benefit": "Cultural Richness",
+        "description": "Belgium boasts a rich cultural heritage with numerous museums, historical sites, and vibrant festivals."
+      }
+    ],
+    "additional_benefits": [
+      {
+        "benefit": "Multilingual Environment",
+        "description": "Belgium is multilingual, with Dutch, French, and German spoken alongside English, facilitating integration for expatriates."
+      },
+      {
+        "benefit": "Central Location",
+        "description": "Located in Western Europe, Belgium offers easy access to major European cities and countries."
+      }
+    ]
+  },
+  "key_consideration": "Belgium offers various work and self-employment visa options for non-EU nationals but does not have a specific digital nomad visa.",
+  "best_for": [
+    "contractors",
+    "retirees"
+  ],
+  "action_comment": "Consider Belgium for its high quality of life, diverse culture, and central location in Europe.",
+  "tagline": "Discover the cultural heart of Europe in Belgium.",
+  "image": "belgium.jpg",
+  "tax_residency_trigger": 183,
+  "tax_residency_trigger_details": "You are considered a tax resident if you stay for more than 183 days in a calendar year.",
+  "country_standard_taxes": {
+    "tax_currency": "EUR",
+    "employees": {
+      "income_tax": [
+        {
+          "min_income_range": 0,
+          "max_income_range": 13440,
+          "rate_pct": 25
+        },
+        {
+          "min_income_range": 13441,
+          "max_income_range": 23720,
+          "rate_pct": 40
+        },
+        {
+          "min_income_range": 23721,
+          "max_income_range": 41160,
+          "rate_pct": 45
+        },
+        {
+          "min_income_range": 41160,
+          "max_income_range": null,
+          "rate_pct": 50
+        }
+      ],
+      "social_security": [
+        {
+          "min_income_range": 0,
+          "max_income_range": null,
+          "rate_pct": 13.07
+        }
+      ]
+    },
+    "contractors": {
+      "income_tax": [
+        {
+          "min_income_range": 0,
+          "max_income_range": 13250,
+          "rate_pct": 25
+        },
+        {
+          "min_income_range": 13251,
+          "max_income_range": 23500,
+          "rate_pct": 40
+        },
+        {
+          "min_income_range": 23501,
+          "max_income_range": 42900,
+          "rate_pct": 45
+        },
+        {
+          "min_income_range": 42901,
+          "max_income_range": null,
+          "rate_pct": 50
+        }
+      ],
+      "social_security": [
+        {
+          "min_income_range": 0,
+          "max_income_range": null,
+          "rate_pct": 20.5
+        }
+      ]
+    },
+    "retirees": {
+      "income_tax": [
+        {
+          "min_income_range": 0,
+          "max_income_range": 13250,
+          "rate_pct": 25
+        },
+        {
+          "min_income_range": 13251,
+          "max_income_range": 23500,
+          "rate_pct": 40
+        },
+        {
+          "min_income_range": 23501,
+          "max_income_range": 42900,
+          "rate_pct": 45
+        },
+        {
+          "min_income_range": 42901,
+          "max_income_range": null,
+          "rate_pct": 50
+        }
+      ],
+      "social_security": []
+    }
+  },
+  "visas": [
+    {
+      "visa_name": "Professional Card (Self-Employed)",
+      "nomad_visa": false,
+      "official_government_link": "https://dofi.ibz.be/en/themes/work/professional-card-self-employed",
+      "key_consideration": "For non-EU/EEA nationals who wish to start a business or practice a profession as a self-employed person in Belgium.",
+      "validity_months": 36,
+      "income_requirement": {
+        "currency": "EUR",
+        "single_monthly": 0,
+        "family_monthly": 0,
+        "misc_details": "No specific minimum income requirement, but proof of sustainable income or business plan is necessary."
+      },
+      "application_timeline_days": 90,
+      "application_in_country": true,
+      "application_fee": {
+        "currency": "EUR",
+        "single": 140,
+        "family": 140,
+        "details": "Fee applies per applicant."
+      },
+      "dependent_application": true,
+      "local_tax_on_foreign_income": true,
+      "renewability": true,
+      "renewability_details": "Can apply for renewal or permanent residence after initial validity period.",
+      "days_in_country_to_renew_visa": 0,
+      "special_tax_regime": false,
+      "special_tax_regime_details": "",
+      "leads_to_permanent_residence": true,
+      "permanent_residency_details": "Eligible to apply for permanent residence after 5 years.",
+      "taxes": {
+        "employees": {
+          "income_tax": [],
+          "social_security": [
+            {
+              "min_income_range": 0,
+              "max_income_range": null,
+              "rate_pct": 13.07
+            }
+          ]
+        },
+        "contractors": {
+          "income_tax": [],
+          "social_security": [
+            {
+              "min_income_range": 0,
+              "max_income_range": null,
+              "rate_pct": 20.5
+            }
+          ]
+        },
+        "retirees": {
+          "income_tax": [],
+          "social_security": []
+        },
+        "special_regimes": []
+      },
+      "required_documents": [
+        "Valid passport or travel document",
+        "Proof of sustainable income or business plan",
+        "Medical certificate",
+        "Criminal record certificate (if applicable)"
+      ]
+    },
+    {
+      "visa_name": "Single Permit (Work Visa)",
+      "nomad_visa": false,
+      "official_government_link": "https://dofi.ibz.be/en/themes/work/single-permit",
+      "key_consideration": "For non-EU/EEA nationals who have a job offer from a Belgian employer.",
+      "validity_months": 60,
+      "income_requirement": {
+        "currency": "EUR",
+        "single_monthly": 0,
+        "family_monthly": 0,
+        "misc_details": "Minimum salary requirements vary by job type and region."
+      },
+      "application_timeline_days": 120,
+      "application_in_country": true,
+      "application_fee": {
+        "currency": "EUR",
+        "single": 350,
+        "family": 350,
+        "details": "Fee applies per applicant."
+      },
+      "dependent_application": true,
+      "local_tax_on_foreign_income": true,
+      "renewability": true,
+      "renewability_details": "Can extend as long as employment conditions are met.",
+      "days_in_country_to_renew_visa": 0,
+      "special_tax_regime": false,
+      "special_tax_regime_details": "",
+      "leads_to_permanent_residence": true,
+      "permanent_residency_details": "Eligible to apply for permanent residence after 5 years.",
+      "taxes": {
+        "employees": {
+          "income_tax": [],
+          "social_security": [
+            {
+              "min_income_range": 0,
+              "max_income_range": null,
+              "rate_pct": 13.07
+            }
+          ]
+        },
+        "contractors": {
+          "income_tax": [],
+          "social_security": [
+            {
+              "min_income_range": 0,
+              "max_income_range": null,
+              "rate_pct": 20.5
+            }
+          ]
+        },
+        "retirees": {
+          "income_tax": [],
+          "social_security": []
+        },
+        "special_regimes": []
+      },
+      "required_documents": [
+        "Valid passport or travel document",
+        "Job offer from a Belgian employer",
+        "Proof of professional qualifications",
+        "Medical certificate"
+      ]
+    }
+  ]
+}

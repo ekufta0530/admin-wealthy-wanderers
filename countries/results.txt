@@ -1,0 +1,20 @@
+tonga.json: Invalid JSON
+''official_government_link' is a required property' (path: visas/1)
+'official_government_link' is a required property
+
+poland.json: Invalid JSON
+''official_government_link' is a required property' (path: visas/1)
+'official_government_link' is a required property
+
+serbia.json: Invalid JSON
+''official_government_link' is a required property' (path: visas/1)
+'official_government_link' is a required property
+
+slovenia.json: Invalid JSON
+''official_government_link' is a required property' (path: visas/1)
+'official_government_link' is a required property
+
+bulgaria.json: Invalid JSON
+''official_government_link' is a required property' (path: visas/1)
+'official_government_link' is a required property
+

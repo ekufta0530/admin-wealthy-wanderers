@@ -1,0 +1,564 @@
+{
+    "Estonia": {
+        "country_name": "Estonia",
+        "country_code": "EE",
+        "capital": "Tallinn",
+        "display": true,
+        "currency": "EUR",
+        "anchor_country": false,
+        "has_nomad_visa": true,
+        "schengen_zone": true,
+        "in_european_union": true,
+        "cost_of_living_index": 50.93,
+        "cost_of_living_lvl": "$$",
+        "practical_tips": {
+            "financial_benefits": [],
+            "lifestyle_benefits": [],
+            "additional_benefits": []
+        },
+        "key_consideration": "",
+        "best_for": [],
+        "action_comment": "",
+        "tagline": "",
+        "image": "",
+        "tax_residency_trigger": 183,
+        "tax_residency_trigger_details": "",
+        "country_standard_taxes": {
+            "tax_currency": "EUR",
+            "employees": {
+                "income_tax": [
+                    {
+                        "min_income_range": 0,
+                        "max_income_range": null,
+                        "rate_pct": 20
+                    }
+                ],
+                "social_security": [
+                    {
+                        "min_income_range": 0,
+                        "max_income_range": null,
+                        "rate_pct": 33
+                    }
+                ]
+            },
+            "contractors": {
+                "income_tax": [
+                    {
+                        "min_income_range": 0,
+                        "max_income_range": null,
+                        "rate_pct": 20
+                    }
+                ],
+                "social_security": [
+                    {
+                        "min_income_range": 0,
+                        "max_income_range": null,
+                        "rate_pct": 33
+                    }
+                ]
+            },
+            "retirees": {
+                "income_tax": [
+                    {
+                        "min_income_range": 0,
+                        "max_income_range": null,
+                        "rate_pct": 20
+                    }
+                ],
+                "social_security": [
+                    {
+                        "min_income_range": 0,
+                        "max_income_range": null,
+                        "rate_pct": 0
+                    }
+                ]
+            }
+        },
+        "visas": []
+    },
+    "Croatia": {
+        "country_name": "Croatia",
+        "country_code": "HR",
+        "capital": "Zagreb",
+        "display": true,
+        "currency": "HRK",
+        "anchor_country": false,
+        "has_nomad_visa": false,
+        "schengen_zone": true,
+        "in_european_union": true,
+        "cost_of_living_index": 52.51,
+        "cost_of_living_lvl": "$$",
+        "practical_tips": {
+            "financial_benefits": [],
+            "lifestyle_benefits": [],
+            "additional_benefits": []
+        },
+        "key_consideration": "",
+        "best_for": [],
+        "action_comment": "",
+        "tagline": "",
+        "image": "",
+        "tax_residency_trigger": 183,
+        "tax_residency_trigger_details": "",
+        "country_standard_taxes": {
+            "tax_currency": "HRK",
+            "employees": {
+                "income_tax": [
+                    {
+                        "min_income_range": 0,
+                        "max_income_range": 30000,
+                        "rate_pct": 24
+                    },
+                    {
+                        "min_income_range": 30001,
+                        "max_income_range": null,
+                        "rate_pct": 36
+                    }
+                ],
+                "social_security": [
+                    {
+                        "min_income_range": 0,
+                        "max_income_range": null,
+                        "rate_pct": 37.2
+                    }
+                ]
+            },
+            "contractors": {
+                "income_tax": [
+                    {
+                        "min_income_range": 0,
+                        "max_income_range": 30000,
+                        "rate_pct": 24
+                    },
+                    {
+                        "min_income_range": 30001,
+                        "max_income_range": null,
+                        "rate_pct": 36
+                    }
+                ],
+                "social_security": [
+                    {
+                        "min_income_range": 0,
+                        "max_income_range": null,
+                        "rate_pct": 37.2
+                    }
+                ]
+            },
+            "retirees": {
+                "income_tax": [
+                    {
+                        "min_income_range": 0,
+                        "max_income_range": 30000,
+                        "rate_pct": 24
+                    },
+                    {
+                        "min_income_range": 30001,
+                        "max_income_range": null,
+                        "rate_pct": 36
+                    }
+                ],
+                "social_security": []
+            }
+        },
+        "visas": []
+    },
+    "Germany": {
+        "country_name": "Germany",
+        "country_code": "DE",
+        "capital": "Berlin",
+        "display": true,
+        "currency": "Euro",
+        "anchor_country": false,
+        "has_nomad_visa": false,
+        "schengen_zone": true,
+        "in_european_union": true,
+        "cost_of_living_index": 67.62,
+        "cost_of_living_lvl": "$$",
+        "practical_tips": {
+            "financial_benefits": [],
+            "lifestyle_benefits": [],
+            "additional_benefits": []
+        },
+        "key_consideration": "",
+        "best_for": [],
+        "action_comment": "",
+        "tagline": "",
+        "image": "",
+        "tax_residency_trigger": 183,
+        "tax_residency_trigger_details": "",
+        "country_standard_taxes": {
+            "tax_currency": "Euro",
+            "employees": {
+                "income_tax": [
+                    {
+                        "min_income_range": 0,
+                        "max_income_range": 9408,
+                        "rate_pct": 0
+                    },
+                    {
+                        "min_income_range": 9409,
+                        "max_income_range": 14532,
+                        "rate_pct": 14
+                    },
+                    {
+                        "min_income_range": 14533,
+                        "max_income_range": 57051,
+                        "rate_pct": 42
+                    },
+                    {
+                        "min_income_range": 57052,
+                        "max_income_range": 270500,
+                        "rate_pct": 42
+                    },
+                    {
+                        "min_income_range": 270501,
+                        "max_income_range": null,
+                        "rate_pct": 45
+                    }
+                ],
+                "social_security": [
+                    {
+                        "min_income_range": 0,
+                        "max_income_range": 85000,
+                        "rate_pct": 20
+                    },
+                    {
+                        "min_income_range": 85001,
+                        "max_income_range": null,
+                        "rate_pct": 0
+                    }
+                ]
+            },
+            "contractors": {
+                "income_tax": [
+                    {
+                        "min_income_range": 0,
+                        "max_income_range": 9408,
+                        "rate_pct": 0
+                    },
+                    {
+                        "min_income_range": 9409,
+                        "max_income_range": 14532,
+                        "rate_pct": 14
+                    },
+                    {
+                        "min_income_range": 14533,
+                        "max_income_range": 57051,
+                        "rate_pct": 42
+                    },
+                    {
+                        "min_income_range": 57052,
+                        "max_income_range": 270500,
+                        "rate_pct": 42
+                    },
+                    {
+                        "min_income_range": 270501,
+                        "max_income_range": null,
+                        "rate_pct": 45
+                    }
+                ],
+                "social_security": [
+                    {
+                        "min_income_range": 0,
+                        "max_income_range": 85000,
+                        "rate_pct": 20
+                    },
+                    {
+                        "min_income_range": 85001,
+                        "max_income_range": null,
+                        "rate_pct": 0
+                    }
+                ]
+            },
+            "retirees": {
+                "income_tax": [
+                    {
+                        "min_income_range": 0,
+                        "max_income_range": 9408,
+                        "rate_pct": 0
+                    },
+                    {
+                        "min_income_range": 9409,
+                        "max_income_range": 14532,
+                        "rate_pct": 14
+                    },
+                    {
+                        "min_income_range": 14533,
+                        "max_income_range": 57051,
+                        "rate_pct": 42
+                    },
+                    {
+                        "min_income_range": 57052,
+                        "max_income_range": 270500,
+                        "rate_pct": 42
+                    },
+                    {
+                        "min_income_range": 270501,
+                        "max_income_range": null,
+                        "rate_pct": 45
+                    }
+                ],
+                "social_security": [
+                    {
+                        "min_income_range": 0,
+                        "max_income_range": 85000,
+                        "rate_pct": 20
+                    },
+                    {
+                        "min_income_range": 85001,
+                        "max_income_range": null,
+                        "rate_pct": 0
+                    }
+                ]
+            }
+        },
+        "visas": []
+    },
+    "Portugal": {
+        "country_name": "Portugal",
+        "country_code": "PT",
+        "capital": "Lisbon",
+        "display": true,
+        "currency": "Euro",
+        "anchor_country": false,
+        "has_nomad_visa": false,
+        "schengen_zone": true,
+        "in_european_union": true,
+        "cost_of_living_index": 50.39,
+        "cost_of_living_lvl": "$$",
+        "practical_tips": {
+            "financial_benefits": [],
+            "lifestyle_benefits": [],
+            "additional_benefits": []
+        },
+        "key_consideration": "",
+        "best_for": [],
+        "action_comment": "",
+        "tagline": "",
+        "image": "",
+        "tax_residency_trigger": 183,
+        "tax_residency_trigger_details": "",
+        "country_standard_taxes": {
+            "tax_currency": "Euro",
+            "employees": {
+                "income_tax": [
+                    {
+                        "min_income_range": 0,
+                        "max_income_range": 7000,
+                        "rate_pct": 14.5
+                    },
+                    {
+                        "min_income_range": 7001,
+                        "max_income_range": 20000,
+                        "rate_pct": 23
+                    },
+                    {
+                        "min_income_range": 20001,
+                        "max_income_range": 40000,
+                        "rate_pct": 28.5
+                    },
+                    {
+                        "min_income_range": 40001,
+                        "max_income_range": 80000,
+                        "rate_pct": 35
+                    },
+                    {
+                        "min_income_range": 80001,
+                        "max_income_range": null,
+                        "rate_pct": 48
+                    }
+                ],
+                "social_security": [
+                    {
+                        "min_income_range": 0,
+                        "max_income_range": null,
+                        "rate_pct": 11
+                    }
+                ]
+            },
+            "contractors": {
+                "income_tax": [
+                    {
+                        "min_income_range": 0,
+                        "max_income_range": 10000,
+                        "rate_pct": 25
+                    },
+                    {
+                        "min_income_range": 10001,
+                        "max_income_range": null,
+                        "rate_pct": 45
+                    }
+                ],
+                "social_security": [
+                    {
+                        "min_income_range": 0,
+                        "max_income_range": null,
+                        "rate_pct": 25.2
+                    }
+                ]
+            },
+            "retirees": {
+                "income_tax": [
+                    {
+                        "min_income_range": 0,
+                        "max_income_range": 7000,
+                        "rate_pct": 14.5
+                    },
+                    {
+                        "min_income_range": 7001,
+                        "max_income_range": 20000,
+                        "rate_pct": 23
+                    },
+                    {
+                        "min_income_range": 20001,
+                        "max_income_range": 40000,
+                        "rate_pct": 28.5
+                    },
+                    {
+                        "min_income_range": 40001,
+                        "max_income_range": 80000,
+                        "rate_pct": 35
+                    },
+                    {
+                        "min_income_range": 80001,
+                        "max_income_range": null,
+                        "rate_pct": 48
+                    }
+                ],
+                "social_security": []
+            }
+        },
+        "visas": []
+    },
+    "Spain": {
+        "country_name": "Spain",
+        "country_code": "ES",
+        "capital": "Madrid",
+        "display": true,
+        "currency": "Euro",
+        "anchor_country": false,
+        "has_nomad_visa": false,
+        "schengen_zone": true,
+        "in_european_union": true,
+        "cost_of_living_index": 63.77,
+        "cost_of_living_lvl": "$$",
+        "practical_tips": {
+            "financial_benefits": [],
+            "lifestyle_benefits": [],
+            "additional_benefits": []
+        },
+        "key_consideration": "",
+        "best_for": [],
+        "action_comment": "",
+        "tagline": "",
+        "image": "",
+        "tax_residency_trigger": 183,
+        "tax_residency_trigger_details": "",
+        "country_standard_taxes": {
+            "tax_currency": "Euro",
+            "employees": {
+                "income_tax": [
+                    {
+                        "min_income_range": 0,
+                        "max_income_range": 12450,
+                        "rate_pct": 19
+                    },
+                    {
+                        "min_income_range": 12451,
+                        "max_income_range": 20200,
+                        "rate_pct": 24
+                    },
+                    {
+                        "min_income_range": 20201,
+                        "max_income_range": 35200,
+                        "rate_pct": 30
+                    },
+                    {
+                        "min_income_range": 35201,
+                        "max_income_range": 60000,
+                        "rate_pct": 37
+                    },
+                    {
+                        "min_income_range": 60001,
+                        "max_income_range": null,
+                        "rate_pct": 45
+                    }
+                ],
+                "social_security": [
+                    {
+                        "min_income_range": 0,
+                        "max_income_range": null,
+                        "rate_pct": 6.35
+                    }
+                ]
+            },
+            "contractors": {
+                "income_tax": [
+                    {
+                        "min_income_range": 0,
+                        "max_income_range": 12450,
+                        "rate_pct": 19
+                    },
+                    {
+                        "min_income_range": 12451,
+                        "max_income_range": 20200,
+                        "rate_pct": 24
+                    },
+                    {
+                        "min_income_range": 20201,
+                        "max_income_range": 35200,
+                        "rate_pct": 30
+                    },
+                    {
+                        "min_income_range": 35201,
+                        "max_income_range": 60000,
+                        "rate_pct": 37
+                    },
+                    {
+                        "min_income_range": 60001,
+                        "max_income_range": null,
+                        "rate_pct": 45
+                    }
+                ],
+                "social_security": [
+                    {
+                        "min_income_range": 0,
+                        "max_income_range": null,
+                        "rate_pct": 30
+                    }
+                ]
+            },
+            "retirees": {
+                "income_tax": [
+                    {
+                        "min_income_range": 0,
+                        "max_income_range": 12450,
+                        "rate_pct": 19
+                    },
+                    {
+                        "min_income_range": 12451,
+                        "max_income_range": 20200,
+                        "rate_pct": 24
+                    },
+                    {
+                        "min_income_range": 20201,
+                        "max_income_range": 35200,
+                        "rate_pct": 30
+                    },
+                    {
+                        "min_income_range": 35201,
+                        "max_income_range": 60000,
+                        "rate_pct": 37
+                    },
+                    {
+                        "min_income_range": 60001,
+                        "max_income_range": null,
+                        "rate_pct": 45
+                    }
+                ],
+                "social_security": []
+            }
+        },
+        "visas": []
+    }
+}

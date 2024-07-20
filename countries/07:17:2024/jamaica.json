@@ -1,0 +1,175 @@
+{
+  "country_name": "Jamaica",
+  "country_code": "JM",
+  "capital": "Kingston",
+  "display": true,
+  "currency": "JMD",
+  "anchor_country": false,
+  "has_nomad_visa": false,
+  "schengen_zone": false,
+  "in_european_union": false,
+  "cost_of_living_index": 53.1,
+  "cost_of_living_lvl": "$$",
+  "practical_tips": {
+    "financial_benefits": [
+      {
+        "benefit": "Low Cost of Living",
+        "description": "Jamaica offers a relatively low cost of living compared to many Western countries."
+      },
+      {
+        "benefit": "Foreign Income Exemption",
+        "description": "Income earned outside Jamaica is generally not taxed locally."
+      }
+    ],
+    "lifestyle_benefits": [
+      {
+        "benefit": "Tropical Climate",
+        "description": "Enjoy warm weather year-round in Jamaica's tropical climate."
+      },
+      {
+        "benefit": "Cultural Richness",
+        "description": "Experience Jamaica's vibrant music scene, cultural festivals, and historical sites."
+      }
+    ],
+    "additional_benefits": [
+      {
+        "benefit": "English Speaking",
+        "description": "English is the official language, facilitating communication for most expatriates."
+      },
+      {
+        "benefit": "Tourism Infrastructure",
+        "description": "Jamaica has well-developed tourism facilities, catering to visitors from around the world."
+      }
+    ]
+  },
+  "key_consideration": "Consider Jamaica for its blend of affordable living, tropical climate, and rich cultural experiences.",
+  "best_for": [
+    "nature lovers",
+    "music enthusiasts",
+    "beachgoers"
+  ],
+  "action_comment": "Explore Jamaica for its vibrant culture, stunning beaches, and affordable lifestyle.",
+  "tagline": "Discover Jamaica: Where the rhythm never stops.",
+  "image": "jamaica.jpg",
+  "tax_residency_trigger": 183,
+  "tax_residency_trigger_details": "You become a tax resident if you spend 183 days or more in Jamaica in a calendar year.",
+  "country_standard_taxes": {
+    "tax_currency": "JMD",
+    "employees": {
+      "income_tax": [],
+      "social_security": []
+    },
+    "contractors": {
+      "income_tax": [],
+      "social_security": []
+    },
+    "retirees": {
+      "income_tax": [],
+      "social_security": []
+    }
+  },
+  "visas": [
+    {
+      "visa_name": "Tourist Visa",
+      "nomad_visa": false,
+      "official_government_link": "https://www.jacustoms.gov.jm/immigration/checklists",
+      "key_consideration": "Allows for temporary stays for tourism purposes.",
+      "validity_months": 6,
+      "income_requirement": {
+        "currency": "JMD",
+        "single_monthly": 0,
+        "family_monthly": 0,
+        "misc_details": "Proof of sufficient funds for the duration of stay may be required."
+      },
+      "application_timeline_days": 15,
+      "application_in_country": true,
+      "application_fee": {
+        "currency": "JMD",
+        "single": 2000,
+        "family": 3500,
+        "details": "Application fee applies per person."
+      },
+      "dependent_application": true,
+      "local_tax_on_foreign_income": false,
+      "renewability": true,
+      "renewability_details": "Can be extended in-country upon application.",
+      "days_in_country_to_renew_visa": 0,
+      "special_tax_regime": false,
+      "special_tax_regime_details": "",
+      "leads_to_permanent_residence": false,
+      "permanent_residency_details": "",
+      "taxes": {
+        "employees": {
+          "income_tax": [],
+          "social_security": []
+        },
+        "contractors": {
+          "income_tax": [],
+          "social_security": []
+        },
+        "retirees": {
+          "income_tax": [],
+          "social_security": []
+        },
+        "special_regimes": []
+      },
+      "required_documents": [
+        "Passport with at least 6 months validity",
+        "Proof of sufficient funds (bank statements)",
+        "Travel itinerary",
+        "Proof of accommodation in Jamaica"
+      ]
+    },
+    {
+      "visa_name": "Work Permit",
+      "nomad_visa": false,
+      "official_government_link": "https://www.mlss.gov.jm/immigration",
+      "key_consideration": "Required for individuals intending to work in Jamaica.",
+      "validity_months": 12,
+      "income_requirement": {
+        "currency": "JMD",
+        "single_monthly": 80000,
+        "family_monthly": 0,
+        "misc_details": "Proof of employment by a Jamaican employer or business registration if self-employed."
+      },
+      "application_timeline_days": 30,
+      "application_in_country": true,
+      "application_fee": {
+        "currency": "JMD",
+        "single": 12000,
+        "family": 0,
+        "details": "Application fee varies based on the type of work permit."
+      },
+      "dependent_application": true,
+      "local_tax_on_foreign_income": false,
+      "renewability": true,
+      "renewability_details": "Renewable annually upon meeting work permit conditions.",
+      "days_in_country_to_renew_visa": 0,
+      "special_tax_regime": false,
+      "special_tax_regime_details": "",
+      "leads_to_permanent_residence": false,
+      "permanent_residency_details": "",
+      "taxes": {
+        "employees": {
+          "income_tax": [],
+          "social_security": []
+        },
+        "contractors": {
+          "income_tax": [],
+          "social_security": []
+        },
+        "retirees": {
+          "income_tax": [],
+          "social_security": []
+        },
+        "special_regimes": []
+      },
+      "required_documents": [
+        "Passport with at least 1 year validity",
+        "Job offer letter",
+        "Police record",
+        "Health certificate"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,535 @@
+{
+  "country_name": "Chile",
+  "country_code": "CL",
+  "capital": "Santiago",
+  "display": true,
+  "currency": "CLP",
+  "anchor_country": false,
+  "has_nomad_visa": false,
+  "schengen_zone": false,
+  "in_european_union": false,
+  "cost_of_living_index": 39.9,
+  "cost_of_living_lvl": "$$$",
+  "practical_tips": {
+    "financial_benefits": [
+      {
+        "benefit": "Affordable Living",
+        "description": "Chile offers a relatively low cost of living compared to many Western countries."
+      },
+      {
+        "benefit": "Strong Economy",
+        "description": "Chile has one of the most stable and prosperous economies in South America."
+      }
+    ],
+    "lifestyle_benefits": [
+      {
+        "benefit": "Diverse Climate",
+        "description": "Chile's long geography offers diverse climates from deserts in the north to glaciers in the south."
+      },
+      {
+        "benefit": "Rich Culture",
+        "description": "Experience a rich culture with indigenous influences, vibrant cities, and beautiful landscapes."
+      }
+    ],
+    "additional_benefits": [
+      {
+        "benefit": "Friendly Locals",
+        "description": "Chilean people are known for their friendliness and hospitality."
+      },
+      {
+        "benefit": "Developed Infrastructure",
+        "description": "Chile has a well-developed infrastructure, including modern healthcare and transportation systems."
+      }
+    ]
+  },
+  "key_consideration": "Chile offers a digital nomad visa that allows remote workers to live and work in the country while enjoying its diverse landscapes and cultures.",
+  "best_for": [
+    "digital nomads",
+    "entrepreneurs"
+    ],
+  "action_comment": "Consider Chile for its affordable living, diverse climate, and friendly locals.",
+  "tagline": "Discover the diverse beauty and culture of Chile while working remotely.",
+  "image": "chile.jpg",
+  "tax_residency_trigger": 183,
+  "tax_residency_trigger_details": "You are considered a tax resident if you stay in Chile for more than 183 days in a calendar year.",
+  "country_standard_taxes": {
+    "tax_currency": "CLP",
+    "employees": {
+      "income_tax": [
+        {
+          "min_income_range": 0,
+          "max_income_range": 8240400,
+          "rate_pct": 0
+        },
+        {
+          "min_income_range": 8240401,
+          "max_income_range": 18345000,
+          "rate_pct": 4
+        },
+        {
+          "min_income_range": 18345001,
+          "max_income_range": 30575000,
+          "rate_pct": 8
+        },
+        {
+          "min_income_range": 30575001,
+          "max_income_range": 42635000,
+          "rate_pct": 13.5
+        },
+        {
+          "min_income_range": 42635001,
+          "max_income_range": 61085000,
+          "rate_pct": 23
+        },
+        {
+          "min_income_range": 61085001,
+          "max_income_range": 152700000,
+          "rate_pct": 30.4
+        },
+        {
+          "min_income_range": 152700001,
+          "max_income_range": null,
+          "rate_pct": 35
+        }
+      ],
+      "social_security": [
+        {
+          "min_income_range": 0,
+          "max_income_range": null,
+          "rate_pct": 7
+        }
+      ]
+    },
+    "contractors": {
+      "income_tax": [
+        {
+          "min_income_range": 0,
+          "max_income_range": 8240400,
+          "rate_pct": 0
+        },
+        {
+          "min_income_range": 8240401,
+          "max_income_range": 18345000,
+          "rate_pct": 4
+        },
+        {
+          "min_income_range": 18345001,
+          "max_income_range": 30575000,
+          "rate_pct": 8
+        },
+        {
+          "min_income_range": 30575001,
+          "max_income_range": 42635000,
+          "rate_pct": 13.5
+        },
+        {
+          "min_income_range": 42635001,
+          "max_income_range": 61085000,
+          "rate_pct": 23
+        },
+        {
+          "min_income_range": 61085001,
+          "max_income_range": 152700000,
+          "rate_pct": 30.4
+        },
+        {
+          "min_income_range": 152700001,
+          "max_income_range": null,
+          "rate_pct": 35
+        }
+      ],
+      "social_security": [
+        {
+          "min_income_range": 0,
+          "max_income_range": null,
+          "rate_pct": 7
+        }
+      ]
+    },
+    "retirees": {
+      "income_tax": [
+        {
+          "min_income_range": 0,
+          "max_income_range": 8240400,
+          "rate_pct": 0
+        },
+        {
+          "min_income_range": 8240401,
+          "max_income_range": 18345000,
+          "rate_pct": 4
+        },
+        {
+          "min_income_range": 18345001,
+          "max_income_range": 30575000,
+          "rate_pct": 8
+        },
+        {
+          "min_income_range": 30575001,
+          "max_income_range": 42635000,
+          "rate_pct": 13.5
+        },
+        {
+          "min_income_range": 42635001,
+          "max_income_range": 61085000,
+          "rate_pct": 23
+        },
+        {
+          "min_income_range": 61085001,
+          "max_income_range": 152700000,
+          "rate_pct": 30.4
+        },
+        {
+          "min_income_range": 152700001,
+          "max_income_range": null,
+          "rate_pct": 35
+        }
+      ],
+      "social_security": []
+    }
+  },
+  "visas": [
+    {
+      "visa_name": "Digital Nomad Visa",
+      "nomad_visa": true,
+      "official_government_link": "https://www.chile.travel/en/digital-nomad-visa",
+      "key_consideration": "The visa is aimed at remote workers who can live and work in Chile for up to one year.",
+      "validity_months": 12,
+      "income_requirement": {
+        "currency": "USD",
+        "single_monthly": 3000,
+        "family_monthly": 3000,
+        "misc_details": "Applicants must show proof of income or funds to support themselves during their stay."
+      },
+      "application_timeline_days": 30,
+      "application_in_country": false,
+      "application_fee": {
+        "currency": "USD",
+        "single": 250,
+        "family": 500,
+        "details": "Fee covers the main applicant, spouse, and dependents."
+      },
+      "dependent_application": true,
+      "local_tax_on_foreign_income": false,
+      "renewability": true,
+      "renewability_details": "The visa can be extended for an additional year.",
+      "days_in_country_to_renew_visa": 183,
+      "special_tax_regime": false,
+      "special_tax_regime_details": "",
+      "leads_to_permanent_residence": false,
+      "permanent_residency_details": "Digital nomad visa does not lead to permanent residency.",
+      "taxes": {
+        "employees": {
+          "income_tax": [
+            {
+              "min_income_range": 0,
+              "max_income_range": 8240400,
+              "rate_pct": 0
+            },
+            {
+              "min_income_range": 8240401,
+              "max_income_range": 18345000,
+              "rate_pct": 4
+            },
+            {
+              "min_income_range": 18345001,
+              "max_income_range": 30575000,
+              "rate_pct": 8
+            },
+            {
+              "min_income_range": 30575001,
+              "max_income_range": 42635000,
+              "rate_pct": 13.5
+            },
+            {
+              "min_income_range": 42635001,
+              "max_income_range": 61085000,
+              "rate_pct": 23
+            },
+            {
+              "min_income_range": 61085001,
+              "max_income_range": 152700000,
+              "rate_pct": 30.4
+            },
+            {
+              "min_income_range": 152700001,
+              "max_income_range": null,
+              "rate_pct": 35
+            }
+          ],
+          "social_security": [
+            {
+              "min_income_range": 0,
+              "max_income_range": null,
+              "rate_pct": 7
+            }
+          ]
+        },
+        "contractors": {
+          "income_tax": [
+            {
+              "min_income_range": 0,
+              "max_income_range": 8240400,
+              "rate_pct": 0
+            },
+            {
+              "min_income_range": 8240401,
+              "max_income_range": 18345000,
+              "rate_pct": 4
+            },
+            {
+              "min_income_range": 18345001,
+              "max_income_range": 30575000,
+              "rate_pct": 8
+            },
+            {
+              "min_income_range": 30575001,
+              "max_income_range": 42635000,
+              "rate_pct": 13.5
+            },
+            {
+              "min_income_range": 42635001,
+              "max_income_range": 61085000,
+              "rate_pct": 23
+            },
+            {
+              "min_income_range": 61085001,
+              "max_income_range": 152700000,
+              "rate_pct": 30.4
+            },
+            {
+              "min_income_range": 152700001,
+              "max_income_range": null,
+              "rate_pct": 35
+            }
+          ],
+          "social_security": [
+            {
+              "min_income_range": 0,
+              "max_income_range": null,
+              "rate_pct": 7
+            }
+          ]
+        },
+        "retirees": {
+          "income_tax": [
+            {
+              "min_income_range": 0,
+              "max_income_range": 8240400,
+              "rate_pct": 0
+            },
+            {
+              "min_income_range": 8240401,
+              "max_income_range": 18345000,
+              "rate_pct": 4
+            },
+            {
+              "min_income_range": 18345001,
+              "max_income_range": 30575000,
+              "rate_pct": 8
+            },
+            {
+              "min_income_range": 30575001,
+              "max_income_range": 42635000,
+              "rate_pct": 13.5
+            },
+            {
+              "min_income_range": 42635001,
+              "max_income_range": 61085000,
+              "rate_pct": 23
+            },
+            {
+              "min_income_range": 61085001,
+              "max_income_range": 152700000,
+              "rate_pct": 30.4
+            },
+            {
+              "min_income_range": 152700001,
+              "max_income_range": null,
+              "rate_pct": 35
+            }
+          ],
+          "social_security": []
+        },
+        "special_regimes": []
+      },
+      "required_documents": [
+        "Valid passport",
+        "Proof of income or funds",
+        "Police clearance certificate",
+        "Health insurance covering the duration of stay"
+      ]
+    },
+    {
+      "visa_name": "Temporary Resident Visa",
+      "nomad_visa": false,
+      "official_government_link": "https://www.extranjeria.gob.cl/",
+      "key_consideration": "For individuals intending to stay in Chile for more than one year for work, study, or family reunification.",
+      "validity_months": 12,
+      "income_requirement": {
+        "currency": "CLP",
+        "single_monthly": 1000000,
+        "family_monthly": 1000000,
+        "misc_details": "Applicants must show proof of sufficient funds to support themselves during their stay."
+      },
+      "application_timeline_days": 30,
+      "application_in_country": true,
+      "application_fee": {
+        "currency": "CLP",
+        "single": 100000,
+        "family": 200000,
+        "details": "Fee covers the main applicant and dependents."
+      },
+      "dependent_application": true,
+      "local_tax_on_foreign_income": true,
+      "renewability": true,
+      "renewability_details": "Can be renewed for additional periods if the conditions are still met.",
+      "days_in_country_to_renew_visa": 183,
+      "special_tax_regime": false,
+      "special_tax_regime_details": "",
+      "leads_to_permanent_residence": true,
+      "permanent_residency_details": "Eligible for permanent residency after two years of continuous residency.",
+      "taxes": {
+        "employees": {
+          "income_tax": [
+            {
+              "min_income_range": 0,
+              "max_income_range": 8240400,
+              "rate_pct": 0
+            },
+            {
+              "min_income_range": 8240401,
+              "max_income_range": 18345000,
+              "rate_pct": 4
+            },
+            {
+              "min_income_range": 18345001,
+              "max_income_range": 30575000,
+              "rate_pct": 8
+            },
+            {
+              "min_income_range": 30575001,
+              "max_income_range": 42635000,
+              "rate_pct": 13.5
+            },
+            {
+              "min_income_range": 42635001,
+              "max_income_range": 61085000,
+              "rate_pct": 23
+            },
+            {
+              "min_income_range": 61085001,
+              "max_income_range": 152700000,
+              "rate_pct": 30.4
+            },
+            {
+              "min_income_range": 152700001,
+              "max_income_range": null,
+              "rate_pct": 35
+            }
+          ],
+          "social_security": [
+            {
+              "min_income_range": 0,
+              "max_income_range": null,
+              "rate_pct": 7
+            }
+          ]
+        },
+        "contractors": {
+          "income_tax": [
+            {
+              "min_income_range": 0,
+              "max_income_range": 8240400,
+              "rate_pct": 0
+            },
+            {
+              "min_income_range": 8240401,
+              "max_income_range": 18345000,
+              "rate_pct": 4
+            },
+            {
+              "min_income_range": 18345001,
+              "max_income_range": 30575000,
+              "rate_pct": 8
+            },
+            {
+              "min_income_range": 30575001,
+              "max_income_range": 42635000,
+              "rate_pct": 13.5
+            },
+            {
+              "min_income_range": 42635001,
+              "max_income_range": 61085000,
+              "rate_pct": 23
+            },
+            {
+              "min_income_range": 61085001,
+              "max_income_range": 152700000,
+              "rate_pct": 30.4
+            },
+            {
+              "min_income_range": 152700001,
+              "max_income_range": null,
+              "rate_pct": 35
+            }
+          ],
+          "social_security": [
+            {
+              "min_income_range": 0,
+              "max_income_range": null,
+              "rate_pct": 7
+            }
+          ]
+        },
+        "retirees": {
+          "income_tax": [
+            {
+              "min_income_range": 0,
+              "max_income_range": 8240400,
+              "rate_pct": 0
+            },
+            {
+              "min_income_range": 8240401,
+              "max_income_range": 18345000,
+              "rate_pct": 4
+            },
+            {
+              "min_income_range": 18345001,
+              "max_income_range": 30575000,
+              "rate_pct": 8
+            },
+            {
+              "min_income_range": 30575001,
+              "max_income_range": 42635000,
+              "rate_pct": 13.5
+            },
+            {
+              "min_income_range": 42635001,
+              "max_income_range": 61085000,
+              "rate_pct": 23
+            },
+            {
+              "min_income_range": 61085001,
+              "max_income_range": 152700000,
+              "rate_pct": 30.4
+            },
+            {
+              "min_income_range": 152700001,
+              "max_income_range": null,
+              "rate_pct": 35
+            }
+          ],
+          "social_security": []
+        },
+        "special_regimes": []
+      },
+      "required_documents": [
+        "Valid passport",
+        "Proof of income or funds",
+        "Police clearance certificate",
+        "Health insurance covering the duration of stay",
+        "Proof of residence in Chile"
+      ]
+    }
+  ]
+}
