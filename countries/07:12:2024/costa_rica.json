@@ -120,8 +120,7 @@
             {
               "min_income_range": 0,
               "max_income_range": 100000,
-              "rate_pct": 0,
-              "misc_details": "No social security contributions required for digital nomads."
+              "rate_pct": 0
             }
           ]
         },
@@ -131,8 +130,7 @@
             {
               "min_income_range": 0,
               "max_income_range": 100000,
-              "rate_pct": 0,
-              "misc_details": "No social security contributions required for digital nomads."
+              "rate_pct": 0
             }
           ]
         },
@@ -151,6 +149,7 @@
               "Proof of accommodation for the duration of your stay",
               "An employment contract or freelancer agreements"
             ],
+            "tax_residency_trigger_applies": false,
             "contractors_with_foreign_clients_eligible": true,
             "contractors_with_local_clients_eligible": false,
             "employees_with_foreign_employer_eligible": true,
