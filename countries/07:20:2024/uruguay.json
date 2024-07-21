@@ -1,543 +1,543 @@
 {
-  "country_name": "Uruguay",
-  "country_code": "UY",
-  "capital": "Montevideo",
-  "display": true,
-  "currency": "UYU",
-  "anchor_country": true,
-  "has_nomad_visa": true,
-  "schengen_zone": false,
-  "in_european_union": false,
-  "cost_of_living_index": 55.3,
-  "cost_of_living_lvl": "$$$",
-  "practical_tips": {
-    "financial_benefits": [
-      {
-        "benefit": "Tax Incentives",
-        "description": "Uruguay offers tax incentives for foreign residents, including no tax on foreign income for the first five years."
-      },
-      {
-        "benefit": "Stable Economy",
-        "description": "Uruguay boasts a stable economy and banking system, making it a safe place for financial investments."
-      }
+    "country_name": "Uruguay",
+    "country_code": "UY",
+    "capital": "Montevideo",
+    "display": true,
+    "currency": "UYU",
+    "anchor_country": true,
+    "has_nomad_visa": true,
+    "schengen_zone": false,
+    "in_european_union": false,
+    "cost_of_living_index": 55.3,
+    "cost_of_living_lvl": "$$$",
+    "practical_tips": {
+        "financial_benefits": [
+            {
+                "benefit": "Tax Incentives",
+                "description": "Uruguay offers tax incentives for foreign residents, including no tax on foreign income for the first five years."
+            },
+            {
+                "benefit": "Stable Economy",
+                "description": "Uruguay boasts a stable economy and banking system, making it a safe place for financial investments."
+            }
+        ],
+        "lifestyle_benefits": [
+            {
+                "benefit": "High Quality of Life",
+                "description": "Uruguay ranks highly in quality of life indices, with excellent healthcare and education systems."
+            },
+            {
+                "benefit": "Mild Climate",
+                "description": "Enjoy a mild climate with warm summers and cool winters, making it comfortable year-round."
+            }
+        ],
+        "additional_benefits": [
+            {
+                "benefit": "Safe and Secure",
+                "description": "Uruguay is known for its low crime rates and overall safety."
+            },
+            {
+                "benefit": "Vibrant Culture",
+                "description": "The country has a rich cultural heritage, including music, art, and festivals."
+            }
+        ]
+    },
+    "key_consideration": "Uruguay offers a range of visas for long-term stays, though it does not have a specific digital nomad visa. Foreign income is not taxed for the first five years of residency.",
+    "best_for": [
+        "contractors",
+        "short stay nomads",
+        "long stay nomads",
+        "retirees"
     ],
-    "lifestyle_benefits": [
-      {
-        "benefit": "High Quality of Life",
-        "description": "Uruguay ranks highly in quality of life indices, with excellent healthcare and education systems."
-      },
-      {
-        "benefit": "Mild Climate",
-        "description": "Enjoy a mild climate with warm summers and cool winters, making it comfortable year-round."
-      }
-    ],
-    "additional_benefits": [
-      {
-        "benefit": "Safe and Secure",
-        "description": "Uruguay is known for its low crime rates and overall safety."
-      },
-      {
-        "benefit": "Vibrant Culture",
-        "description": "The country has a rich cultural heritage, including music, art, and festivals."
-      }
+    "action_comment": "Consider Uruguay for its stable economy, high quality of life, and favorable tax conditions for foreign residents.",
+    "tagline": "Experience a stable and vibrant life in Uruguay.",
+    "image": "uruguay.jpg",
+    "tax_residency_trigger": 183,
+    "tax_residency_trigger_details": "You are considered a tax resident if you stay for longer than 183 days in a calendar year or if your main economic interests are in Uruguay.",
+    "country_standard_taxes": {
+        "tax_currency": "UYU",
+        "employees": {
+            "income_tax": [
+                {
+                    "min_income_range": 0,
+                    "max_income_range": 87000,
+                    "rate_pct": 0
+                },
+                {
+                    "min_income_range": 87001,
+                    "max_income_range": 260000,
+                    "rate_pct": 10
+                },
+                {
+                    "min_income_range": 260001,
+                    "max_income_range": 390000,
+                    "rate_pct": 15
+                },
+                {
+                    "min_income_range": 390001,
+                    "max_income_range": 520000,
+                    "rate_pct": 24
+                },
+                {
+                    "min_income_range": 520001,
+                    "max_income_range": 650000,
+                    "rate_pct": 25
+                },
+                {
+                    "min_income_range": 650001,
+                    "max_income_range": 780000,
+                    "rate_pct": 27
+                },
+                {
+                    "min_income_range": 780001,
+                    "max_income_range": null,
+                    "rate_pct": 31
+                },
+                {
+                    "min_income_range": 780001,
+                    "max_income_range": null,
+                    "rate_pct": 36
+                }
+            ],
+            "social_security": [
+                {
+                    "min_income_range": 0,
+                    "max_income_range": null,
+                    "rate_pct": 15
+                }
+            ]
+        },
+        "contractors": {
+            "income_tax": [
+                {
+                    "min_income_range": 0,
+                    "max_income_range": 87000,
+                    "rate_pct": 0
+                },
+                {
+                    "min_income_range": 87001,
+                    "max_income_range": 260000,
+                    "rate_pct": 10
+                },
+                {
+                    "min_income_range": 260001,
+                    "max_income_range": 390000,
+                    "rate_pct": 15
+                },
+                {
+                    "min_income_range": 390001,
+                    "max_income_range": 520000,
+                    "rate_pct": 20
+                },
+                {
+                    "min_income_range": 520001,
+                    "max_income_range": 650000,
+                    "rate_pct": 22
+                },
+                {
+                    "min_income_range": 650001,
+                    "max_income_range": 780000,
+                    "rate_pct": 25
+                },
+                {
+                    "min_income_range": 780001,
+                    "max_income_range": null,
+                    "rate_pct": 30
+                }
+            ],
+            "social_security": [
+                {
+                    "min_income_range": 0,
+                    "max_income_range": null,
+                    "rate_pct": 15
+                }
+            ]
+        },
+        "retirees": {
+            "income_tax": [
+                {
+                    "min_income_range": 0,
+                    "max_income_range": 87000,
+                    "rate_pct": 0
+                },
+                {
+                    "min_income_range": 87001,
+                    "max_income_range": 260000,
+                    "rate_pct": 10
+                },
+                {
+                    "min_income_range": 260001,
+                    "max_income_range": 390000,
+                    "rate_pct": 15
+                },
+                {
+                    "min_income_range": 390001,
+                    "max_income_range": 520000,
+                    "rate_pct": 20
+                },
+                {
+                    "min_income_range": 520001,
+                    "max_income_range": 650000,
+                    "rate_pct": 22
+                },
+                {
+                    "min_income_range": 650001,
+                    "max_income_range": 780000,
+                    "rate_pct": 25
+                },
+                {
+                    "min_income_range": 780001,
+                    "max_income_range": null,
+                    "rate_pct": 30
+                }
+            ],
+            "social_security": []
+        }
+    },
+    "visas": [
+        {
+            "visa_name": "Temporary Residence Visa",
+            "nomad_visa": false,
+            "official_government_link": "https://migracion.minterior.gub.uy/index.php",
+            "key_consideration": "Allows foreigners to live in Uruguay for an extended period, often leading to permanent residency.",
+            "validity_months": 36,
+            "income_requirement": {
+                "currency": "USD",
+                "single_monthly": 1500,
+                "family_monthly": 3000,
+                "misc_details": "Applicants must show proof of sufficient funds or income to support themselves."
+            },
+            "application_timeline_days": 60,
+            "application_in_country": true,
+            "application_fee": {
+                "currency": "USD",
+                "single": 100,
+                "family": 200,
+                "details": "Fee covers the main applicant and dependents."
+            },
+            "dependent_application": true,
+            "local_tax_on_foreign_income": true,
+            "renewability": true,
+            "renewability_details": "The visa can be renewed, and holders can apply for permanent residency.",
+            "days_in_country_to_renew_visa": 183,
+            "special_tax_regime": false,
+            "special_tax_regime_details": "",
+            "leads_to_permanent_residence": true,
+            "permanent_residency_details": "Eligible for permanent residency after a period of continuous residence.",
+            "taxes": {
+                "employees": {
+                    "income_tax": [
+                        {
+                            "min_income_range": 0,
+                            "max_income_range": 87000,
+                            "rate_pct": 0
+                        },
+                        {
+                            "min_income_range": 87001,
+                            "max_income_range": 260000,
+                            "rate_pct": 10
+                        },
+                        {
+                            "min_income_range": 260001,
+                            "max_income_range": 390000,
+                            "rate_pct": 15
+                        },
+                        {
+                            "min_income_range": 390001,
+                            "max_income_range": 520000,
+                            "rate_pct": 20
+                        },
+                        {
+                            "min_income_range": 520001,
+                            "max_income_range": 650000,
+                            "rate_pct": 22
+                        },
+                        {
+                            "min_income_range": 650001,
+                            "max_income_range": 780000,
+                            "rate_pct": 25
+                        },
+                        {
+                            "min_income_range": 780001,
+                            "max_income_range": null,
+                            "rate_pct": 30
+                        }
+                    ],
+                    "social_security": [
+                        {
+                            "min_income_range": 0,
+                            "max_income_range": null,
+                            "rate_pct": 15
+                        }
+                    ]
+                },
+                "contractors": {
+                    "income_tax": [
+                        {
+                            "min_income_range": 0,
+                            "max_income_range": 87000,
+                            "rate_pct": 0
+                        },
+                        {
+                            "min_income_range": 87001,
+                            "max_income_range": 260000,
+                            "rate_pct": 10
+                        },
+                        {
+                            "min_income_range": 260001,
+                            "max_income_range": 390000,
+                            "rate_pct": 15
+                        },
+                        {
+                            "min_income_range": 390001,
+                            "max_income_range": 520000,
+                            "rate_pct": 20
+                        },
+                        {
+                            "min_income_range": 520001,
+                            "max_income_range": 650000,
+                            "rate_pct": 22
+                        },
+                        {
+                            "min_income_range": 650001,
+                            "max_income_range": 780000,
+                            "rate_pct": 25
+                        },
+                        {
+                            "min_income_range": 780001,
+                            "max_income_range": null,
+                            "rate_pct": 30
+                        }
+                    ],
+                    "social_security": [
+                        {
+                            "min_income_range": 0,
+                            "max_income_range": null,
+                            "rate_pct": 15
+                        }
+                    ]
+                },
+                "retirees": {
+                    "income_tax": [
+                        {
+                            "min_income_range": 0,
+                            "max_income_range": 87000,
+                            "rate_pct": 0
+                        },
+                        {
+                            "min_income_range": 87001,
+                            "max_income_range": 260000,
+                            "rate_pct": 10
+                        },
+                        {
+                            "min_income_range": 260001,
+                            "max_income_range": 390000,
+                            "rate_pct": 15
+                        },
+                        {
+                            "min_income_range": 390001,
+                            "max_income_range": 520000,
+                            "rate_pct": 20
+                        },
+                        {
+                            "min_income_range": 520001,
+                            "max_income_range": 650000,
+                            "rate_pct": 22
+                        },
+                        {
+                            "min_income_range": 650001,
+                            "max_income_range": 780000,
+                            "rate_pct": 25
+                        },
+                        {
+                            "min_income_range": 780001,
+                            "max_income_range": null,
+                            "rate_pct": 30
+                        }
+                    ],
+                    "social_security": []
+                },
+                "special_regimes": []
+            },
+            "required_documents": [
+                "Valid passport",
+                "Proof of income or funds",
+                "Police clearance certificate",
+                "Health insurance covering the duration of stay",
+                "Proof of residence in Uruguay"
+            ]
+        },
+        {
+            "visa_name": "Permanent Residency Visa",
+            "nomad_visa": false,
+            "official_government_link": "https://migracion.minterior.gub.uy/index.php",
+            "key_consideration": "For individuals intending to reside in Uruguay permanently.",
+            "validity_months": null,
+            "income_requirement": {
+                "currency": "USD",
+                "single_monthly": 1500,
+                "family_monthly": 3000,
+                "misc_details": "Applicants must show proof of sufficient funds or income to support themselves."
+            },
+            "application_timeline_days": 180,
+            "application_in_country": true,
+            "application_fee": {
+                "currency": "USD",
+                "single": 100,
+                "family": 200,
+                "details": "Fee covers the main applicant and dependents."
+            },
+            "dependent_application": true,
+            "local_tax_on_foreign_income": true,
+            "renewability": true,
+            "renewability_details": "Permanent residency does not require renewal but may be subject to periodic reviews.",
+            "days_in_country_to_renew_visa": 183,
+            "special_tax_regime": false,
+            "special_tax_regime_details": "",
+            "leads_to_permanent_residence": true,
+            "permanent_residency_details": "Permanent residency allows individuals to live and work in Uruguay indefinitely.",
+            "taxes": {
+                "employees": {
+                    "income_tax": [
+                        {
+                            "min_income_range": 0,
+                            "max_income_range": 87000,
+                            "rate_pct": 0
+                        },
+                        {
+                            "min_income_range": 87001,
+                            "max_income_range": 260000,
+                            "rate_pct": 10
+                        },
+                        {
+                            "min_income_range": 260001,
+                            "max_income_range": 390000,
+                            "rate_pct": 15
+                        },
+                        {
+                            "min_income_range": 390001,
+                            "max_income_range": 520000,
+                            "rate_pct": 20
+                        },
+                        {
+                            "min_income_range": 520001,
+                            "max_income_range": 650000,
+                            "rate_pct": 22
+                        },
+                        {
+                            "min_income_range": 650001,
+                            "max_income_range": 780000,
+                            "rate_pct": 25
+                        },
+                        {
+                            "min_income_range": 780001,
+                            "max_income_range": null,
+                            "rate_pct": 30
+                        }
+                    ],
+                    "social_security": [
+                        {
+                            "min_income_range": 0,
+                            "max_income_range": null,
+                            "rate_pct": 15
+                        }
+                    ]
+                },
+                "contractors": {
+                    "income_tax": [
+                        {
+                            "min_income_range": 0,
+                            "max_income_range": 87000,
+                            "rate_pct": 0
+                        },
+                        {
+                            "min_income_range": 87001,
+                            "max_income_range": 260000,
+                            "rate_pct": 10
+                        },
+                        {
+                            "min_income_range": 260001,
+                            "max_income_range": 390000,
+                            "rate_pct": 15
+                        },
+                        {
+                            "min_income_range": 390001,
+                            "max_income_range": 520000,
+                            "rate_pct": 20
+                        },
+                        {
+                            "min_income_range": 520001,
+                            "max_income_range": 650000,
+                            "rate_pct": 22
+                        },
+                        {
+                            "min_income_range": 650001,
+                            "max_income_range": 780000,
+                            "rate_pct": 25
+                        },
+                        {
+                            "min_income_range": 780001,
+                            "max_income_range": null,
+                            "rate_pct": 30
+                        }
+                    ],
+                    "social_security": [
+                        {
+                            "min_income_range": 0,
+                            "max_income_range": null,
+                            "rate_pct": 15
+                        }
+                    ]
+                },
+                "retirees": {
+                    "income_tax": [
+                        {
+                            "min_income_range": 0,
+                            "max_income_range": 87000,
+                            "rate_pct": 0
+                        },
+                        {
+                            "min_income_range": 87001,
+                            "max_income_range": 260000,
+                            "rate_pct": 10
+                        },
+                        {
+                            "min_income_range": 260001,
+                            "max_income_range": 390000,
+                            "rate_pct": 15
+                        },
+                        {
+                            "min_income_range": 390001,
+                            "max_income_range": 520000,
+                            "rate_pct": 20
+                        },
+                        {
+                            "min_income_range": 520001,
+                            "max_income_range": 650000,
+                            "rate_pct": 22
+                        },
+                        {
+                            "min_income_range": 650001,
+                            "max_income_range": 780000,
+                            "rate_pct": 25
+                        },
+                        {
+                            "min_income_range": 780001,
+                            "max_income_range": null,
+                            "rate_pct": 30
+                        }
+                    ],
+                    "social_security": []
+                },
+                "special_regimes": []
+            },
+            "required_documents": [
+                "Valid passport",
+                "Proof of income or funds",
+                "Police clearance certificate",
+                "Health insurance covering the duration of stay",
+                "Proof of residence in Uruguay"
+            ]
+        }
     ]
-  },
-  "key_consideration": "Uruguay offers a range of visas for long-term stays, though it does not have a specific digital nomad visa. Foreign income is not taxed for the first five years of residency.",
-  "best_for": [
-    "contractors",
-    "short stay nomads",
-    "long stay nomads",
-    "retirees"
-  ],
-  "action_comment": "Consider Uruguay for its stable economy, high quality of life, and favorable tax conditions for foreign residents.",
-  "tagline": "Experience a stable and vibrant life in Uruguay.",
-  "image": "uruguay.jpg",
-  "tax_residency_trigger": 183,
-  "tax_residency_trigger_details": "You are considered a tax resident if you stay for longer than 183 days in a calendar year or if your main economic interests are in Uruguay.",
-  "country_standard_taxes": {
-    "tax_currency": "UYU",
-    "employees": {
-      "income_tax": [
-        {
-          "min_income_range": 0,
-          "max_income_range": 87000,
-          "rate_pct": 0
-        },
-        {
-          "min_income_range": 87001,
-          "max_income_range": 260000,
-          "rate_pct": 10
-        },
-        {
-          "min_income_range": 260001,
-          "max_income_range": 390000,
-          "rate_pct": 15
-        },
-        {
-          "min_income_range": 390001,
-          "max_income_range": 520000,
-          "rate_pct": 24
-        },
-        {
-          "min_income_range": 520001,
-          "max_income_range": 650000,
-          "rate_pct": 25
-        },
-        {
-          "min_income_range": 650001,
-          "max_income_range": 780000,
-          "rate_pct": 27
-        },
-        {
-          "min_income_range": 780001,
-          "max_income_range": null,
-          "rate_pct": 31
-        },
-        {
-          "min_income_range": 780001,
-          "max_income_range": null,
-          "rate_pct": 36
-        }
-      ],
-      "social_security": [
-        {
-          "min_income_range": 0,
-          "max_income_range": null,
-          "rate_pct": 15
-        }
-      ]
-    },
-    "contractors": {
-      "income_tax": [
-        {
-          "min_income_range": 0,
-          "max_income_range": 87000,
-          "rate_pct": 0
-        },
-        {
-          "min_income_range": 87001,
-          "max_income_range": 260000,
-          "rate_pct": 10
-        },
-        {
-          "min_income_range": 260001,
-          "max_income_range": 390000,
-          "rate_pct": 15
-        },
-        {
-          "min_income_range": 390001,
-          "max_income_range": 520000,
-          "rate_pct": 20
-        },
-        {
-          "min_income_range": 520001,
-          "max_income_range": 650000,
-          "rate_pct": 22
-        },
-        {
-          "min_income_range": 650001,
-          "max_income_range": 780000,
-          "rate_pct": 25
-        },
-        {
-          "min_income_range": 780001,
-          "max_income_range": null,
-          "rate_pct": 30
-        }
-      ],
-      "social_security": [
-        {
-          "min_income_range": 0,
-          "max_income_range": null,
-          "rate_pct": 15
-        }
-      ]
-    },
-    "retirees": {
-      "income_tax": [
-        {
-          "min_income_range": 0,
-          "max_income_range": 87000,
-          "rate_pct": 0
-        },
-        {
-          "min_income_range": 87001,
-          "max_income_range": 260000,
-          "rate_pct": 10
-        },
-        {
-          "min_income_range": 260001,
-          "max_income_range": 390000,
-          "rate_pct": 15
-        },
-        {
-          "min_income_range": 390001,
-          "max_income_range": 520000,
-          "rate_pct": 20
-        },
-        {
-          "min_income_range": 520001,
-          "max_income_range": 650000,
-          "rate_pct": 22
-        },
-        {
-          "min_income_range": 650001,
-          "max_income_range": 780000,
-          "rate_pct": 25
-        },
-        {
-          "min_income_range": 780001,
-          "max_income_range": null,
-          "rate_pct": 30
-        }
-      ],
-      "social_security": []
-    }
-  },
-  "visas": [
-    {
-      "visa_name": "Temporary Residence Visa",
-      "nomad_visa": false,
-      "official_government_link": "https://migracion.minterior.gub.uy/index.php",
-      "key_consideration": "Allows foreigners to live in Uruguay for an extended period, often leading to permanent residency.",
-      "validity_months": 36,
-      "income_requirement": {
-        "currency": "USD",
-        "single_monthly": 1500,
-        "family_monthly": 3000,
-        "misc_details": "Applicants must show proof of sufficient funds or income to support themselves."
-      },
-      "application_timeline_days": 60,
-      "application_in_country": true,
-      "application_fee": {
-        "currency": "USD",
-        "single": 100,
-        "family": 200,
-        "details": "Fee covers the main applicant and dependents."
-      },
-      "dependent_application": true,
-      "local_tax_on_foreign_income": true,
-      "renewability": true,
-      "renewability_details": "The visa can be renewed, and holders can apply for permanent residency.",
-      "days_in_country_to_renew_visa": 183,
-      "special_tax_regime": false,
-      "special_tax_regime_details": "",
-      "leads_to_permanent_residence": true,
-      "permanent_residency_details": "Eligible for permanent residency after a period of continuous residence.",
-      "taxes": {
-        "employees": {
-          "income_tax": [
-            {
-              "min_income_range": 0,
-              "max_income_range": 87000,
-              "rate_pct": 0
-            },
-            {
-              "min_income_range": 87001,
-              "max_income_range": 260000,
-              "rate_pct": 10
-            },
-            {
-              "min_income_range": 260001,
-              "max_income_range": 390000,
-              "rate_pct": 15
-            },
-            {
-              "min_income_range": 390001,
-              "max_income_range": 520000,
-              "rate_pct": 20
-            },
-            {
-              "min_income_range": 520001,
-              "max_income_range": 650000,
-              "rate_pct": 22
-            },
-            {
-              "min_income_range": 650001,
-              "max_income_range": 780000,
-              "rate_pct": 25
-            },
-            {
-              "min_income_range": 780001,
-              "max_income_range": null,
-              "rate_pct": 30
-            }
-          ],
-          "social_security": [
-            {
-              "min_income_range": 0,
-              "max_income_range": null,
-              "rate_pct": 15
-            }
-          ]
-        },
-        "contractors": {
-          "income_tax": [
-            {
-              "min_income_range": 0,
-              "max_income_range": 87000,
-              "rate_pct": 0
-            },
-            {
-              "min_income_range": 87001,
-              "max_income_range": 260000,
-              "rate_pct": 10
-            },
-            {
-              "min_income_range": 260001,
-              "max_income_range": 390000,
-              "rate_pct": 15
-            },
-            {
-              "min_income_range": 390001,
-              "max_income_range": 520000,
-              "rate_pct": 20
-            },
-            {
-              "min_income_range": 520001,
-              "max_income_range": 650000,
-              "rate_pct": 22
-            },
-            {
-              "min_income_range": 650001,
-              "max_income_range": 780000,
-              "rate_pct": 25
-            },
-            {
-              "min_income_range": 780001,
-              "max_income_range": null,
-              "rate_pct": 30
-            }
-          ],
-          "social_security": [
-            {
-              "min_income_range": 0,
-              "max_income_range": null,
-              "rate_pct": 15
-            }
-          ]
-        },
-        "retirees": {
-          "income_tax": [
-            {
-              "min_income_range": 0,
-              "max_income_range": 87000,
-              "rate_pct": 0
-            },
-            {
-              "min_income_range": 87001,
-              "max_income_range": 260000,
-              "rate_pct": 10
-            },
-            {
-              "min_income_range": 260001,
-              "max_income_range": 390000,
-              "rate_pct": 15
-            },
-            {
-              "min_income_range": 390001,
-              "max_income_range": 520000,
-              "rate_pct": 20
-            },
-            {
-              "min_income_range": 520001,
-              "max_income_range": 650000,
-              "rate_pct": 22
-            },
-            {
-              "min_income_range": 650001,
-              "max_income_range": 780000,
-              "rate_pct": 25
-            },
-            {
-              "min_income_range": 780001,
-              "max_income_range": null,
-              "rate_pct": 30
-            }
-          ],
-          "social_security": []
-        },
-        "special_regimes": []
-      },
-      "required_documents": [
-        "Valid passport",
-        "Proof of income or funds",
-        "Police clearance certificate",
-        "Health insurance covering the duration of stay",
-        "Proof of residence in Uruguay"
-      ]
-    },
-    {
-      "visa_name": "Permanent Residency Visa",
-      "nomad_visa": false,
-      "official_government_link": "https://migracion.minterior.gub.uy/index.php",
-      "key_consideration": "For individuals intending to reside in Uruguay permanently.",
-      "validity_months": null,
-      "income_requirement": {
-        "currency": "USD",
-        "single_monthly": 1500,
-        "family_monthly": 3000,
-        "misc_details": "Applicants must show proof of sufficient funds or income to support themselves."
-      },
-      "application_timeline_days": 180,
-      "application_in_country": true,
-      "application_fee": {
-        "currency": "USD",
-        "single": 100,
-        "family": 200,
-        "details": "Fee covers the main applicant and dependents."
-      },
-      "dependent_application": true,
-      "local_tax_on_foreign_income": true,
-      "renewability": true,
-      "renewability_details": "Permanent residency does not require renewal but may be subject to periodic reviews.",
-      "days_in_country_to_renew_visa": 183,
-      "special_tax_regime": false,
-      "special_tax_regime_details": "",
-      "leads_to_permanent_residence": true,
-      "permanent_residency_details": "Permanent residency allows individuals to live and work in Uruguay indefinitely.",
-      "taxes": {
-        "employees": {
-          "income_tax": [
-            {
-              "min_income_range": 0,
-              "max_income_range": 87000,
-              "rate_pct": 0
-            },
-            {
-              "min_income_range": 87001,
-              "max_income_range": 260000,
-              "rate_pct": 10
-            },
-            {
-              "min_income_range": 260001,
-              "max_income_range": 390000,
-              "rate_pct": 15
-            },
-            {
-              "min_income_range": 390001,
-              "max_income_range": 520000,
-              "rate_pct": 20
-            },
-            {
-              "min_income_range": 520001,
-              "max_income_range": 650000,
-              "rate_pct": 22
-            },
-            {
-              "min_income_range": 650001,
-              "max_income_range": 780000,
-              "rate_pct": 25
-            },
-            {
-              "min_income_range": 780001,
-              "max_income_range": null,
-              "rate_pct": 30
-            }
-          ],
-          "social_security": [
-            {
-              "min_income_range": 0,
-              "max_income_range": null,
-              "rate_pct": 15
-            }
-          ]
-        },
-        "contractors": {
-          "income_tax": [
-            {
-              "min_income_range": 0,
-              "max_income_range": 87000,
-              "rate_pct": 0
-            },
-            {
-              "min_income_range": 87001,
-              "max_income_range": 260000,
-              "rate_pct": 10
-            },
-            {
-              "min_income_range": 260001,
-              "max_income_range": 390000,
-              "rate_pct": 15
-            },
-            {
-              "min_income_range": 390001,
-              "max_income_range": 520000,
-              "rate_pct": 20
-            },
-            {
-              "min_income_range": 520001,
-              "max_income_range": 650000,
-              "rate_pct": 22
-            },
-            {
-              "min_income_range": 650001,
-              "max_income_range": 780000,
-              "rate_pct": 25
-            },
-            {
-              "min_income_range": 780001,
-              "max_income_range": null,
-              "rate_pct": 30
-            }
-          ],
-          "social_security": [
-            {
-              "min_income_range": 0,
-              "max_income_range": null,
-              "rate_pct": 15
-            }
-          ]
-        },
-        "retirees": {
-          "income_tax": [
-            {
-              "min_income_range": 0,
-              "max_income_range": 87000,
-              "rate_pct": 0
-            },
-            {
-              "min_income_range": 87001,
-              "max_income_range": 260000,
-              "rate_pct": 10
-            },
-            {
-              "min_income_range": 260001,
-              "max_income_range": 390000,
-              "rate_pct": 15
-            },
-            {
-              "min_income_range": 390001,
-              "max_income_range": 520000,
-              "rate_pct": 20
-            },
-            {
-              "min_income_range": 520001,
-              "max_income_range": 650000,
-              "rate_pct": 22
-            },
-            {
-              "min_income_range": 650001,
-              "max_income_range": 780000,
-              "rate_pct": 25
-            },
-            {
-              "min_income_range": 780001,
-              "max_income_range": null,
-              "rate_pct": 30
-            }
-          ],
-          "social_security": []
-        },
-        "special_regimes": []
-      },
-      "required_documents": [
-        "Valid passport",
-        "Proof of income or funds",
-        "Police clearance certificate",
-        "Health insurance covering the duration of stay",
-        "Proof of residence in Uruguay"
-      ]
-    }
-  ]
 }

@@ -58,52 +58,32 @@
     "employees": {
       "income_tax": [
         {
-          "income_bracket": "All Income",
-          "rate": "20%",
-          "details": "A flat income tax rate of 20% is applied to income earned in Georgia for residents. Non-residents are taxed only on their income earned in Georgia."
+          "min_income_range": 0,
+          "max_income_range": null,
+          "rate_pct": 20
         }
       ],
-      "social_security": [
-        {
-          "employee_contribution_percent": {
-            "min": 0,
-            "max": 0,
-            "misc_details": "There are no mandatory social security contributions in Georgia for employees."
-          }
-        }
-      ]
+      "social_security": []
     },
     "contractors": {
       "income_tax": [
         {
-          "income_bracket": "All Income",
-          "rate": "20%",
-          "details": "Contractors are subject to the same flat income tax rate of 20% on income earned in Georgia for residents. Non-residents are taxed only on their income earned in Georgia."
+          "min_income_range": 0,
+          "max_income_range": null,
+          "rate_pct": 20
         }
       ],
-      "social_security": {
-        "self_employed_contribution": {
-          "min": 0,
-          "max": 0,
-          "misc_details": "There are no mandatory social security contributions in Georgia for self-employed individuals."
-        }
-      }
+      "social_security": []
     },
     "retirees": {
       "income_tax": [
         {
-          "income_bracket": "All Income",
-          "rate": "20%",
-          "details": "Retirees are subject to the same flat income tax rate of 20% on income earned in Georgia for residents. Non-residents are taxed only on their income earned in Georgia."
+          "min_income_range": 0,
+          "max_income_range": null,
+          "rate_pct": 20
         }
       ],
-      "social_security": {
-        "self_employed_contribution": {
-          "min": 0,
-          "max": 0,
-          "misc_details": "There are no mandatory social security contributions in Georgia for retirees."
-        }
-      }
+      "social_security": []
     }
   },
   "visas": [
@@ -115,7 +95,7 @@
       "validity_months": 12,
       "income_requirement": {
         "currency": "USD",
-        "monthly": 2000,
+        "single_monthly": 2000,
         "annual": 24000,
         "misc_details": "Applicants must show proof of income meeting the minimum threshold of $2,000 per month or $24,000 in savings."
       },
@@ -177,7 +157,9 @@
             "contractors_with_local_clients_eligible": false,
             "employees_with_foreign_employer_eligible": true,
             "social_security": false,
-            "income_tax": false
+            "income_tax": false,
+            "apply_standard_rate_after_trigger": true,
+            "apply_special_rate_after_trigger": false
           }
         ]
       },

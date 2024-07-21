@@ -1,312 +1,311 @@
 {
-  "country_name": "Poland",
-  "country_code": "PL",
-  "capital": "Warsaw",
-  "display": true,
-  "currency": "PLN",
-  "anchor_country": false,
-  "has_nomad_visa": false,
-  "schengen_zone": true,
-  "in_european_union": true,
-  "cost_of_living_index": 41.9,
-  "cost_of_living_lvl": "$$",
-  "practical_tips": {
-    "financial_benefits": [
-      {
-        "benefit": "Affordable Living",
-        "description": "The cost of living in Poland is lower compared to many Western European countries."
-      },
-      {
-        "benefit": "Stable Economy",
-        "description": "Poland has a stable economy and a growing tech sector."
-      }
+    "country_name": "Poland",
+    "country_code": "PL",
+    "capital": "Warsaw",
+    "display": true,
+    "currency": "PLN",
+    "anchor_country": false,
+    "has_nomad_visa": false,
+    "schengen_zone": true,
+    "in_european_union": true,
+    "cost_of_living_index": 41.9,
+    "cost_of_living_lvl": "$$",
+    "practical_tips": {
+        "financial_benefits": [
+            {
+                "benefit": "Affordable Living",
+                "description": "The cost of living in Poland is lower compared to many Western European countries."
+            },
+            {
+                "benefit": "Stable Economy",
+                "description": "Poland has a stable economy and a growing tech sector."
+            }
+        ],
+        "lifestyle_benefits": [
+            {
+                "benefit": "Rich History and Culture",
+                "description": "Poland offers a wealth of historical sites, cultural events, and a vibrant arts scene."
+            },
+            {
+                "benefit": "Natural Beauty",
+                "description": "Poland boasts diverse landscapes, from mountains and forests to lakes and beaches."
+            }
+        ],
+        "additional_benefits": [
+            {
+                "benefit": "English Friendly",
+                "description": "English is widely spoken in major cities and among the younger population."
+            },
+            {
+                "benefit": "Well-Connected",
+                "description": "Poland's central location in Europe makes it a hub for travel and business."
+            }
+        ]
+    },
+    "key_consideration": "While Poland does not offer a specific digital nomad visa, it provides various visa options for long-term stays.",
+    "best_for": [
+        "contractors",
+        "retirees"
     ],
-    "lifestyle_benefits": [
-      {
-        "benefit": "Rich History and Culture",
-        "description": "Poland offers a wealth of historical sites, cultural events, and a vibrant arts scene."
-      },
-      {
-        "benefit": "Natural Beauty",
-        "description": "Poland boasts diverse landscapes, from mountains and forests to lakes and beaches."
-      }
-    ],
-    "additional_benefits": [
-      {
-        "benefit": "English Friendly",
-        "description": "English is widely spoken in major cities and among the younger population."
-      },
-      {
-        "benefit": "Well-Connected",
-        "description": "Poland's central location in Europe makes it a hub for travel and business."
-      }
+    "action_comment": "Consider Poland for its affordable cost of living, rich culture, and strategic location in Europe.",
+    "tagline": "Discover the heart of Europe in Poland.",
+    "image": "poland.jpg",
+    "tax_residency_trigger": 183,
+    "tax_residency_trigger_details": "You are considered a tax resident if you stay for longer than 183 days in a calendar year.",
+    "country_standard_taxes": {
+        "tax_currency": "PLN",
+        "employees": {
+            "income_tax": [
+                {
+                    "min_income_range": 0,
+                    "max_income_range": 120000,
+                    "rate_pct": 12
+                },
+                {
+                    "min_income_range": 120000,
+                    "max_income_range": null,
+                    "rate_pct": 32
+                }
+            ],
+            "social_security": [
+                {
+                    "min_income_range": 0,
+                    "max_income_range": 208050,
+                    "rate_pct": 13.71
+                }
+            ]
+        },
+        "contractors": {
+            "income_tax": [
+                {
+                    "min_income_range": 0,
+                    "max_income_range": 120000,
+                    "rate_pct": 12
+                },
+                {
+                    "min_income_range": 120000,
+                    "max_income_range": null,
+                    "rate_pct": 32
+                }
+            ],
+            "social_security": [
+                {
+                    "min_income_range": 0,
+                    "max_income_range": 208050,
+                    "rate_pct": 13.71
+                }
+            ]
+        },
+        "retirees": {
+            "income_tax": [
+                {
+                    "min_income_range": 0,
+                    "max_income_range": 120000,
+                    "rate_pct": 12
+                },
+                {
+                    "min_income_range": 120000,
+                    "max_income_range": null,
+                    "rate_pct": 32
+                }
+            ],
+            "social_security": []
+        }
+    },
+    "visas": [
+        {
+            "visa_name": "National Visa (D Type)",
+            "nomad_visa": false,
+            "official_government_link": "https://www.gov.pl/web/diplomacy/visas",
+            "key_consideration": "The national visa allows stays of up to 365 days with the possibility of extension.",
+            "validity_months": 12,
+            "income_requirement": {
+                "currency": "PLN",
+                "single_monthly": 1400,
+                "family_monthly": 2800,
+                "misc_details": "Applicants must demonstrate sufficient funds to support themselves during their stay."
+            },
+            "application_timeline_days": 15,
+            "application_in_country": false,
+            "application_fee": {
+                "currency": "EUR",
+                "single": 80,
+                "family": 160,
+                "details": "Fee covers the main applicant and any dependents."
+            },
+            "dependent_application": true,
+            "local_tax_on_foreign_income": true,
+            "renewability": true,
+            "renewability_details": "The visa can be extended based on continued eligibility and employment or contract work.",
+            "days_in_country_to_renew_visa": 30,
+            "special_tax_regime": false,
+            "special_tax_regime_details": "",
+            "leads_to_permanent_residence": true,
+            "permanent_residency_details": "The national visa can lead to permanent residency if eligibility criteria are met.",
+            "taxes": {
+                "employees": {
+                    "income_tax": [
+                        {
+                            "min_income_range": 0,
+                            "max_income_range": 120000,
+                            "rate_pct": 12
+                        },
+                        {
+                            "min_income_range": 120000,
+                            "max_income_range": null,
+                            "rate_pct": 32
+                        }
+                    ],
+                    "social_security": [
+                        {
+                            "min_income_range": 0,
+                            "max_income_range": 208050,
+                            "rate_pct": 13.71
+                        }
+                    ]
+                },
+                "contractors": {
+                    "income_tax": [
+                        {
+                            "min_income_range": 0,
+                            "max_income_range": 120000,
+                            "rate_pct": 12
+                        },
+                        {
+                            "min_income_range": 120000,
+                            "max_income_range": null,
+                            "rate_pct": 32
+                        }
+                    ],
+                    "social_security": [
+                        {
+                            "min_income_range": 0,
+                            "max_income_range": 208050,
+                            "rate_pct": 13.71
+                        }
+                    ]
+                },
+                "retirees": {
+                    "income_tax": [
+                        {
+                            "min_income_range": 0,
+                            "max_income_range": 120000,
+                            "rate_pct": 12
+                        },
+                        {
+                            "min_income_range": 120000,
+                            "max_income_range": null,
+                            "rate_pct": 32
+                        }
+                    ],
+                    "social_security": []
+                },
+                "special_regimes": []
+            },
+            "required_documents": [
+                "Passport-sized photograph",
+                "Biodata page of your passport",
+                "Proof of income or employment",
+                "Valid police clearance from the past 6 months",
+                "Health insurance covering the duration of stay"
+            ]
+        },
+        {
+            "visa_name": "Schengen Visa (C Type)",
+            "nomad_visa": false,
+            "type": "short term",
+            "key_consideration": "The Schengen visa allows stays of up to 90 days within a 180-day period.",
+            "validity_months": 6,
+            "income_requirement": {
+                "currency": "EUR",
+                "single_monthly": 800,
+                "family_monthly": 1600,
+                "misc_details": "Applicants must demonstrate sufficient funds to support themselves during their stay."
+            },
+            "application_timeline_days": 15,
+            "application_in_country": false,
+            "application_fee": {
+                "currency": "EUR",
+                "single": 60,
+                "family": 120,
+                "details": "Fee covers the main applicant and any dependents."
+            },
+            "dependent_application": true,
+            "local_tax_on_foreign_income": false,
+            "renewability": false,
+            "renewability_details": "",
+            "days_in_country_to_renew_visa": 0,
+            "special_tax_regime": false,
+            "special_tax_regime_details": "",
+            "leads_to_permanent_residence": false,
+            "permanent_residency_details": "The Schengen visa does not lead to permanent residency.",
+            "taxes": {
+                "employees": {
+                    "income_tax": [
+                        {
+                            "min_income_range": 0,
+                            "max_income_range": 120000,
+                            "rate_pct": 12
+                        },
+                        {
+                            "min_income_range": 120000,
+                            "max_income_range": null,
+                            "rate_pct": 32
+                        }
+                    ],
+                    "social_security": [
+                        {
+                            "min_income_range": 0,
+                            "max_income_range": 208050,
+                            "rate_pct": 13.71
+                        }
+                    ]
+                },
+                "contractors": {
+                    "income_tax": [
+                        {
+                            "min_income_range": 0,
+                            "max_income_range": 120000,
+                            "rate_pct": 12
+                        },
+                        {
+                            "min_income_range": 120000,
+                            "max_income_range": null,
+                            "rate_pct": 32
+                        }
+                    ],
+                    "social_security": [
+                        {
+                            "min_income_range": 0,
+                            "max_income_range": 208050,
+                            "rate_pct": 13.71
+                        }
+                    ]
+                },
+                "retirees": {
+                    "income_tax": [
+                        {
+                            "min_income_range": 0,
+                            "max_income_range": 120000,
+                            "rate_pct": 12
+                        },
+                        {
+                            "min_income_range": 120000,
+                            "max_income_range": null,
+                            "rate_pct": 32
+                        }
+                    ],
+                    "social_security": []
+                },
+                "special_regimes": []
+            },
+            "required_documents": [
+                "Passport-sized photograph",
+                "Biodata page of your passport",
+                "Proof of income or employment",
+                "Valid police clearance from the past 6 months",
+                "Health insurance covering the duration of stay"
+            ]
+        }
     ]
-  },
-  "key_consideration": "While Poland does not offer a specific digital nomad visa, it provides various visa options for long-term stays.",
-  "best_for": [
-    "contractors",
-    "retirees"
-  ],
-  "action_comment": "Consider Poland for its affordable cost of living, rich culture, and strategic location in Europe.",
-  "tagline": "Discover the heart of Europe in Poland.",
-  "image": "poland.jpg",
-  "tax_residency_trigger": 183,
-  "tax_residency_trigger_details": "You are considered a tax resident if you stay for longer than 183 days in a calendar year.",
-  "country_standard_taxes": {
-    "tax_currency": "PLN",
-    "employees": {
-      "income_tax": [
-        {
-          "min_income_range": 0,
-          "max_income_range": 120000,
-          "rate_pct": 12
-        },
-        {
-          "min_income_range": 120000,
-          "max_income_range": null,
-          "rate_pct": 32
-        }
-      ],
-      "social_security": [
-        {
-          "min_income_range": 0,
-          "max_income_range": 208050,
-          "rate_pct": 13.71
-        }
-      ]
-    },
-    "contractors": {
-      "income_tax": [
-        {
-          "min_income_range": 0,
-          "max_income_range": 120000,
-          "rate_pct": 12
-        },
-        {
-          "min_income_range": 120000,
-          "max_income_range": null,
-          "rate_pct": 32
-        }
-      ],
-      "social_security": [
-        {
-          "min_income_range": 0,
-          "max_income_range": 208050,
-          "rate_pct": 13.71
-        }
-      ]
-    },
-    "retirees": {
-      "income_tax": [
-        {
-          "min_income_range": 0,
-          "max_income_range": 120000,
-          "rate_pct": 12
-        },
-        {
-          "min_income_range": 120000,
-          "max_income_range": null,
-          "rate_pct": 32
-        }
-      ],
-      "social_security": []
-    }
-  },
-  "visas": [
-    {
-      "visa_name": "National Visa (D Type)",
-      "nomad_visa": false,
-      "official_government_link": "https://www.gov.pl/web/diplomacy/visas",
-      "key_consideration": "The national visa allows stays of up to 365 days with the possibility of extension.",
-      "validity_months": 12,
-      "income_requirement": {
-        "currency": "PLN",
-        "single_monthly": 1400,
-        "family_monthly": 2800,
-        "misc_details": "Applicants must demonstrate sufficient funds to support themselves during their stay."
-      },
-      "application_timeline_days": 15,
-      "application_in_country": false,
-      "application_fee": {
-        "currency": "EUR",
-        "single": 80,
-        "family": 160,
-        "details": "Fee covers the main applicant and any dependents."
-      },
-      "dependent_application": true,
-      "local_tax_on_foreign_income": true,
-      "renewability": true,
-      "renewability_details": "The visa can be extended based on continued eligibility and employment or contract work.",
-      "days_in_country_to_renew_visa": 30,
-      "special_tax_regime": false,
-      "special_tax_regime_details": "",
-      "leads_to_permanent_residence": true,
-      "permanent_residency_details": "The national visa can lead to permanent residency if eligibility criteria are met.",
-      "taxes": {
-        "employees": {
-          "income_tax": [
-            {
-              "min_income_range": 0,
-              "max_income_range": 120000,
-              "rate_pct": 12
-            },
-            {
-              "min_income_range": 120000,
-              "max_income_range": null,
-              "rate_pct": 32
-            }
-          ],
-          "social_security": [
-            {
-              "min_income_range": 0,
-              "max_income_range": 208050,
-              "rate_pct": 13.71
-            }
-          ]
-        },
-        "contractors": {
-          "income_tax": [
-            {
-              "min_income_range": 0,
-              "max_income_range": 120000,
-              "rate_pct": 12
-            },
-            {
-              "min_income_range": 120000,
-              "max_income_range": null,
-              "rate_pct": 32
-            }
-          ],
-          "social_security": [
-            {
-              "min_income_range": 0,
-              "max_income_range": 208050,
-              "rate_pct": 13.71
-            }
-          ]
-        },
-        "retirees": {
-          "income_tax": [
-            {
-              "min_income_range": 0,
-              "max_income_range": 120000,
-              "rate_pct": 12
-            },
-            {
-              "min_income_range": 120000,
-              "max_income_range": null,
-              "rate_pct": 32
-            }
-          ],
-          "social_security": []
-        },
-        "special_regimes": []
-      },
-      "required_documents": [
-        "Passport-sized photograph",
-        "Biodata page of your passport",
-        "Proof of income or employment",
-        "Valid police clearance from the past 6 months",
-        "Health insurance covering the duration of stay"
-      ]
-    },
-    {
-      "visa_name": "Schengen Visa (C Type)",
-      "nomad_visa": false,
-      "type": "short term",
-      "key_consideration": "The Schengen visa allows stays of up to 90 days within a 180-day period.",
-      "validity_months": 6,
-      "income_requirement": {
-        "currency": "EUR",
-        "single_monthly": 800,
-        "family_monthly": 1600,
-        "misc_details": "Applicants must demonstrate sufficient funds to support themselves during their stay."
-      },
-      "application_timeline_days": 15,
-      "application_in_country": false,
-      "application_fee": {
-        "currency": "EUR",
-        "single": 60,
-        "family": 120,
-        "details": "Fee covers the main applicant and any dependents."
-      },
-      "dependent_application": true,
-      "local_tax_on_foreign_income": false,
-      "renewability": false,
-      "renewability_details": "",
-      "days_in_country_to_renew_visa": 0,
-      "special_tax_regime": false,
-      "special_tax_regime_details": "",
-      "leads_to_permanent_residence": false,
-      "permanent_residency_details": "The Schengen visa does not lead to permanent residency.",
-      "taxes": {
-        "employees": {
-          "income_tax": [
-            {
-              "min_income_range": 0,
-              "max_income_range": 120000,
-              "rate_pct": 12
-            },
-            {
-              "min_income_range": 120000,
-              "max_income_range": null,
-              "rate_pct": 32
-            }
-          ],
-          "social_security": [
-            {
-              "min_income_range": 0,
-              "max_income_range": 208050,
-              "rate_pct": 13.71
-            }
-          ]
-        },
-        "contractors": {
-          "income_tax": [
-            {
-              "min_income_range": 0,
-              "max_income_range": 120000,
-              "rate_pct": 12
-            },
-            {
-              "min_income_range": 120000,
-              "max_income_range": null,
-              "rate_pct": 32
-            }
-          ],
-          "social_security": [
-            {
-              "min_income_range": 0,
-              "max_income_range": 208050,
-              "rate_pct": 13.71
-            }
-          ]
-        },
-        "retirees": {
-          "income_tax": [
-            {
-              "min_income_range": 0,
-              "max_income_range": 120000,
-              "rate_pct": 12
-            },
-            {
-              "min_income_range": 120000,
-              "max_income_range": null,
-              "rate_pct": 32
-            }
-          ],
-          "social_security": []
-        },
-        "special_regimes": []
-      },
-      "required_documents": [
-        "Passport-sized photograph",
-        "Biodata page of your passport",
-        "Proof of income or employment",
-        "Valid police clearance from the past 6 months",
-        "Health insurance covering the duration of stay"
-      ]
-    }
-  ]
 }
-

@@ -1,212 +1,212 @@
 {
-  "country_name": "Sri Lanka",
-  "country_code": "LK",
-  "capital": "Colombo",
-  "display": true,
-  "currency": "LKR",
-  "anchor_country": false,
-  "has_nomad_visa": false,
-  "schengen_zone": false,
-  "in_european_union": false,
-  "cost_of_living_index": 33.2,
-  "cost_of_living_lvl": "$$",
-  "practical_tips": {
-    "financial_benefits": [
-      {
-        "benefit": "Favorable Tax Regime",
-        "description": "Sri Lanka offers tax incentives for foreign income and investments, making it attractive for expatriates."
-      },
-      {
-        "benefit": "Affordable Cost of Living",
-        "description": "Enjoy a relatively low cost of living compared to many Western countries."
-      }
+    "country_name": "Sri Lanka",
+    "country_code": "LK",
+    "capital": "Colombo",
+    "display": true,
+    "currency": "LKR",
+    "anchor_country": false,
+    "has_nomad_visa": false,
+    "schengen_zone": false,
+    "in_european_union": false,
+    "cost_of_living_index": 33.2,
+    "cost_of_living_lvl": "$$",
+    "practical_tips": {
+        "financial_benefits": [
+            {
+                "benefit": "Favorable Tax Regime",
+                "description": "Sri Lanka offers tax incentives for foreign income and investments, making it attractive for expatriates."
+            },
+            {
+                "benefit": "Affordable Cost of Living",
+                "description": "Enjoy a relatively low cost of living compared to many Western countries."
+            }
+        ],
+        "lifestyle_benefits": [
+            {
+                "benefit": "Natural Beauty",
+                "description": "Explore lush landscapes, pristine beaches, and diverse wildlife across the island."
+            },
+            {
+                "benefit": "Rich Cultural Heritage",
+                "description": "Experience Sri Lanka's ancient temples, festivals, and traditional arts."
+            }
+        ],
+        "additional_benefits": [
+            {
+                "benefit": "English Proficiency",
+                "description": "English is widely spoken, facilitating communication for tourists and expatriates."
+            },
+            {
+                "benefit": "Warm Climate",
+                "description": "Enjoy a tropical climate with warm temperatures throughout the year."
+            }
+        ]
+    },
+    "key_consideration": "Foreigners become tax residents in Sri Lanka if they reside for 183 days or more in a tax year or are present for 12 months continuously.",
+    "best_for": [
+        "nature enthusiasts",
+        "culture seekers",
+        "remote workers"
     ],
-    "lifestyle_benefits": [
-      {
-        "benefit": "Natural Beauty",
-        "description": "Explore lush landscapes, pristine beaches, and diverse wildlife across the island."
-      },
-      {
-        "benefit": "Rich Cultural Heritage",
-        "description": "Experience Sri Lanka's ancient temples, festivals, and traditional arts."
-      }
-    ],
-    "additional_benefits": [
-      {
-        "benefit": "English Proficiency",
-        "description": "English is widely spoken, facilitating communication for tourists and expatriates."
-      },
-      {
-        "benefit": "Warm Climate",
-        "description": "Enjoy a tropical climate with warm temperatures throughout the year."
-      }
+    "action_comment": "Consider Sri Lanka for its natural beauty, rich cultural heritage, and favorable tax incentives for expatriates.",
+    "tagline": "Discover the essence of Asia in Sri Lanka.",
+    "image": "sri_lanka.jpg",
+    "tax_residency_trigger": 183,
+    "tax_residency_trigger_details": "You are considered a tax resident in Sri Lanka if you stay for 183 days or more in a calendar year.",
+    "country_standard_taxes": {
+        "tax_currency": "LKR",
+        "employees": {
+            "income_tax": [
+                {
+                    "min_income_range": 0,
+                    "max_income_range": 3000000,
+                    "rate_pct": 6
+                },
+                {
+                    "min_income_range": 3000001,
+                    "max_income_range": 6000000,
+                    "rate_pct": 12
+                },
+                {
+                    "min_income_range": 6000001,
+                    "max_income_range": null,
+                    "rate_pct": 18
+                }
+            ],
+            "social_security": []
+        },
+        "contractors": {
+            "income_tax": [
+                {
+                    "min_income_range": 0,
+                    "max_income_range": null,
+                    "rate_pct": 18
+                }
+            ],
+            "social_security": []
+        },
+        "retirees": {
+            "income_tax": [
+                {
+                    "min_income_range": 0,
+                    "max_income_range": 300000,
+                    "rate_pct": 6
+                },
+                {
+                    "min_income_range": 300001,
+                    "max_income_range": 1000000,
+                    "rate_pct": 12
+                },
+                {
+                    "min_income_range": 1000001,
+                    "max_income_range": null,
+                    "rate_pct": 18
+                }
+            ],
+            "social_security": []
+        }
+    },
+    "visas": [
+        {
+            "visa_name": "Electronic Travel Authorization (ETA)",
+            "nomad_visa": false,
+            "official_government_link": "https://eta.gov.lk/slvisa/",
+            "key_consideration": "Required for short visits (up to 30 days) for tourism, business, or transit purposes.",
+            "validity_months": 1,
+            "income_requirement": {
+                "currency": "LKR",
+                "single_monthly": 0,
+                "family_monthly": 0,
+                "misc_details": "No specific income requirement for ETA; proof of sufficient funds for stay may be requested."
+            },
+            "application_timeline_days": 1,
+            "application_in_country": false,
+            "application_fee": {
+                "currency": "USD",
+                "single": 35,
+                "family": 35,
+                "details": "Fee for ETA application, payable online. Different fees may apply for different nationalities."
+            },
+            "dependent_application": false,
+            "local_tax_on_foreign_income": true,
+            "renewability": false,
+            "renewability_details": "",
+            "days_in_country_to_renew_visa": 0,
+            "special_tax_regime": false,
+            "special_tax_regime_details": "",
+            "leads_to_permanent_residence": false,
+            "permanent_residency_details": "",
+            "taxes": {
+                "employees": {
+                    "income_tax": [],
+                    "social_security": []
+                },
+                "contractors": {
+                    "income_tax": [],
+                    "social_security": []
+                },
+                "retirees": {
+                    "income_tax": [],
+                    "social_security": []
+                },
+                "special_regimes": []
+            },
+            "required_documents": [
+                "Passport with minimum validity",
+                "Return ticket",
+                "Proof of sufficient funds (e.g., bank statement)"
+            ]
+        },
+        {
+            "visa_name": "Residence Visa",
+            "nomad_visa": false,
+            "official_government_link": "https://www.immigration.gov.lk/web/index.php?option=com_content&view=article&id=198&Itemid=213&lang=en",
+            "key_consideration": "Available for foreigners intending to reside in Sri Lanka for longer periods, including retirees and investors.",
+            "validity_months": 24,
+            "income_requirement": {
+                "currency": "LKR",
+                "single_monthly": 50000,
+                "family_monthly": 75000,
+                "misc_details": "Income requirements vary based on the type of visa and applicant's situation."
+            },
+            "application_timeline_days": 30,
+            "application_in_country": true,
+            "application_fee": {
+                "currency": "USD",
+                "single": 100,
+                "family": 150,
+                "details": "Application fee varies based on visa type and duration, payable at the Sri Lanka Immigration Department."
+            },
+            "dependent_application": true,
+            "local_tax_on_foreign_income": true,
+            "renewability": true,
+            "renewability_details": "Residence visas can be renewed subject to meeting renewal criteria.",
+            "days_in_country_to_renew_visa": 0,
+            "special_tax_regime": false,
+            "special_tax_regime_details": "",
+            "leads_to_permanent_residence": true,
+            "permanent_residency_details": "Eligible for permanent residency after 5 years of continuous residence in Sri Lanka.",
+            "taxes": {
+                "employees": {
+                    "income_tax": [],
+                    "social_security": []
+                },
+                "contractors": {
+                    "income_tax": [],
+                    "social_security": []
+                },
+                "retirees": {
+                    "income_tax": [],
+                    "social_security": []
+                },
+                "special_regimes": []
+            },
+            "required_documents": [
+                "Valid passport with at least 6 months validity",
+                "Proof of accommodation in Sri Lanka",
+                "Police clearance certificate",
+                "Evidence of financial means (e.g., bank statements)"
+            ]
+        }
     ]
-  },
-  "key_consideration": "Foreigners become tax residents in Sri Lanka if they reside for 183 days or more in a tax year or are present for 12 months continuously.",
-  "best_for": [
-    "nature enthusiasts",
-    "culture seekers",
-    "remote workers"
-  ],
-  "action_comment": "Consider Sri Lanka for its natural beauty, rich cultural heritage, and favorable tax incentives for expatriates.",
-  "tagline": "Discover the essence of Asia in Sri Lanka.",
-  "image": "sri_lanka.jpg",
-  "tax_residency_trigger": 183,
-  "tax_residency_trigger_details": "You are considered a tax resident in Sri Lanka if you stay for 183 days or more in a calendar year.",
-  "country_standard_taxes": {
-    "tax_currency": "LKR",
-    "employees": {
-      "income_tax": [
-        {
-          "min_income_range": 0,
-          "max_income_range": 3000000,
-          "rate_pct": 6
-        },
-        {
-          "min_income_range": 3000001,
-          "max_income_range": 6000000,
-          "rate_pct": 12
-        },
-        {
-          "min_income_range": 6000001,
-          "max_income_range": null,
-          "rate_pct": 18
-        }
-      ],
-      "social_security": []
-    },
-    "contractors": {
-      "income_tax": [
-        {
-          "min_income_range": 0,
-          "max_income_range": null,
-          "rate_pct": 18
-        }
-      ],
-      "social_security": []
-    },
-    "retirees": {
-      "income_tax": [
-        {
-          "min_income_range": 0,
-          "max_income_range": 300000,
-          "rate_pct": 6
-        },
-        {
-          "min_income_range": 300001,
-          "max_income_range": 1000000,
-          "rate_pct": 12
-        },
-        {
-          "min_income_range": 1000001,
-          "max_income_range": null,
-          "rate_pct": 18
-        }
-      ],
-      "social_security": []
-    }
-  },
-  "visas": [
-    {
-      "visa_name": "Electronic Travel Authorization (ETA)",
-      "nomad_visa": false,
-      "official_government_link": "https://eta.gov.lk/slvisa/",
-      "key_consideration": "Required for short visits (up to 30 days) for tourism, business, or transit purposes.",
-      "validity_months": 1,
-      "income_requirement": {
-        "currency": "LKR",
-        "single_monthly": 0,
-        "family_monthly": 0,
-        "misc_details": "No specific income requirement for ETA; proof of sufficient funds for stay may be requested."
-      },
-      "application_timeline_days": 1,
-      "application_in_country": false,
-      "application_fee": {
-        "currency": "USD",
-        "single": 35,
-        "family": 35,
-        "details": "Fee for ETA application, payable online. Different fees may apply for different nationalities."
-      },
-      "dependent_application": false,
-      "local_tax_on_foreign_income": true,
-      "renewability": false,
-      "renewability_details": "",
-      "days_in_country_to_renew_visa": 0,
-      "special_tax_regime": false,
-      "special_tax_regime_details": "",
-      "leads_to_permanent_residence": false,
-      "permanent_residency_details": "",
-      "taxes": {
-        "employees": {
-          "income_tax": [],
-          "social_security": []
-        },
-        "contractors": {
-          "income_tax": [],
-          "social_security": []
-        },
-        "retirees": {
-          "income_tax": [],
-          "social_security": []
-        },
-        "special_regimes": []
-      },
-      "required_documents": [
-        "Passport with minimum validity",
-        "Return ticket",
-        "Proof of sufficient funds (e.g., bank statement)"
-      ]
-    },
-    {
-      "visa_name": "Residence Visa",
-      "nomad_visa": false,
-      "official_government_link": "https://www.immigration.gov.lk/web/index.php?option=com_content&view=article&id=198&Itemid=213&lang=en",
-      "key_consideration": "Available for foreigners intending to reside in Sri Lanka for longer periods, including retirees and investors.",
-      "validity_months": 24,
-      "income_requirement": {
-        "currency": "LKR",
-        "single_monthly": 50000,
-        "family_monthly": 75000,
-        "misc_details": "Income requirements vary based on the type of visa and applicant's situation."
-      },
-      "application_timeline_days": 30,
-      "application_in_country": true,
-      "application_fee": {
-        "currency": "USD",
-        "single": 100,
-        "family": 150,
-        "details": "Application fee varies based on visa type and duration, payable at the Sri Lanka Immigration Department."
-      },
-      "dependent_application": true,
-      "local_tax_on_foreign_income": true,
-      "renewability": true,
-      "renewability_details": "Residence visas can be renewed subject to meeting renewal criteria.",
-      "days_in_country_to_renew_visa": 0,
-      "special_tax_regime": false,
-      "special_tax_regime_details": "",
-      "leads_to_permanent_residence": true,
-      "permanent_residency_details": "Eligible for permanent residency after 5 years of continuous residence in Sri Lanka.",
-      "taxes": {
-        "employees": {
-          "income_tax": [],
-          "social_security": []
-        },
-        "contractors": {
-          "income_tax": [],
-          "social_security": []
-        },
-        "retirees": {
-          "income_tax": [],
-          "social_security": []
-        },
-        "special_regimes": []
-      },
-      "required_documents": [
-        "Valid passport with at least 6 months validity",
-        "Proof of accommodation in Sri Lanka",
-        "Police clearance certificate",
-        "Evidence of financial means (e.g., bank statements)"
-      ]
-    }
-  ]
 }

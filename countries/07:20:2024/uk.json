@@ -1,304 +1,303 @@
 {
-  "country_name": "United Kingdom",
-  "country_code": "GB",
-  "capital": "London",
-  "display": true,
-  "currency": "GBP",
-  "anchor_country": false,
-  "has_nomad_visa": false,
-  "schengen_zone": false,
-  "in_european_union": false,
-  "cost_of_living_index": 63.7,
-  "cost_of_living_lvl": "$$$$",
-  "practical_tips": {
-    "financial_benefits": [
-      {
-        "benefit": "Global Financial Hub",
-        "description": "London is one of the world's leading financial centers, offering numerous opportunities for networking and business."
-      },
-      {
-        "benefit": "Stable Economy",
-        "description": "The British Pound (GBP) is one of the strongest and most stable currencies."
-      }
+    "country_name": "United Kingdom",
+    "country_code": "GB",
+    "capital": "London",
+    "display": true,
+    "currency": "GBP",
+    "anchor_country": false,
+    "has_nomad_visa": false,
+    "schengen_zone": false,
+    "in_european_union": false,
+    "cost_of_living_index": 63.7,
+    "cost_of_living_lvl": "$$$$",
+    "practical_tips": {
+        "financial_benefits": [
+            {
+                "benefit": "Global Financial Hub",
+                "description": "London is one of the world's leading financial centers, offering numerous opportunities for networking and business."
+            },
+            {
+                "benefit": "Stable Economy",
+                "description": "The British Pound (GBP) is one of the strongest and most stable currencies."
+            }
+        ],
+        "lifestyle_benefits": [
+            {
+                "benefit": "Cultural Diversity",
+                "description": "The UK is known for its cultural diversity and rich history, offering a variety of experiences."
+            },
+            {
+                "benefit": "High Quality of Life",
+                "description": "The UK offers a high quality of life with excellent healthcare and education systems."
+            }
+        ],
+        "additional_benefits": [
+            {
+                "benefit": "English Speaking",
+                "description": "English is the official language, making communication easy for most expatriates."
+            },
+            {
+                "benefit": "Rich Cultural Heritage",
+                "description": "The UK has a rich cultural heritage with numerous museums, galleries, and historical landmarks."
+            }
+        ]
+    },
+    "key_consideration": "The UK offers a variety of visa options for long-term stays, but does not currently have a specific digital nomad visa.",
+    "best_for": [
+        "contractors",
+        "retirees"
     ],
-    "lifestyle_benefits": [
-      {
-        "benefit": "Cultural Diversity",
-        "description": "The UK is known for its cultural diversity and rich history, offering a variety of experiences."
-      },
-      {
-        "benefit": "High Quality of Life",
-        "description": "The UK offers a high quality of life with excellent healthcare and education systems."
-      }
-    ],
-    "additional_benefits": [
-      {
-        "benefit": "English Speaking",
-        "description": "English is the official language, making communication easy for most expatriates."
-      },
-      {
-        "benefit": "Rich Cultural Heritage",
-        "description": "The UK has a rich cultural heritage with numerous museums, galleries, and historical landmarks."
-      }
+    "action_comment": "Consider the UK for its vibrant culture, robust economy, and extensive business opportunities.",
+    "tagline": "Work and live in the heart of global culture and commerce.",
+    "image": "united_kingdom.jpg",
+    "tax_residency_trigger": 183,
+    "tax_residency_trigger_details": "You are considered a tax resident if you stay for longer than 183 days in a calendar year.",
+    "country_standard_taxes": {
+        "tax_currency": "GBP",
+        "employees": {
+            "income_tax": [
+                {
+                    "min_income_range": 0,
+                    "max_income_range": 12570,
+                    "rate_pct": 0
+                },
+                {
+                    "min_income_range": 12571,
+                    "max_income_range": 50270,
+                    "rate_pct": 20
+                },
+                {
+                    "min_income_range": 50271,
+                    "max_income_range": 125140,
+                    "rate_pct": 40
+                },
+                {
+                    "min_income_range": 125140,
+                    "max_income_range": null,
+                    "rate_pct": 45
+                }
+            ],
+            "social_security": [
+                {
+                    "min_income_range": 0,
+                    "max_income_range": 50270,
+                    "rate_pct": 12
+                },
+                {
+                    "min_income_range": 50271,
+                    "max_income_range": null,
+                    "rate_pct": 2
+                }
+            ]
+        },
+        "contractors": {
+            "income_tax": [
+                {
+                    "min_income_range": 0,
+                    "max_income_range": 12570,
+                    "rate_pct": 0
+                },
+                {
+                    "min_income_range": 12571,
+                    "max_income_range": 50270,
+                    "rate_pct": 20
+                },
+                {
+                    "min_income_range": 50271,
+                    "max_income_range": 150000,
+                    "rate_pct": 40
+                },
+                {
+                    "min_income_range": 150001,
+                    "max_income_range": null,
+                    "rate_pct": 45
+                }
+            ],
+            "social_security": [
+                {
+                    "min_income_range": 0,
+                    "max_income_range": 50270,
+                    "rate_pct": 12
+                },
+                {
+                    "min_income_range": 50271,
+                    "max_income_range": null,
+                    "rate_pct": 2
+                }
+            ]
+        },
+        "retirees": {
+            "income_tax": [
+                {
+                    "min_income_range": 0,
+                    "max_income_range": 12570,
+                    "rate_pct": 0
+                },
+                {
+                    "min_income_range": 12571,
+                    "max_income_range": 50270,
+                    "rate_pct": 20
+                },
+                {
+                    "min_income_range": 50271,
+                    "max_income_range": 150000,
+                    "rate_pct": 40
+                },
+                {
+                    "min_income_range": 150001,
+                    "max_income_range": null,
+                    "rate_pct": 45
+                }
+            ],
+            "social_security": []
+        }
+    },
+    "visas": [
+        {
+            "visa_name": "Innovator Visa",
+            "nomad_visa": false,
+            "official_government_link": "https://www.gov.uk/innovator-visa",
+            "key_consideration": "Designed for experienced businesspeople seeking to establish a business in the UK.",
+            "validity_months": 36,
+            "income_requirement": {
+                "currency": "GBP",
+                "single_monthly": 0,
+                "family_monthly": 0,
+                "misc_details": "No minimum income requirement, but applicants must have access to at least �50,000 in investment funds."
+            },
+            "application_timeline_days": 21,
+            "application_in_country": true,
+            "application_fee": {
+                "currency": "GBP",
+                "single": 1021,
+                "family": 1021,
+                "details": "Fee applies per applicant."
+            },
+            "dependent_application": true,
+            "local_tax_on_foreign_income": true,
+            "renewability": true,
+            "renewability_details": "Can apply for extension or settlement after 3 years.",
+            "days_in_country_to_renew_visa": 0,
+            "special_tax_regime": false,
+            "special_tax_regime_details": "",
+            "leads_to_permanent_residence": true,
+            "permanent_residency_details": "Eligible to apply for indefinite leave to remain after 3 years.",
+            "taxes": {
+                "employees": {
+                    "income_tax": [],
+                    "social_security": [
+                        {
+                            "min_income_range": 0,
+                            "max_income_range": 50270,
+                            "rate_pct": 12
+                        },
+                        {
+                            "min_income_range": 50271,
+                            "max_income_range": null,
+                            "rate_pct": 2
+                        }
+                    ]
+                },
+                "contractors": {
+                    "income_tax": [],
+                    "social_security": [
+                        {
+                            "min_income_range": 0,
+                            "max_income_range": 50270,
+                            "rate_pct": 12
+                        },
+                        {
+                            "min_income_range": 50271,
+                            "max_income_range": null,
+                            "rate_pct": 2
+                        }
+                    ]
+                },
+                "retirees": {
+                    "income_tax": [],
+                    "social_security": []
+                },
+                "special_regimes": []
+            },
+            "required_documents": [
+                "Valid passport or travel document",
+                "Proof of investment funds",
+                "Business plan",
+                "Endorsement letter from an approved body"
+            ]
+        },
+        {
+            "visa_name": "Skilled Worker Visa",
+            "nomad_visa": false,
+            "official_government_link": "https://www.gov.uk/skilled-worker-visa",
+            "key_consideration": "For individuals with a job offer from a UK employer that holds a valid sponsor licence.",
+            "validity_months": 60,
+            "income_requirement": {
+                "currency": "GBP",
+                "single_monthly": 0,
+                "family_monthly": 0,
+                "misc_details": "Minimum annual salary of �25,600 or the 'going rate' for the job, whichever is higher."
+            },
+            "application_timeline_days": 21,
+            "application_in_country": true,
+            "application_fee": {
+                "currency": "GBP",
+                "single": 610,
+                "family": 610,
+                "details": "Fee varies based on circumstances."
+            },
+            "dependent_application": true,
+            "local_tax_on_foreign_income": true,
+            "renewability": true,
+            "renewability_details": "Can extend visa as long as eligibility requirements are met.",
+            "days_in_country_to_renew_visa": 0,
+            "special_tax_regime": false,
+            "special_tax_regime_details": "",
+            "leads_to_permanent_residence": true,
+            "permanent_residency_details": "Eligible to apply for indefinite leave to remain after 5 years.",
+            "taxes": {
+                "employees": {
+                    "income_tax": [],
+                    "social_security": [
+                        {
+                            "min_income_range": 0,
+                            "max_income_range": 50270,
+                            "rate_pct": 12
+                        },
+                        {
+                            "min_income_range": 50271,
+                            "max_income_range": null,
+                            "rate_pct": 2
+                        }
+                    ]
+                },
+                "contractors": {
+                    "income_tax": [],
+                    "social_security": [
+                        {
+                            "min_income_range": 0,
+                            "max_income_range": 50270,
+                            "rate_pct": 12
+                        },
+                        {
+                            "min_income_range": 50271,
+                            "max_income_range": null,
+                            "rate_pct": 2
+                        }
+                    ]
+                },
+                "retirees": {
+                    "income_tax": [],
+                    "social_security": []
+                },
+                "special_regimes": []
+            },
+            "required_documents": [
+                "Valid passport or travel document",
+                "Certificate of sponsorship reference number",
+                "Proof of English language proficiency",
+                "Proof of personal savings to support yourself"
+            ]
+        }
     ]
-  },
-  "key_consideration": "The UK offers a variety of visa options for long-term stays, but does not currently have a specific digital nomad visa.",
-  "best_for": [
-    "contractors",
-    "retirees"
-  ],
-  "action_comment": "Consider the UK for its vibrant culture, robust economy, and extensive business opportunities.",
-  "tagline": "Work and live in the heart of global culture and commerce.",
-  "image": "united_kingdom.jpg",
-  "tax_residency_trigger": 183,
-  "tax_residency_trigger_details": "You are considered a tax resident if you stay for longer than 183 days in a calendar year.",
-  "country_standard_taxes": {
-    "tax_currency": "GBP",
-    "employees": {
-      "income_tax": [
-        {
-          "min_income_range": 0,
-          "max_income_range": 12570,
-          "rate_pct": 0
-        },
-        {
-          "min_income_range": 12571,
-          "max_income_range": 50270,
-          "rate_pct": 20
-        },
-        {
-          "min_income_range": 50271,
-          "max_income_range": 125140,
-          "rate_pct": 40
-        },
-        {
-          "min_income_range": 125140,
-          "max_income_range": null,
-          "rate_pct": 45
-        }
-      ],
-      "social_security": [
-        {
-          "min_income_range": 0,
-          "max_income_range": 50270,
-          "rate_pct": 12
-        },
-        {
-          "min_income_range": 50271,
-          "max_income_range": null,
-          "rate_pct": 2
-        }
-      ]
-    },
-    "contractors": {
-      "income_tax": [
-        {
-          "min_income_range": 0,
-          "max_income_range": 12570,
-          "rate_pct": 0
-        },
-        {
-          "min_income_range": 12571,
-          "max_income_range": 50270,
-          "rate_pct": 20
-        },
-        {
-          "min_income_range": 50271,
-          "max_income_range": 150000,
-          "rate_pct": 40
-        },
-        {
-          "min_income_range": 150001,
-          "max_income_range": null,
-          "rate_pct": 45
-        }
-      ],
-      "social_security": [
-        {
-          "min_income_range": 0,
-          "max_income_range": 50270,
-          "rate_pct": 12
-        },
-        {
-          "min_income_range": 50271,
-          "max_income_range": null,
-          "rate_pct": 2
-        }
-      ]
-    },
-    "retirees": {
-      "income_tax": [
-        {
-          "min_income_range": 0,
-          "max_income_range": 12570,
-          "rate_pct": 0
-        },
-        {
-          "min_income_range": 12571,
-          "max_income_range": 50270,
-          "rate_pct": 20
-        },
-        {
-          "min_income_range": 50271,
-          "max_income_range": 150000,
-          "rate_pct": 40
-        },
-        {
-          "min_income_range": 150001,
-          "max_income_range": null,
-          "rate_pct": 45
-        }
-      ],
-      "social_security": []
-    }
-  },
-  "visas": [
-    {
-      "visa_name": "Innovator Visa",
-      "nomad_visa": false,
-      "official_government_link": "https://www.gov.uk/innovator-visa",
-      "key_consideration": "Designed for experienced businesspeople seeking to establish a business in the UK.",
-      "validity_months": 36,
-      "income_requirement": {
-        "currency": "GBP",
-        "single_monthly": 0,
-        "family_monthly": 0,
-        "misc_details": "No minimum income requirement, but applicants must have access to at least �50,000 in investment funds."
-      },
-      "application_timeline_days": 21,
-      "application_in_country": true,
-      "application_fee": {
-        "currency": "GBP",
-        "single": 1021,
-        "family": 1021,
-        "details": "Fee applies per applicant."
-      },
-      "dependent_application": true,
-      "local_tax_on_foreign_income": true,
-      "renewability": true,
-      "renewability_details": "Can apply for extension or settlement after 3 years.",
-      "days_in_country_to_renew_visa": 0,
-      "special_tax_regime": false,
-      "special_tax_regime_details": "",
-      "leads_to_permanent_residence": true,
-      "permanent_residency_details": "Eligible to apply for indefinite leave to remain after 3 years.",
-      "taxes": {
-        "employees": {
-          "income_tax": [],
-          "social_security": [
-            {
-              "min_income_range": 0,
-              "max_income_range": 50270,
-              "rate_pct": 12
-            },
-            {
-              "min_income_range": 50271,
-              "max_income_range": null,
-              "rate_pct": 2
-            }
-          ]
-        },
-        "contractors": {
-          "income_tax": [],
-          "social_security": [
-            {
-              "min_income_range": 0,
-              "max_income_range": 50270,
-              "rate_pct": 12
-            },
-            {
-              "min_income_range": 50271,
-              "max_income_range": null,
-              "rate_pct": 2
-            }
-          ]
-        },
-        "retirees": {
-          "income_tax": [],
-          "social_security": []
-        },
-        "special_regimes": []
-      },
-      "required_documents": [
-        "Valid passport or travel document",
-        "Proof of investment funds",
-        "Business plan",
-        "Endorsement letter from an approved body"
-      ]
-    },
-    {
-      "visa_name": "Skilled Worker Visa",
-      "nomad_visa": false,
-      "official_government_link": "https://www.gov.uk/skilled-worker-visa",
-      "key_consideration": "For individuals with a job offer from a UK employer that holds a valid sponsor licence.",
-      "validity_months": 60,
-      "income_requirement": {
-        "currency": "GBP",
-        "single_monthly": 0,
-        "family_monthly": 0,
-        "misc_details": "Minimum annual salary of �25,600 or the 'going rate' for the job, whichever is higher."
-      },
-      "application_timeline_days": 21,
-      "application_in_country": true,
-      "application_fee": {
-        "currency": "GBP",
-        "single": 610,
-        "family": 610,
-        "details": "Fee varies based on circumstances."
-      },
-      "dependent_application": true,
-      "local_tax_on_foreign_income": true,
-      "renewability": true,
-      "renewability_details": "Can extend visa as long as eligibility requirements are met.",
-      "days_in_country_to_renew_visa": 0,
-      "special_tax_regime": false,
-      "special_tax_regime_details": "",
-      "leads_to_permanent_residence": true,
-      "permanent_residency_details": "Eligible to apply for indefinite leave to remain after 5 years.",
-      "taxes": {
-        "employees": {
-          "income_tax": [],
-          "social_security": [
-            {
-              "min_income_range": 0,
-              "max_income_range": 50270,
-              "rate_pct": 12
-            },
-            {
-              "min_income_range": 50271,
-              "max_income_range": null,
-              "rate_pct": 2
-            }
-          ]
-        },
-        "contractors": {
-          "income_tax": [],
-          "social_security": [
-            {
-              "min_income_range": 0,
-              "max_income_range": 50270,
-              "rate_pct": 12
-            },
-            {
-              "min_income_range": 50271,
-              "max_income_range": null,
-              "rate_pct": 2
-            }
-          ]
-        },
-        "retirees": {
-          "income_tax": [],
-          "social_security": []
-        },
-        "special_regimes": []
-      },
-      "required_documents": [
-        "Valid passport or travel document",
-        "Certificate of sponsorship reference number",
-        "Proof of English language proficiency",
-        "Proof of personal savings to support yourself"
-      ]
-    }
-  ]
 }
-

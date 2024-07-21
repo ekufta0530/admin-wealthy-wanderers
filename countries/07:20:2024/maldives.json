@@ -1,174 +1,174 @@
 {
-  "country_name": "Maldives",
-  "country_code": "MV",
-  "capital": "Mal�",
-  "display": true,
-  "currency": "MVR",
-  "anchor_country": false,
-  "has_nomad_visa": false,
-  "schengen_zone": false,
-  "in_european_union": false,
-  "cost_of_living_index": 50,
-  "cost_of_living_lvl": "$$$$",
-  "practical_tips": {
-    "financial_benefits": [
-      {
-        "benefit": "No Income Tax",
-        "description": "Maldives does not levy income tax on individuals, making it attractive for expatriates."
-      },
-      {
-        "benefit": "Foreign Investment Incentives",
-        "description": "Various incentives for foreign investments in tourism, fisheries, and other sectors."
-      }
+    "country_name": "Maldives",
+    "country_code": "MV",
+    "capital": "Mal�",
+    "display": true,
+    "currency": "MVR",
+    "anchor_country": false,
+    "has_nomad_visa": false,
+    "schengen_zone": false,
+    "in_european_union": false,
+    "cost_of_living_index": 50,
+    "cost_of_living_lvl": "$$$$",
+    "practical_tips": {
+        "financial_benefits": [
+            {
+                "benefit": "No Income Tax",
+                "description": "Maldives does not levy income tax on individuals, making it attractive for expatriates."
+            },
+            {
+                "benefit": "Foreign Investment Incentives",
+                "description": "Various incentives for foreign investments in tourism, fisheries, and other sectors."
+            }
+        ],
+        "lifestyle_benefits": [
+            {
+                "benefit": "Stunning Natural Beauty",
+                "description": "Experience pristine beaches, crystal-clear waters, and diverse marine life."
+            },
+            {
+                "benefit": "Luxury Resort Living",
+                "description": "Luxurious resorts and private islands offer exclusive living experiences."
+            }
+        ],
+        "additional_benefits": [
+            {
+                "benefit": "English Proficiency",
+                "description": "English is widely spoken in tourist areas and business environments."
+            },
+            {
+                "benefit": "Warm Tropical Climate",
+                "description": "Enjoy a tropical climate with consistent warm temperatures year-round."
+            }
+        ]
+    },
+    "key_consideration": "Foreigners can own property under certain conditions, often tied to investment in tourism or other designated sectors.",
+    "best_for": [
+        "luxury travelers",
+        "diving enthusiasts",
+        "honeymooners"
     ],
-    "lifestyle_benefits": [
-      {
-        "benefit": "Stunning Natural Beauty",
-        "description": "Experience pristine beaches, crystal-clear waters, and diverse marine life."
-      },
-      {
-        "benefit": "Luxury Resort Living",
-        "description": "Luxurious resorts and private islands offer exclusive living experiences."
-      }
-    ],
-    "additional_benefits": [
-      {
-        "benefit": "English Proficiency",
-        "description": "English is widely spoken in tourist areas and business environments."
-      },
-      {
-        "benefit": "Warm Tropical Climate",
-        "description": "Enjoy a tropical climate with consistent warm temperatures year-round."
-      }
+    "action_comment": "Consider Maldives for its stunning natural environment, luxurious resort lifestyle, and tax-friendly policies for expatriates.",
+    "tagline": "Experience paradise in the Maldives.",
+    "image": "maldives.jpg",
+    "tax_residency_trigger": 183,
+    "tax_residency_trigger_details": "Individuals are considered tax residents if present in Maldives for 183 days or more in a tax year.",
+    "country_standard_taxes": {
+        "tax_currency": "MVR",
+        "employees": {
+            "income_tax": [],
+            "social_security": []
+        },
+        "contractors": {
+            "income_tax": [],
+            "social_security": []
+        },
+        "retirees": {
+            "income_tax": [],
+            "social_security": []
+        }
+    },
+    "visas": [
+        {
+            "visa_name": "Tourist Visa",
+            "nomad_visa": false,
+            "official_government_link": "https://immigration.gov.mv/",
+            "key_consideration": "Required for short visits (typically 30 days) for tourism purposes.",
+            "validity_months": 1,
+            "income_requirement": {
+                "currency": "MVR",
+                "single_monthly": 0,
+                "family_monthly": 0,
+                "misc_details": "Proof of sufficient funds for the duration of stay may be requested."
+            },
+            "application_timeline_days": 1,
+            "application_in_country": false,
+            "application_fee": {
+                "currency": "USD",
+                "single": 100,
+                "family": 200,
+                "details": "Fee for tourist visa application varies based on nationality and duration."
+            },
+            "dependent_application": false,
+            "local_tax_on_foreign_income": false,
+            "renewability": false,
+            "renewability_details": "",
+            "days_in_country_to_renew_visa": 0,
+            "special_tax_regime": false,
+            "special_tax_regime_details": "",
+            "leads_to_permanent_residence": false,
+            "permanent_residency_details": "",
+            "taxes": {
+                "employees": {
+                    "income_tax": [],
+                    "social_security": []
+                },
+                "contractors": {
+                    "income_tax": [],
+                    "social_security": []
+                },
+                "retirees": {
+                    "income_tax": [],
+                    "social_security": []
+                },
+                "special_regimes": []
+            },
+            "required_documents": [
+                "Passport with minimum validity",
+                "Proof of onward travel (return ticket or itinerary)",
+                "Proof of accommodation (hotel reservation or invitation)"
+            ]
+        },
+        {
+            "visa_name": "Residence Permit",
+            "nomad_visa": false,
+            "official_government_link": "https://immigration.gov.mv/",
+            "key_consideration": "Available for foreigners intending to reside in Maldives for longer periods, subject to specific criteria and sponsorship.",
+            "validity_months": 12,
+            "income_requirement": {
+                "currency": "MVR",
+                "single_monthly": 100000,
+                "family_monthly": 150000,
+                "misc_details": "Income requirements and other criteria may vary based on the type of residence permit."
+            },
+            "application_timeline_days": 30,
+            "application_in_country": true,
+            "application_fee": {
+                "currency": "USD",
+                "single": 500,
+                "family": 750,
+                "details": "Fee for residence permit application varies based on duration and type of permit."
+            },
+            "dependent_application": true,
+            "local_tax_on_foreign_income": false,
+            "renewability": true,
+            "renewability_details": "Residence permits can be renewed subject to meeting renewal criteria.",
+            "days_in_country_to_renew_visa": 0,
+            "special_tax_regime": false,
+            "special_tax_regime_details": "",
+            "leads_to_permanent_residence": false,
+            "permanent_residency_details": "",
+            "taxes": {
+                "employees": {
+                    "income_tax": [],
+                    "social_security": []
+                },
+                "contractors": {
+                    "income_tax": [],
+                    "social_security": []
+                },
+                "retirees": {
+                    "income_tax": [],
+                    "social_security": []
+                },
+                "special_regimes": []
+            },
+            "required_documents": [
+                "Valid passport with at least 6 months validity",
+                "Proof of accommodation in Maldives",
+                "Police clearance certificate",
+                "Evidence of financial means (e.g., bank statements)"
+            ]
+        }
     ]
-  },
-  "key_consideration": "Foreigners can own property under certain conditions, often tied to investment in tourism or other designated sectors.",
-  "best_for": [
-    "luxury travelers",
-    "diving enthusiasts",
-    "honeymooners"
-  ],
-  "action_comment": "Consider Maldives for its stunning natural environment, luxurious resort lifestyle, and tax-friendly policies for expatriates.",
-  "tagline": "Experience paradise in the Maldives.",
-  "image": "maldives.jpg",
-  "tax_residency_trigger": 183,
-  "tax_residency_trigger_details": "Individuals are considered tax residents if present in Maldives for 183 days or more in a tax year.",
-  "country_standard_taxes": {
-    "tax_currency": "MVR",
-    "employees": {
-      "income_tax": [],
-      "social_security": []
-    },
-    "contractors": {
-      "income_tax": [],
-      "social_security": []
-    },
-    "retirees": {
-      "income_tax": [],
-      "social_security": []
-    }
-  },
-  "visas": [
-    {
-      "visa_name": "Tourist Visa",
-      "nomad_visa": false,
-      "official_government_link": "https://immigration.gov.mv/",
-      "key_consideration": "Required for short visits (typically 30 days) for tourism purposes.",
-      "validity_months": 1,
-      "income_requirement": {
-        "currency": "MVR",
-        "single_monthly": 0,
-        "family_monthly": 0,
-        "misc_details": "Proof of sufficient funds for the duration of stay may be requested."
-      },
-      "application_timeline_days": 1,
-      "application_in_country": false,
-      "application_fee": {
-        "currency": "USD",
-        "single": 100,
-        "family": 200,
-        "details": "Fee for tourist visa application varies based on nationality and duration."
-      },
-      "dependent_application": false,
-      "local_tax_on_foreign_income": false,
-      "renewability": false,
-      "renewability_details": "",
-      "days_in_country_to_renew_visa": 0,
-      "special_tax_regime": false,
-      "special_tax_regime_details": "",
-      "leads_to_permanent_residence": false,
-      "permanent_residency_details": "",
-      "taxes": {
-        "employees": {
-          "income_tax": [],
-          "social_security": []
-        },
-        "contractors": {
-          "income_tax": [],
-          "social_security": []
-        },
-        "retirees": {
-          "income_tax": [],
-          "social_security": []
-        },
-        "special_regimes": []
-      },
-      "required_documents": [
-        "Passport with minimum validity",
-        "Proof of onward travel (return ticket or itinerary)",
-        "Proof of accommodation (hotel reservation or invitation)"
-      ]
-    },
-    {
-      "visa_name": "Residence Permit",
-      "nomad_visa": false,
-      "official_government_link": "https://immigration.gov.mv/",
-      "key_consideration": "Available for foreigners intending to reside in Maldives for longer periods, subject to specific criteria and sponsorship.",
-      "validity_months": 12,
-      "income_requirement": {
-        "currency": "MVR",
-        "single_monthly": 100000,
-        "family_monthly": 150000,
-        "misc_details": "Income requirements and other criteria may vary based on the type of residence permit."
-      },
-      "application_timeline_days": 30,
-      "application_in_country": true,
-      "application_fee": {
-        "currency": "USD",
-        "single": 500,
-        "family": 750,
-        "details": "Fee for residence permit application varies based on duration and type of permit."
-      },
-      "dependent_application": true,
-      "local_tax_on_foreign_income": false,
-      "renewability": true,
-      "renewability_details": "Residence permits can be renewed subject to meeting renewal criteria.",
-      "days_in_country_to_renew_visa": 0,
-      "special_tax_regime": false,
-      "special_tax_regime_details": "",
-      "leads_to_permanent_residence": false,
-      "permanent_residency_details": "",
-      "taxes": {
-        "employees": {
-          "income_tax": [],
-          "social_security": []
-        },
-        "contractors": {
-          "income_tax": [],
-          "social_security": []
-        },
-        "retirees": {
-          "income_tax": [],
-          "social_security": []
-        },
-        "special_regimes": []
-      },
-      "required_documents": [
-        "Valid passport with at least 6 months validity",
-        "Proof of accommodation in Maldives",
-        "Police clearance certificate",
-        "Evidence of financial means (e.g., bank statements)"
-      ]
-    }
-  ]
 }

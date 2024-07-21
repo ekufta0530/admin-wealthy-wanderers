@@ -1,449 +1,448 @@
 {
-  "country_name": "Peru",
-  "country_code": "PE",
-  "capital": "Lima",
-  "display": true,
-  "currency": "PEN",
-  "anchor_country": false,
-  "has_nomad_visa": false,
-  "schengen_zone": false,
-  "in_european_union": false,
-  "cost_of_living_index": 30.9,
-  "cost_of_living_lvl": "$$",
-  "practical_tips": {
-    "financial_benefits": [
-      {
-        "benefit": "Affordable Living",
-        "description": "Peru offers a low cost of living compared to many Western countries."
-      },
-      {
-        "benefit": "Strong Economy",
-        "description": "Peru has a rapidly growing economy with opportunities in various sectors."
-      }
+    "country_name": "Peru",
+    "country_code": "PE",
+    "capital": "Lima",
+    "display": true,
+    "currency": "PEN",
+    "anchor_country": false,
+    "has_nomad_visa": false,
+    "schengen_zone": false,
+    "in_european_union": false,
+    "cost_of_living_index": 30.9,
+    "cost_of_living_lvl": "$$",
+    "practical_tips": {
+        "financial_benefits": [
+            {
+                "benefit": "Affordable Living",
+                "description": "Peru offers a low cost of living compared to many Western countries."
+            },
+            {
+                "benefit": "Strong Economy",
+                "description": "Peru has a rapidly growing economy with opportunities in various sectors."
+            }
+        ],
+        "lifestyle_benefits": [
+            {
+                "benefit": "Diverse Geography",
+                "description": "Experience a range of landscapes from coastal areas to mountains and the Amazon rainforest."
+            },
+            {
+                "benefit": "Rich Culture",
+                "description": "Peru is known for its rich cultural heritage, including the ancient Inca civilization and vibrant festivals."
+            }
+        ],
+        "additional_benefits": [
+            {
+                "benefit": "Friendly Locals",
+                "description": "Peruvians are known for their hospitality and warmth."
+            },
+            {
+                "benefit": "Delicious Cuisine",
+                "description": "Enjoy a world-renowned cuisine with diverse and unique flavors."
+            }
+        ]
+    },
+    "key_consideration": "While Peru does not have a specific digital nomad visa, it offers various visas for work, business, and long-term stays.",
+    "best_for": [
+        "contractors",
+        "short stay nomads",
+        "long stay nomads",
+        "retirees"
     ],
-    "lifestyle_benefits": [
-      {
-        "benefit": "Diverse Geography",
-        "description": "Experience a range of landscapes from coastal areas to mountains and the Amazon rainforest."
-      },
-      {
-        "benefit": "Rich Culture",
-        "description": "Peru is known for its rich cultural heritage, including the ancient Inca civilization and vibrant festivals."
-      }
-    ],
-    "additional_benefits": [
-      {
-        "benefit": "Friendly Locals",
-        "description": "Peruvians are known for their hospitality and warmth."
-      },
-      {
-        "benefit": "Delicious Cuisine",
-        "description": "Enjoy a world-renowned cuisine with diverse and unique flavors."
-      }
+    "action_comment": "Consider Peru for its affordable living, rich culture, and diverse landscapes.",
+    "tagline": "Discover the ancient wonders and vibrant culture of Peru while working remotely.",
+    "image": "peru.jpg",
+    "tax_residency_trigger": 183,
+    "tax_residency_trigger_details": "You are considered a tax resident if you stay for longer than 183 days in a calendar year.",
+    "country_standard_taxes": {
+        "tax_currency": "PEN",
+        "employees": {
+            "income_tax": [
+                {
+                    "min_income_range": 0,
+                    "max_income_range": 4200,
+                    "rate_pct": 8
+                },
+                {
+                    "min_income_range": 4201,
+                    "max_income_range": 21000,
+                    "rate_pct": 14
+                },
+                {
+                    "min_income_range": 21001,
+                    "max_income_range": 31500,
+                    "rate_pct": 17
+                },
+                {
+                    "min_income_range": 31501,
+                    "max_income_range": 63000,
+                    "rate_pct": 20
+                },
+                {
+                    "min_income_range": 63001,
+                    "max_income_range": null,
+                    "rate_pct": 30
+                }
+            ],
+            "social_security": [
+                {
+                    "min_income_range": 0,
+                    "max_income_range": null,
+                    "rate_pct": 13
+                }
+            ]
+        },
+        "contractors": {
+            "income_tax": [
+                {
+                    "min_income_range": 0,
+                    "max_income_range": 4200,
+                    "rate_pct": 8
+                },
+                {
+                    "min_income_range": 4201,
+                    "max_income_range": 21000,
+                    "rate_pct": 14
+                },
+                {
+                    "min_income_range": 21001,
+                    "max_income_range": 31500,
+                    "rate_pct": 17
+                },
+                {
+                    "min_income_range": 31501,
+                    "max_income_range": 63000,
+                    "rate_pct": 20
+                },
+                {
+                    "min_income_range": 63001,
+                    "max_income_range": null,
+                    "rate_pct": 30
+                }
+            ],
+            "social_security": [
+                {
+                    "min_income_range": 0,
+                    "max_income_range": null,
+                    "rate_pct": 13
+                }
+            ]
+        },
+        "retirees": {
+            "income_tax": [
+                {
+                    "min_income_range": 0,
+                    "max_income_range": 4200,
+                    "rate_pct": 8
+                },
+                {
+                    "min_income_range": 4201,
+                    "max_income_range": 21000,
+                    "rate_pct": 14
+                },
+                {
+                    "min_income_range": 21001,
+                    "max_income_range": 31500,
+                    "rate_pct": 17
+                },
+                {
+                    "min_income_range": 31501,
+                    "max_income_range": 63000,
+                    "rate_pct": 20
+                },
+                {
+                    "min_income_range": 63001,
+                    "max_income_range": null,
+                    "rate_pct": 30
+                }
+            ],
+            "social_security": []
+        }
+    },
+    "visas": [
+        {
+            "visa_name": "Temporary Resident Visa",
+            "nomad_visa": false,
+            "official_government_link": "https://www.gob.pe/",
+            "key_consideration": "For individuals intending to stay in Peru for more than six months for work, business, or family reunification.",
+            "validity_months": 12,
+            "income_requirement": {
+                "currency": "USD",
+                "single_monthly": 1500,
+                "family_monthly": 1500,
+                "misc_details": "Applicants must show proof of sufficient funds to support themselves during their stay."
+            },
+            "application_timeline_days": 30,
+            "application_in_country": true,
+            "application_fee": {
+                "currency": "USD",
+                "single": 150,
+                "family": 300,
+                "details": "Fee covers the main applicant and dependents."
+            },
+            "dependent_application": true,
+            "local_tax_on_foreign_income": true,
+            "renewability": true,
+            "renewability_details": "Can be renewed for additional periods if the conditions are still met.",
+            "days_in_country_to_renew_visa": 183,
+            "special_tax_regime": false,
+            "special_tax_regime_details": "",
+            "leads_to_permanent_residence": true,
+            "permanent_residency_details": "Eligible for permanent residency after two years of continuous residency.",
+            "taxes": {
+                "employees": {
+                    "income_tax": [
+                        {
+                            "min_income_range": 0,
+                            "max_income_range": 4200,
+                            "rate_pct": 8
+                        },
+                        {
+                            "min_income_range": 4201,
+                            "max_income_range": 21000,
+                            "rate_pct": 14
+                        },
+                        {
+                            "min_income_range": 21001,
+                            "max_income_range": 31500,
+                            "rate_pct": 17
+                        },
+                        {
+                            "min_income_range": 31501,
+                            "max_income_range": 63000,
+                            "rate_pct": 20
+                        },
+                        {
+                            "min_income_range": 63001,
+                            "max_income_range": null,
+                            "rate_pct": 30
+                        }
+                    ],
+                    "social_security": [
+                        {
+                            "min_income_range": 0,
+                            "max_income_range": null,
+                            "rate_pct": 13
+                        }
+                    ]
+                },
+                "contractors": {
+                    "income_tax": [
+                        {
+                            "min_income_range": 0,
+                            "max_income_range": 4200,
+                            "rate_pct": 8
+                        },
+                        {
+                            "min_income_range": 4201,
+                            "max_income_range": 21000,
+                            "rate_pct": 14
+                        },
+                        {
+                            "min_income_range": 21001,
+                            "max_income_range": 31500,
+                            "rate_pct": 17
+                        },
+                        {
+                            "min_income_range": 31501,
+                            "max_income_range": 63000,
+                            "rate_pct": 20
+                        },
+                        {
+                            "min_income_range": 63001,
+                            "max_income_range": null,
+                            "rate_pct": 30
+                        }
+                    ],
+                    "social_security": [
+                        {
+                            "min_income_range": 0,
+                            "max_income_range": null,
+                            "rate_pct": 13
+                        }
+                    ]
+                },
+                "retirees": {
+                    "income_tax": [
+                        {
+                            "min_income_range": 0,
+                            "max_income_range": 4200,
+                            "rate_pct": 8
+                        },
+                        {
+                            "min_income_range": 4201,
+                            "max_income_range": 21000,
+                            "rate_pct": 14
+                        },
+                        {
+                            "min_income_range": 21001,
+                            "max_income_range": 31500,
+                            "rate_pct": 17
+                        },
+                        {
+                            "min_income_range": 31501,
+                            "max_income_range": 63000,
+                            "rate_pct": 20
+                        },
+                        {
+                            "min_income_range": 63001,
+                            "max_income_range": null,
+                            "rate_pct": 30
+                        }
+                    ],
+                    "social_security": []
+                },
+                "special_regimes": []
+            },
+            "required_documents": [
+                "Valid passport",
+                "Proof of income or funds",
+                "Police clearance certificate",
+                "Health insurance covering the duration of stay",
+                "Proof of residence in Peru"
+            ]
+        },
+        {
+            "visa_name": "Work Visa",
+            "nomad_visa": false,
+            "official_government_link": "https://www.gob.pe/",
+            "key_consideration": "For individuals who have an employment contract with a Peruvian company.",
+            "validity_months": 12,
+            "income_requirement": {
+                "currency": "USD",
+                "single_monthly": 1500,
+                "family_monthly": 1500,
+                "misc_details": "Applicants must show proof of sufficient funds to support themselves during their stay."
+            },
+            "application_timeline_days": 30,
+            "application_in_country": true,
+            "application_fee": {
+                "currency": "USD",
+                "single": 150,
+                "family": 300,
+                "details": "Fee covers the main applicant and dependents."
+            },
+            "dependent_application": true,
+            "local_tax_on_foreign_income": true,
+            "renewability": true,
+            "renewability_details": "Can be renewed for additional periods if the conditions are still met.",
+            "days_in_country_to_renew_visa": 183,
+            "special_tax_regime": false,
+            "special_tax_regime_details": "",
+            "leads_to_permanent_residence": true,
+            "permanent_residency_details": "Eligible for permanent residency after two years of continuous residency.",
+            "taxes": {
+                "employees": {
+                    "income_tax": [
+                        {
+                            "min_income_range": 0,
+                            "max_income_range": 4200,
+                            "rate_pct": 8
+                        },
+                        {
+                            "min_income_range": 4201,
+                            "max_income_range": 21000,
+                            "rate_pct": 14
+                        },
+                        {
+                            "min_income_range": 21001,
+                            "max_income_range": 31500,
+                            "rate_pct": 17
+                        },
+                        {
+                            "min_income_range": 31501,
+                            "max_income_range": 63000,
+                            "rate_pct": 20
+                        },
+                        {
+                            "min_income_range": 63001,
+                            "max_income_range": null,
+                            "rate_pct": 30
+                        }
+                    ],
+                    "social_security": [
+                        {
+                            "min_income_range": 0,
+                            "max_income_range": null,
+                            "rate_pct": 13
+                        }
+                    ]
+                },
+                "contractors": {
+                    "income_tax": [
+                        {
+                            "min_income_range": 0,
+                            "max_income_range": 4200,
+                            "rate_pct": 8
+                        },
+                        {
+                            "min_income_range": 4201,
+                            "max_income_range": 21000,
+                            "rate_pct": 14
+                        },
+                        {
+                            "min_income_range": 21001,
+                            "max_income_range": 31500,
+                            "rate_pct": 17
+                        },
+                        {
+                            "min_income_range": 31501,
+                            "max_income_range": 63000,
+                            "rate_pct": 20
+                        },
+                        {
+                            "min_income_range": 63001,
+                            "max_income_range": null,
+                            "rate_pct": 30
+                        }
+                    ],
+                    "social_security": [
+                        {
+                            "min_income_range": 0,
+                            "max_income_range": null,
+                            "rate_pct": 13
+                        }
+                    ]
+                },
+                "retirees": {
+                    "income_tax": [
+                        {
+                            "min_income_range": 0,
+                            "max_income_range": 4200,
+                            "rate_pct": 8
+                        },
+                        {
+                            "min_income_range": 4201,
+                            "max_income_range": 21000,
+                            "rate_pct": 14
+                        },
+                        {
+                            "min_income_range": 21001,
+                            "max_income_range": 31500,
+                            "rate_pct": 17
+                        },
+                        {
+                            "min_income_range": 31501,
+                            "max_income_range": 63000,
+                            "rate_pct": 20
+                        },
+                        {
+                            "min_income_range": 63001,
+                            "max_income_range": null,
+                            "rate_pct": 30
+                        }
+                    ],
+                    "social_security": []
+                },
+                "special_regimes": []
+            },
+            "required_documents": [
+                "Valid passport",
+                "Proof of income or funds",
+                "Police clearance certificate",
+                "Health insurance covering the duration of stay",
+                "Proof of residence in Peru"
+            ]
+        }
     ]
-  },
-  "key_consideration": "While Peru does not have a specific digital nomad visa, it offers various visas for work, business, and long-term stays.",
-  "best_for": [
-    "contractors",
-    "short stay nomads",
-    "long stay nomads",
-    "retirees"
-  ],
-  "action_comment": "Consider Peru for its affordable living, rich culture, and diverse landscapes.",
-  "tagline": "Discover the ancient wonders and vibrant culture of Peru while working remotely.",
-  "image": "peru.jpg",
-  "tax_residency_trigger": 183,
-  "tax_residency_trigger_details": "You are considered a tax resident if you stay for longer than 183 days in a calendar year.",
-  "country_standard_taxes": {
-    "tax_currency": "PEN",
-    "employees": {
-      "income_tax": [
-        {
-          "min_income_range": 0,
-          "max_income_range": 4200,
-          "rate_pct": 8
-        },
-        {
-          "min_income_range": 4201,
-          "max_income_range": 21000,
-          "rate_pct": 14
-        },
-        {
-          "min_income_range": 21001,
-          "max_income_range": 31500,
-          "rate_pct": 17
-        },
-        {
-          "min_income_range": 31501,
-          "max_income_range": 63000,
-          "rate_pct": 20
-        },
-        {
-          "min_income_range": 63001,
-          "max_income_range": null,
-          "rate_pct": 30
-        }
-      ],
-      "social_security": [
-        {
-          "min_income_range": 0,
-          "max_income_range": null,
-          "rate_pct": 13
-        }
-      ]
-    },
-    "contractors": {
-      "income_tax": [
-        {
-          "min_income_range": 0,
-          "max_income_range": 4200,
-          "rate_pct": 8
-        },
-        {
-          "min_income_range": 4201,
-          "max_income_range": 21000,
-          "rate_pct": 14
-        },
-        {
-          "min_income_range": 21001,
-          "max_income_range": 31500,
-          "rate_pct": 17
-        },
-        {
-          "min_income_range": 31501,
-          "max_income_range": 63000,
-          "rate_pct": 20
-        },
-        {
-          "min_income_range": 63001,
-          "max_income_range": null,
-          "rate_pct": 30
-        }
-      ],
-      "social_security": [
-        {
-          "min_income_range": 0,
-          "max_income_range": null,
-          "rate_pct": 13
-        }
-      ]
-    },
-    "retirees": {
-      "income_tax": [
-        {
-          "min_income_range": 0,
-          "max_income_range": 4200,
-          "rate_pct": 8
-        },
-        {
-          "min_income_range": 4201,
-          "max_income_range": 21000,
-          "rate_pct": 14
-        },
-        {
-          "min_income_range": 21001,
-          "max_income_range": 31500,
-          "rate_pct": 17
-        },
-        {
-          "min_income_range": 31501,
-          "max_income_range": 63000,
-          "rate_pct": 20
-        },
-        {
-          "min_income_range": 63001,
-          "max_income_range": null,
-          "rate_pct": 30
-        }
-      ],
-      "social_security": []
-    }
-  },
-  "visas": [
-    {
-      "visa_name": "Temporary Resident Visa",
-      "nomad_visa": false,
-      "official_government_link": "https://www.gob.pe/",
-      "key_consideration": "For individuals intending to stay in Peru for more than six months for work, business, or family reunification.",
-      "validity_months": 12,
-      "income_requirement": {
-        "currency": "USD",
-        "single_monthly": 1500,
-        "family_monthly": 1500,
-        "misc_details": "Applicants must show proof of sufficient funds to support themselves during their stay."
-      },
-      "application_timeline_days": 30,
-      "application_in_country": true,
-      "application_fee": {
-        "currency": "USD",
-        "single": 150,
-        "family": 300,
-        "details": "Fee covers the main applicant and dependents."
-      },
-      "dependent_application": true,
-      "local_tax_on_foreign_income": true,
-      "renewability": true,
-      "renewability_details": "Can be renewed for additional periods if the conditions are still met.",
-      "days_in_country_to_renew_visa": 183,
-      "special_tax_regime": false,
-      "special_tax_regime_details": "",
-      "leads_to_permanent_residence": true,
-      "permanent_residency_details": "Eligible for permanent residency after two years of continuous residency.",
-      "taxes": {
-        "employees": {
-          "income_tax": [
-            {
-              "min_income_range": 0,
-              "max_income_range": 4200,
-              "rate_pct": 8
-            },
-            {
-              "min_income_range": 4201,
-              "max_income_range": 21000,
-              "rate_pct": 14
-            },
-            {
-              "min_income_range": 21001,
-              "max_income_range": 31500,
-              "rate_pct": 17
-            },
-            {
-              "min_income_range": 31501,
-              "max_income_range": 63000,
-              "rate_pct": 20
-            },
-            {
-              "min_income_range": 63001,
-              "max_income_range": null,
-              "rate_pct": 30
-            }
-          ],
-          "social_security": [
-            {
-              "min_income_range": 0,
-              "max_income_range": null,
-              "rate_pct": 13
-            }
-          ]
-        },
-        "contractors": {
-          "income_tax": [
-            {
-              "min_income_range": 0,
-              "max_income_range": 4200,
-              "rate_pct": 8
-            },
-            {
-              "min_income_range": 4201,
-              "max_income_range": 21000,
-              "rate_pct": 14
-            },
-            {
-              "min_income_range": 21001,
-              "max_income_range": 31500,
-              "rate_pct": 17
-            },
-            {
-              "min_income_range": 31501,
-              "max_income_range": 63000,
-              "rate_pct": 20
-            },
-            {
-              "min_income_range": 63001,
-              "max_income_range": null,
-              "rate_pct": 30
-            }
-          ],
-          "social_security": [
-            {
-              "min_income_range": 0,
-              "max_income_range": null,
-              "rate_pct": 13
-            }
-          ]
-        },
-        "retirees": {
-          "income_tax": [
-            {
-              "min_income_range": 0,
-              "max_income_range": 4200,
-              "rate_pct": 8
-            },
-            {
-              "min_income_range": 4201,
-              "max_income_range": 21000,
-              "rate_pct": 14
-            },
-            {
-              "min_income_range": 21001,
-              "max_income_range": 31500,
-              "rate_pct": 17
-            },
-            {
-              "min_income_range": 31501,
-              "max_income_range": 63000,
-              "rate_pct": 20
-            },
-            {
-              "min_income_range": 63001,
-              "max_income_range": null,
-              "rate_pct": 30
-            }
-          ],
-          "social_security": []
-        },
-        "special_regimes": []
-      },
-      "required_documents": [
-        "Valid passport",
-        "Proof of income or funds",
-        "Police clearance certificate",
-        "Health insurance covering the duration of stay",
-        "Proof of residence in Peru"
-      ]
-    },
-    {
-      "visa_name": "Work Visa",
-      "nomad_visa": false,
-      "official_government_link": "https://www.gob.pe/",
-      "key_consideration": "For individuals who have an employment contract with a Peruvian company.",
-      "validity_months": 12,
-      "income_requirement": {
-        "currency": "USD",
-        "single_monthly": 1500,
-        "family_monthly": 1500,
-        "misc_details": "Applicants must show proof of sufficient funds to support themselves during their stay."
-      },
-      "application_timeline_days": 30,
-      "application_in_country": true,
-      "application_fee": {
-        "currency": "USD",
-        "single": 150,
-        "family": 300,
-        "details": "Fee covers the main applicant and dependents."
-      },
-      "dependent_application": true,
-      "local_tax_on_foreign_income": true,
-      "renewability": true,
-      "renewability_details": "Can be renewed for additional periods if the conditions are still met.",
-      "days_in_country_to_renew_visa": 183,
-      "special_tax_regime": false,
-      "special_tax_regime_details": "",
-      "leads_to_permanent_residence": true,
-      "permanent_residency_details": "Eligible for permanent residency after two years of continuous residency.",
-      "taxes": {
-        "employees": {
-          "income_tax": [
-            {
-              "min_income_range": 0,
-              "max_income_range": 4200,
-              "rate_pct": 8
-            },
-            {
-              "min_income_range": 4201,
-              "max_income_range": 21000,
-              "rate_pct": 14
-            },
-            {
-              "min_income_range": 21001,
-              "max_income_range": 31500,
-              "rate_pct": 17
-            },
-            {
-              "min_income_range": 31501,
-              "max_income_range": 63000,
-              "rate_pct": 20
-            },
-            {
-              "min_income_range": 63001,
-              "max_income_range": null,
-              "rate_pct": 30
-            }
-          ],
-          "social_security": [
-            {
-              "min_income_range": 0,
-              "max_income_range": null,
-              "rate_pct": 13
-            }
-          ]
-        },
-        "contractors": {
-          "income_tax": [
-            {
-              "min_income_range": 0,
-              "max_income_range": 4200,
-              "rate_pct": 8
-            },
-            {
-              "min_income_range": 4201,
-              "max_income_range": 21000,
-              "rate_pct": 14
-            },
-            {
-              "min_income_range": 21001,
-              "max_income_range": 31500,
-              "rate_pct": 17
-            },
-            {
-              "min_income_range": 31501,
-              "max_income_range": 63000,
-              "rate_pct": 20
-            },
-            {
-              "min_income_range": 63001,
-              "max_income_range": null,
-              "rate_pct": 30
-            }
-          ],
-          "social_security": [
-            {
-              "min_income_range": 0,
-              "max_income_range": null,
-              "rate_pct": 13
-            }
-          ]
-        },
-        "retirees": {
-          "income_tax": [
-            {
-              "min_income_range": 0,
-              "max_income_range": 4200,
-              "rate_pct": 8
-            },
-            {
-              "min_income_range": 4201,
-              "max_income_range": 21000,
-              "rate_pct": 14
-            },
-            {
-              "min_income_range": 21001,
-              "max_income_range": 31500,
-              "rate_pct": 17
-            },
-            {
-              "min_income_range": 31501,
-              "max_income_range": 63000,
-              "rate_pct": 20
-            },
-            {
-              "min_income_range": 63001,
-              "max_income_range": null,
-              "rate_pct": 30
-            }
-          ],
-          "social_security": []
-        },
-        "special_regimes": []
-      },
-      "required_documents": [
-        "Valid passport",
-        "Proof of income or funds",
-        "Police clearance certificate",
-        "Health insurance covering the duration of stay",
-        "Proof of residence in Peru"
-      ]
-    }
-  ]
 }
-

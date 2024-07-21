@@ -1,294 +1,293 @@
 {
-  "country_name": "United States",
-  "country_code": "US",
-  "capital": "Washington, D.C.",
-  "display": true,
-  "currency": "USD",
-  "anchor_country": false,
-  "has_nomad_visa": false,
-  "schengen_zone": false,
-  "in_european_union": false,
-  "cost_of_living_index": 72.9,
-  "cost_of_living_lvl": "$$$",
-  "practical_tips": {
-    "financial_benefits": [
-      {
-        "benefit": "Diverse Economy",
-        "description": "The United States boasts a highly diversified economy with significant opportunities in various sectors."
-      },
-      {
-        "benefit": "Global Financial Hub",
-        "description": "Cities like New York and San Francisco are major global financial centers."
-      }
+    "country_name": "United States",
+    "country_code": "US",
+    "capital": "Washington, D.C.",
+    "display": true,
+    "currency": "USD",
+    "anchor_country": false,
+    "has_nomad_visa": false,
+    "schengen_zone": false,
+    "in_european_union": false,
+    "cost_of_living_index": 72.9,
+    "cost_of_living_lvl": "$$$",
+    "practical_tips": {
+        "financial_benefits": [
+            {
+                "benefit": "Diverse Economy",
+                "description": "The United States boasts a highly diversified economy with significant opportunities in various sectors."
+            },
+            {
+                "benefit": "Global Financial Hub",
+                "description": "Cities like New York and San Francisco are major global financial centers."
+            }
+        ],
+        "lifestyle_benefits": [
+            {
+                "benefit": "Cultural Diversity",
+                "description": "Experience a rich tapestry of cultures, traditions, and cuisines across the country."
+            },
+            {
+                "benefit": "Natural Wonders",
+                "description": "From Grand Canyon to Yellowstone, enjoy diverse natural landscapes and national parks."
+            }
+        ],
+        "additional_benefits": [
+            {
+                "benefit": "English as Main Language",
+                "description": "English is the primary language, facilitating communication and integration."
+            },
+            {
+                "benefit": "Higher Education Opportunities",
+                "description": "Access top-tier universities and educational institutions."
+            }
+        ]
+    },
+    "key_consideration": "Visa regulations vary based on purpose and duration of stay; tax obligations are complex and depend on residency status.",
+    "best_for": [
+        "tech professionals",
+        "entrepreneurs",
+        "students"
     ],
-    "lifestyle_benefits": [
-      {
-        "benefit": "Cultural Diversity",
-        "description": "Experience a rich tapestry of cultures, traditions, and cuisines across the country."
-      },
-      {
-        "benefit": "Natural Wonders",
-        "description": "From Grand Canyon to Yellowstone, enjoy diverse natural landscapes and national parks."
-      }
-    ],
-    "additional_benefits": [
-      {
-        "benefit": "English as Main Language",
-        "description": "English is the primary language, facilitating communication and integration."
-      },
-      {
-        "benefit": "Higher Education Opportunities",
-        "description": "Access top-tier universities and educational institutions."
-      }
+    "action_comment": "Consider the United States for its economic opportunities, cultural diversity, and natural beauty.",
+    "tagline": "Discover endless opportunities in the United States.",
+    "image": "united_states.jpg",
+    "tax_residency_trigger": 183,
+    "tax_residency_trigger_details": "Stay in the U.S. for 183 days or more in a calendar year or meet substantial presence test criteria to be considered a tax resident.",
+    "country_standard_taxes": {
+        "tax_currency": "USD",
+        "employees": {
+            "income_tax": [
+                {
+                    "min_income_range": 0,
+                    "max_income_range": 9950,
+                    "rate_pct": 10
+                },
+                {
+                    "min_income_range": 9951,
+                    "max_income_range": 40525,
+                    "rate_pct": 12
+                },
+                {
+                    "min_income_range": 40526,
+                    "max_income_range": 86375,
+                    "rate_pct": 22
+                },
+                {
+                    "min_income_range": 86376,
+                    "max_income_range": 164925,
+                    "rate_pct": 24
+                },
+                {
+                    "min_income_range": 164926,
+                    "max_income_range": 209425,
+                    "rate_pct": 32
+                },
+                {
+                    "min_income_range": 209426,
+                    "max_income_range": 523600,
+                    "rate_pct": 35
+                },
+                {
+                    "min_income_range": 523601,
+                    "max_income_range": null,
+                    "rate_pct": 37
+                }
+            ],
+            "social_security": [
+                {
+                    "min_income_range": 0,
+                    "max_income_range": 147000,
+                    "rate_pct": 6.2
+                }
+            ]
+        },
+        "contractors": {
+            "income_tax": [
+                {
+                    "min_income_range": 0,
+                    "max_income_range": 9950,
+                    "rate_pct": 10
+                },
+                {
+                    "min_income_range": 9951,
+                    "max_income_range": 40525,
+                    "rate_pct": 12
+                },
+                {
+                    "min_income_range": 40526,
+                    "max_income_range": 86375,
+                    "rate_pct": 22
+                },
+                {
+                    "min_income_range": 86376,
+                    "max_income_range": 164925,
+                    "rate_pct": 24
+                },
+                {
+                    "min_income_range": 164926,
+                    "max_income_range": 209425,
+                    "rate_pct": 32
+                },
+                {
+                    "min_income_range": 209426,
+                    "max_income_range": 523600,
+                    "rate_pct": 35
+                },
+                {
+                    "min_income_range": 523601,
+                    "max_income_range": null,
+                    "rate_pct": 37
+                }
+            ],
+            "social_security": [
+                {
+                    "min_income_range": 0,
+                    "max_income_range": 147000,
+                    "rate_pct": 12.4
+                }
+            ]
+        },
+        "retirees": {
+            "income_tax": [
+                {
+                    "min_income_range": 0,
+                    "max_income_range": 9950,
+                    "rate_pct": 10
+                },
+                {
+                    "min_income_range": 9951,
+                    "max_income_range": 40525,
+                    "rate_pct": 12
+                },
+                {
+                    "min_income_range": 40526,
+                    "max_income_range": 86375,
+                    "rate_pct": 22
+                },
+                {
+                    "min_income_range": 86376,
+                    "max_income_range": 164925,
+                    "rate_pct": 24
+                },
+                {
+                    "min_income_range": 164926,
+                    "max_income_range": 209425,
+                    "rate_pct": 32
+                },
+                {
+                    "min_income_range": 209426,
+                    "max_income_range": 523600,
+                    "rate_pct": 35
+                },
+                {
+                    "min_income_range": 523601,
+                    "max_income_range": null,
+                    "rate_pct": 37
+                }
+            ],
+            "social_security": []
+        }
+    },
+    "visas": [
+        {
+            "visa_name": "B-1/B-2 Visa (Visitor Visa)",
+            "nomad_visa": false,
+            "official_government_link": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit.html",
+            "key_consideration": "Allows for short visits for tourism or business purposes.",
+            "validity_months": 120,
+            "income_requirement": {
+                "currency": "USD",
+                "single_monthly": 0,
+                "family_monthly": 0,
+                "misc_details": "Proof of sufficient funds for the duration of stay may be requested."
+            },
+            "application_timeline_days": 30,
+            "application_in_country": false,
+            "application_fee": {
+                "currency": "USD",
+                "single": 160,
+                "family": 160,
+                "details": "Non-refundable visa application fee."
+            },
+            "dependent_application": false,
+            "local_tax_on_foreign_income": false,
+            "renewability": false,
+            "renewability_details": "",
+            "days_in_country_to_renew_visa": 0,
+            "special_tax_regime": false,
+            "special_tax_regime_details": "",
+            "leads_to_permanent_residence": false,
+            "permanent_residency_details": "",
+            "taxes": {
+                "employees": {
+                    "income_tax": [],
+                    "social_security": []
+                },
+                "contractors": {
+                    "income_tax": [],
+                    "social_security": []
+                },
+                "retirees": {
+                    "income_tax": [],
+                    "social_security": []
+                },
+                "special_regimes": []
+            },
+            "required_documents": [
+                "Passport with sufficient validity",
+                "Proof of funds for the visit (bank statements)",
+                "Purpose of visit documentation (invitation letter, itinerary)"
+            ]
+        },
+        {
+            "visa_name": "H-1B Visa (Work Visa)",
+            "nomad_visa": false,
+            "official_government_link": "https://www.uscis.gov/working-in-the-united-states/temporary-workers/h-1b-specialty-occupations-dod-cooperative-research-and-development-project-workers-and-fashion-models",
+            "key_consideration": "Allows skilled workers in specialty occupations to work temporarily in the U.S.",
+            "validity_months": 36,
+            "income_requirement": {
+                "currency": "USD",
+                "single_monthly": 0,
+                "family_monthly": 0,
+                "misc_details": "Employer sponsorship required."
+            },
+            "application_timeline_days": 180,
+            "application_in_country": false,
+            "application_fee": {
+                "currency": "USD",
+                "single": 190,
+                "family": 190,
+                "details": "Non-refundable petition filing fee."
+            },
+            "dependent_application": true,
+            "local_tax_on_foreign_income": false,
+            "renewability": true,
+            "renewability_details": "May be extended beyond initial period based on employment continuation.",
+            "days_in_country_to_renew_visa": 0,
+            "special_tax_regime": false,
+            "special_tax_regime_details": "",
+            "leads_to_permanent_residence": true,
+            "permanent_residency_details": "Holders may apply for Permanent Residency (Green Card) based on eligibility criteria.",
+            "taxes": {
+                "employees": {
+                    "income_tax": [],
+                    "social_security": []
+                },
+                "contractors": {
+                    "income_tax": [],
+                    "social_security": []
+                },
+                "retirees": {
+                    "income_tax": [],
+                    "social_security": []
+                },
+                "special_regimes": []
+            },
+            "required_documents": [
+                "Job offer letter from U.S. employer",
+                "Labor Condition Application (LCA)",
+                "Educational credentials evaluation (if foreign degrees)"
+            ]
+        }
     ]
-  },
-  "key_consideration": "Visa regulations vary based on purpose and duration of stay; tax obligations are complex and depend on residency status.",
-  "best_for": [
-    "tech professionals",
-    "entrepreneurs",
-    "students"
-  ],
-  "action_comment": "Consider the United States for its economic opportunities, cultural diversity, and natural beauty.",
-  "tagline": "Discover endless opportunities in the United States.",
-  "image": "united_states.jpg",
-  "tax_residency_trigger": 183,
-  "tax_residency_trigger_details": "Stay in the U.S. for 183 days or more in a calendar year or meet substantial presence test criteria to be considered a tax resident.",
-  "country_standard_taxes": {
-    "tax_currency": "USD",
-    "employees": {
-      "income_tax": [
-        {
-          "min_income_range": 0,
-          "max_income_range": 9950,
-          "rate_pct": 10
-        },
-        {
-          "min_income_range": 9951,
-          "max_income_range": 40525,
-          "rate_pct": 12
-        },
-        {
-          "min_income_range": 40526,
-          "max_income_range": 86375,
-          "rate_pct": 22
-        },
-        {
-          "min_income_range": 86376,
-          "max_income_range": 164925,
-          "rate_pct": 24
-        },
-        {
-          "min_income_range": 164926,
-          "max_income_range": 209425,
-          "rate_pct": 32
-        },
-        {
-          "min_income_range": 209426,
-          "max_income_range": 523600,
-          "rate_pct": 35
-        },
-        {
-          "min_income_range": 523601,
-          "max_income_range": null,
-          "rate_pct": 37
-        }
-      ],
-      "social_security": [
-        {
-          "min_income_range": 0,
-          "max_income_range": 147000,
-          "rate_pct": 6.2
-        }
-      ]
-    },
-    "contractors": {
-      "income_tax": [
-        {
-          "min_income_range": 0,
-          "max_income_range": 9950,
-          "rate_pct": 10
-        },
-        {
-          "min_income_range": 9951,
-          "max_income_range": 40525,
-          "rate_pct": 12
-        },
-        {
-          "min_income_range": 40526,
-          "max_income_range": 86375,
-          "rate_pct": 22
-        },
-        {
-          "min_income_range": 86376,
-          "max_income_range": 164925,
-          "rate_pct": 24
-        },
-        {
-          "min_income_range": 164926,
-          "max_income_range": 209425,
-          "rate_pct": 32
-        },
-        {
-          "min_income_range": 209426,
-          "max_income_range": 523600,
-          "rate_pct": 35
-        },
-        {
-          "min_income_range": 523601,
-          "max_income_range": null,
-          "rate_pct": 37
-        }
-      ],
-      "social_security": [
-        {
-          "min_income_range": 0,
-          "max_income_range": 147000,
-          "rate_pct": 12.4
-        }
-      ]
-    },
-    "retirees": {
-      "income_tax": [
-        {
-          "min_income_range": 0,
-          "max_income_range": 9950,
-          "rate_pct": 10
-        },
-        {
-          "min_income_range": 9951,
-          "max_income_range": 40525,
-          "rate_pct": 12
-        },
-        {
-          "min_income_range": 40526,
-          "max_income_range": 86375,
-          "rate_pct": 22
-        },
-        {
-          "min_income_range": 86376,
-          "max_income_range": 164925,
-          "rate_pct": 24
-        },
-        {
-          "min_income_range": 164926,
-          "max_income_range": 209425,
-          "rate_pct": 32
-        },
-        {
-          "min_income_range": 209426,
-          "max_income_range": 523600,
-          "rate_pct": 35
-        },
-        {
-          "min_income_range": 523601,
-          "max_income_range": null,
-          "rate_pct": 37
-        }
-      ],
-      "social_security": []
-    }
-  },
-  "visas": [
-    {
-      "visa_name": "B-1/B-2 Visa (Visitor Visa)",
-      "nomad_visa": false,
-      "official_government_link": "https://travel.state.gov/content/travel/en/us-visas/tourism-visit.html",
-      "key_consideration": "Allows for short visits for tourism or business purposes.",
-      "validity_months": 120,
-      "income_requirement": {
-        "currency": "USD",
-        "single_monthly": 0,
-        "family_monthly": 0,
-        "misc_details": "Proof of sufficient funds for the duration of stay may be requested."
-      },
-      "application_timeline_days": 30,
-      "application_in_country": false,
-      "application_fee": {
-        "currency": "USD",
-        "single": 160,
-        "family": 160,
-        "details": "Non-refundable visa application fee."
-      },
-      "dependent_application": false,
-      "local_tax_on_foreign_income": false,
-      "renewability": false,
-      "renewability_details": "",
-      "days_in_country_to_renew_visa": 0,
-      "special_tax_regime": false,
-      "special_tax_regime_details": "",
-      "leads_to_permanent_residence": false,
-      "permanent_residency_details": "",
-      "taxes": {
-        "employees": {
-          "income_tax": [],
-          "social_security": []
-        },
-        "contractors": {
-          "income_tax": [],
-          "social_security": []
-        },
-        "retirees": {
-          "income_tax": [],
-          "social_security": []
-        },
-        "special_regimes": []
-      },
-      "required_documents": [
-        "Passport with sufficient validity",
-        "Proof of funds for the visit (bank statements)",
-        "Purpose of visit documentation (invitation letter, itinerary)"
-      ]
-    },
-    {
-      "visa_name": "H-1B Visa (Work Visa)",
-      "nomad_visa": false,
-      "official_government_link": "https://www.uscis.gov/working-in-the-united-states/temporary-workers/h-1b-specialty-occupations-dod-cooperative-research-and-development-project-workers-and-fashion-models",
-      "key_consideration": "Allows skilled workers in specialty occupations to work temporarily in the U.S.",
-      "validity_months": 36,
-      "income_requirement": {
-        "currency": "USD",
-        "single_monthly": 0,
-        "family_monthly": 0,
-        "misc_details": "Employer sponsorship required."
-      },
-      "application_timeline_days": 180,
-      "application_in_country": false,
-      "application_fee": {
-        "currency": "USD",
-        "single": 190,
-        "family": 190,
-        "details": "Non-refundable petition filing fee."
-      },
-      "dependent_application": true,
-      "local_tax_on_foreign_income": false,
-      "renewability": true,
-      "renewability_details": "May be extended beyond initial period based on employment continuation.",
-      "days_in_country_to_renew_visa": 0,
-      "special_tax_regime": false,
-      "special_tax_regime_details": "",
-      "leads_to_permanent_residence": true,
-      "permanent_residency_details": "Holders may apply for Permanent Residency (Green Card) based on eligibility criteria.",
-      "taxes": {
-        "employees": {
-          "income_tax": [],
-          "social_security": []
-        },
-        "contractors": {
-          "income_tax": [],
-          "social_security": []
-        },
-        "retirees": {
-          "income_tax": [],
-          "social_security": []
-        },
-        "special_regimes": []
-      },
-      "required_documents": [
-        "Job offer letter from U.S. employer",
-        "Labor Condition Application (LCA)",
-        "Educational credentials evaluation (if foreign degrees)"
-      ]
-    }
-  ]
 }
-

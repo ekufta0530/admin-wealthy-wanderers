@@ -1,243 +1,243 @@
 {
-  "country_name": "Denmark",
-  "country_code": "DK",
-  "capital": "Copenhagen",
-  "display": true,
-  "currency": "DKK",
-  "anchor_country": false,
-  "has_nomad_visa": false,
-  "schengen_zone": true,
-  "in_european_union": true,
-  "cost_of_living_index": 75.2,
-  "cost_of_living_lvl": "$$$$",
-  "practical_tips": {
-    "financial_benefits": [
-      {
-        "benefit": "Progressive Tax System",
-        "description": "Denmark has a progressive income tax system, supporting extensive welfare services."
-      },
-      {
-        "benefit": "High Income Levels",
-        "description": "Salaries in Denmark are generally high compared to many other countries."
-      }
-    ],
-    "lifestyle_benefits": [
-      {
-        "benefit": "High Quality of Life",
-        "description": "Denmark consistently ranks high in quality of life indexes, with excellent healthcare and social security."
-      },
-      {
-        "benefit": "Work-Life Balance",
-        "description": "Danish culture promotes a healthy work-life balance, with generous parental leave and flexible working hours."
-      }
-    ],
-    "additional_benefits": [
-      {
-        "benefit": "English Proficiency",
-        "description": "English is widely spoken and understood in Denmark, making integration easier for expatriates."
-      },
-      {
-        "benefit": "Design and Innovation",
-        "description": "Denmark is known for its design excellence, sustainability initiatives, and innovation."
-      }
-    ]
-  },
-  "key_consideration": "Denmark does not have a specific digital nomad visa, but offers work permits and residence permits for skilled workers, entrepreneurs, and students.",
-  "best_for": [
-    "employees",
-    "contractors"
-  ],
-  "action_comment": "Consider Denmark for its high standard of living, progressive society, and innovative business environment.",
-  "tagline": "Experience Denmark's blend of modernity, sustainability, and rich culture.",
-  "image": "denmark.jpg",
-  "tax_residency_trigger": 183,
-  "tax_residency_trigger_details": "You are considered a tax resident if you stay in Denmark for more than 183 days in a calendar year.",
-  "country_standard_taxes": {
-    "tax_currency": "DKK",
-    "employees": {
-      "income_tax": [
-        {
-          "min_income_range": 0,
-          "max_income_range": 60900,
-          "rate_pct": 8
-        },
-        {
-          "min_income_range": 60901,
-          "max_income_range": 428500,
-          "rate_pct": 27
-        },
-        {
-          "min_income_range": 428501,
-          "max_income_range": null,
-          "rate_pct": 42
-        }
-      ],
-      "social_security": [
-        {
-          "min_income_range": 0,
-          "max_income_range": null,
-          "rate_pct": 8
-        }
-      ]
+    "country_name": "Denmark",
+    "country_code": "DK",
+    "capital": "Copenhagen",
+    "display": true,
+    "currency": "DKK",
+    "anchor_country": false,
+    "has_nomad_visa": false,
+    "schengen_zone": true,
+    "in_european_union": true,
+    "cost_of_living_index": 75.2,
+    "cost_of_living_lvl": "$$$$",
+    "practical_tips": {
+        "financial_benefits": [
+            {
+                "benefit": "Progressive Tax System",
+                "description": "Denmark has a progressive income tax system, supporting extensive welfare services."
+            },
+            {
+                "benefit": "High Income Levels",
+                "description": "Salaries in Denmark are generally high compared to many other countries."
+            }
+        ],
+        "lifestyle_benefits": [
+            {
+                "benefit": "High Quality of Life",
+                "description": "Denmark consistently ranks high in quality of life indexes, with excellent healthcare and social security."
+            },
+            {
+                "benefit": "Work-Life Balance",
+                "description": "Danish culture promotes a healthy work-life balance, with generous parental leave and flexible working hours."
+            }
+        ],
+        "additional_benefits": [
+            {
+                "benefit": "English Proficiency",
+                "description": "English is widely spoken and understood in Denmark, making integration easier for expatriates."
+            },
+            {
+                "benefit": "Design and Innovation",
+                "description": "Denmark is known for its design excellence, sustainability initiatives, and innovation."
+            }
+        ]
     },
-    "contractors": {
-      "income_tax": [
-        {
-          "min_income_range": 0,
-          "max_income_range": 60900,
-          "rate_pct": 8
-        },
-        {
-          "min_income_range": 60901,
-          "max_income_range": 428500,
-          "rate_pct": 27
-        },
-        {
-          "min_income_range": 428501,
-          "max_income_range": null,
-          "rate_pct": 42
-        }
-      ],
-      "social_security": [
-        {
-          "min_income_range": 0,
-          "max_income_range": null,
-          "rate_pct": 8
-        }
-      ]
-    },
-    "retirees": {
-      "income_tax": [
-        {
-          "min_income_range": 0,
-          "max_income_range": 60900,
-          "rate_pct": 8
-        },
-        {
-          "min_income_range": 60901,
-          "max_income_range": 428500,
-          "rate_pct": 27
-        },
-        {
-          "min_income_range": 428501,
-          "max_income_range": null,
-          "rate_pct": 42
-        }
-      ],
-      "social_security": []
-    }
-  },
-  "visas": [
-    {
-      "visa_name": "Work Permit",
-      "nomad_visa": false,
-      "official_government_link": "https://www.nyidanmark.dk/en-GB/Words-and-concepts/Family/Overview-over-rules",
-      "key_consideration": "For individuals with a job offer or employment contract in Denmark.",
-      "validity_months": 24,
-      "income_requirement": {
-        "currency": "DKK",
-        "single_monthly": 13600,
-        "family_monthly": 13600,
-        "misc_details": "Salary must meet minimum wage requirements depending on the job category."
-      },
-      "application_timeline_days": 30,
-      "application_in_country": true,
-      "application_fee": {
-        "currency": "DKK",
-        "single": 3380,
-        "family": 3380,
-        "details": "Fee varies based on the type of application."
-      },
-      "dependent_application": true,
-      "local_tax_on_foreign_income": true,
-      "renewability": true,
-      "renewability_details": "Can be renewed based on continued employment and eligibility.",
-      "days_in_country_to_renew_visa": 183,
-      "special_tax_regime": false,
-      "special_tax_regime_details": "",
-      "leads_to_permanent_residence": true,
-      "permanent_residency_details": "Eligible for permanent residency after fulfilling residency and other conditions.",
-      "taxes": {
+    "key_consideration": "Denmark does not have a specific digital nomad visa, but offers work permits and residence permits for skilled workers, entrepreneurs, and students.",
+    "best_for": [
+        "employees",
+        "contractors"
+    ],
+    "action_comment": "Consider Denmark for its high standard of living, progressive society, and innovative business environment.",
+    "tagline": "Experience Denmark's blend of modernity, sustainability, and rich culture.",
+    "image": "denmark.jpg",
+    "tax_residency_trigger": 183,
+    "tax_residency_trigger_details": "You are considered a tax resident if you stay in Denmark for more than 183 days in a calendar year.",
+    "country_standard_taxes": {
+        "tax_currency": "DKK",
         "employees": {
-          "income_tax": [
-            {
-              "min_income_range": 0,
-              "max_income_range": 60900,
-              "rate_pct": 8
-            },
-            {
-              "min_income_range": 60901,
-              "max_income_range": 428500,
-              "rate_pct": 27
-            },
-            {
-              "min_income_range": 428501,
-              "max_income_range": null,
-              "rate_pct": 42
-            }
-          ],
-          "social_security": [
-            {
-              "min_income_range": 0,
-              "max_income_range": null,
-              "rate_pct": 8
-            }
-          ]
+            "income_tax": [
+                {
+                    "min_income_range": 0,
+                    "max_income_range": 60900,
+                    "rate_pct": 8
+                },
+                {
+                    "min_income_range": 60901,
+                    "max_income_range": 428500,
+                    "rate_pct": 27
+                },
+                {
+                    "min_income_range": 428501,
+                    "max_income_range": null,
+                    "rate_pct": 42
+                }
+            ],
+            "social_security": [
+                {
+                    "min_income_range": 0,
+                    "max_income_range": null,
+                    "rate_pct": 8
+                }
+            ]
         },
         "contractors": {
-          "income_tax": [
-            {
-              "min_income_range": 0,
-              "max_income_range": 60900,
-              "rate_pct": 8
-            },
-            {
-              "min_income_range": 60901,
-              "max_income_range": 428500,
-              "rate_pct": 27
-            },
-            {
-              "min_income_range": 428501,
-              "max_income_range": null,
-              "rate_pct": 42
-            }
-          ],
-          "social_security": [
-            {
-              "min_income_range": 0,
-              "max_income_range": null,
-              "rate_pct": 8
-            }
-          ]
+            "income_tax": [
+                {
+                    "min_income_range": 0,
+                    "max_income_range": 60900,
+                    "rate_pct": 8
+                },
+                {
+                    "min_income_range": 60901,
+                    "max_income_range": 428500,
+                    "rate_pct": 27
+                },
+                {
+                    "min_income_range": 428501,
+                    "max_income_range": null,
+                    "rate_pct": 42
+                }
+            ],
+            "social_security": [
+                {
+                    "min_income_range": 0,
+                    "max_income_range": null,
+                    "rate_pct": 8
+                }
+            ]
         },
         "retirees": {
-          "income_tax": [
-            {
-              "min_income_range": 0,
-              "max_income_range": 60900,
-              "rate_pct": 8
+            "income_tax": [
+                {
+                    "min_income_range": 0,
+                    "max_income_range": 60900,
+                    "rate_pct": 8
+                },
+                {
+                    "min_income_range": 60901,
+                    "max_income_range": 428500,
+                    "rate_pct": 27
+                },
+                {
+                    "min_income_range": 428501,
+                    "max_income_range": null,
+                    "rate_pct": 42
+                }
+            ],
+            "social_security": []
+        }
+    },
+    "visas": [
+        {
+            "visa_name": "Work Permit",
+            "nomad_visa": false,
+            "official_government_link": "https://www.nyidanmark.dk/en-GB/Words-and-concepts/Family/Overview-over-rules",
+            "key_consideration": "For individuals with a job offer or employment contract in Denmark.",
+            "validity_months": 24,
+            "income_requirement": {
+                "currency": "DKK",
+                "single_monthly": 13600,
+                "family_monthly": 13600,
+                "misc_details": "Salary must meet minimum wage requirements depending on the job category."
             },
-            {
-              "min_income_range": 60901,
-              "max_income_range": 428500,
-              "rate_pct": 27
+            "application_timeline_days": 30,
+            "application_in_country": true,
+            "application_fee": {
+                "currency": "DKK",
+                "single": 3380,
+                "family": 3380,
+                "details": "Fee varies based on the type of application."
             },
-            {
-              "min_income_range": 428501,
-              "max_income_range": null,
-              "rate_pct": 42
-            }
-          ],
-          "social_security": []
-        },
-        "special_regimes": []
-      },
-      "required_documents": [
-        "Valid passport",
-        "Job offer or employment contract",
-        "Proof of qualifications or education certificates",
-        "Proof of accommodation in Denmark"
-      ]
-    }
-  ]
+            "dependent_application": true,
+            "local_tax_on_foreign_income": true,
+            "renewability": true,
+            "renewability_details": "Can be renewed based on continued employment and eligibility.",
+            "days_in_country_to_renew_visa": 183,
+            "special_tax_regime": false,
+            "special_tax_regime_details": "",
+            "leads_to_permanent_residence": true,
+            "permanent_residency_details": "Eligible for permanent residency after fulfilling residency and other conditions.",
+            "taxes": {
+                "employees": {
+                    "income_tax": [
+                        {
+                            "min_income_range": 0,
+                            "max_income_range": 60900,
+                            "rate_pct": 8
+                        },
+                        {
+                            "min_income_range": 60901,
+                            "max_income_range": 428500,
+                            "rate_pct": 27
+                        },
+                        {
+                            "min_income_range": 428501,
+                            "max_income_range": null,
+                            "rate_pct": 42
+                        }
+                    ],
+                    "social_security": [
+                        {
+                            "min_income_range": 0,
+                            "max_income_range": null,
+                            "rate_pct": 8
+                        }
+                    ]
+                },
+                "contractors": {
+                    "income_tax": [
+                        {
+                            "min_income_range": 0,
+                            "max_income_range": 60900,
+                            "rate_pct": 8
+                        },
+                        {
+                            "min_income_range": 60901,
+                            "max_income_range": 428500,
+                            "rate_pct": 27
+                        },
+                        {
+                            "min_income_range": 428501,
+                            "max_income_range": null,
+                            "rate_pct": 42
+                        }
+                    ],
+                    "social_security": [
+                        {
+                            "min_income_range": 0,
+                            "max_income_range": null,
+                            "rate_pct": 8
+                        }
+                    ]
+                },
+                "retirees": {
+                    "income_tax": [
+                        {
+                            "min_income_range": 0,
+                            "max_income_range": 60900,
+                            "rate_pct": 8
+                        },
+                        {
+                            "min_income_range": 60901,
+                            "max_income_range": 428500,
+                            "rate_pct": 27
+                        },
+                        {
+                            "min_income_range": 428501,
+                            "max_income_range": null,
+                            "rate_pct": 42
+                        }
+                    ],
+                    "social_security": []
+                },
+                "special_regimes": []
+            },
+            "required_documents": [
+                "Valid passport",
+                "Job offer or employment contract",
+                "Proof of qualifications or education certificates",
+                "Proof of accommodation in Denmark"
+            ]
+        }
+    ]
 }

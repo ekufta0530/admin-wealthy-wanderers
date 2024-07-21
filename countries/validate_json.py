@@ -185,7 +185,7 @@ schema = {
                             "family_monthly": {"type": "number"},
                             "misc_details": {"type": "string"}
                         },
-                        "required": ["currency", "single_monthly", "family_monthly"]
+                        "required": ["currency", "single_monthly"]
                     },
                     "application_timeline_days": {"type": "integer"},
                     "application_in_country": {"type": "boolean"},
@@ -193,11 +193,11 @@ schema = {
                         "type": "object",
                         "properties": {
                             "currency": {"type": "string"},
-                            "single": {"type": "number"},
-                            "family": {"type": "number"},
+                            "single": {"anyOf": [{"type": "number"}, {"type": "null"}]},
+                            "family": {"anyOf": [{"type": "number"}, {"type": "null"}]},
                             "details": {"type": "string"}
                         },
-                        "required": ["currency", "single", "family"]
+                        "required": ["currency", "single"]
                     },
                     "dependent_application": {"type": "boolean"},
                     "local_tax_on_foreign_income": {"type": "boolean"},
@@ -270,8 +270,42 @@ schema = {
                                         "contractors_with_foreign_clients_eligible": {"type": "boolean"},
                                         "contractors_with_local_clients_eligible": {"type": "boolean"},
                                         "employees_with_foreign_employer_eligible": {"type": "boolean"},
-                                        "social_security": {"type": "boolean"},
-                                        "income_tax": {"type": "boolean"}
+                                        "social_security": {
+                                            "anyOf": [
+                                                {"type": "boolean"},
+                                                {
+                                                    "type": "array",
+                                                    "items": {
+                                                        "type": "object",
+                                                        "properties": {
+                                                            "min_income_range": {"type": "number"},
+                                                            "max_income_range": {"anyOf": [{"type": "number"}, {"type": "null"}]},
+                                                            "rate_pct": {"type": "number"},
+                                                            "misc_details": {"type": "string"}
+                                                        },
+                                                        "required": ["min_income_range", "max_income_range", "rate_pct"]
+                                                    }
+                                                }
+                                            ]
+                                        },
+                                        "income_tax": {
+                                            "anyOf": [
+                                                {"type": "boolean"},
+                                                {
+                                                    "type": "array",
+                                                    "items": {
+                                                        "type": "object",
+                                                        "properties": {
+                                                            "min_income_range": {"type": "number"},
+                                                            "max_income_range": {"anyOf": [{"type": "number"}, {"type": "null"}]},
+                                                            "rate_pct": {"type": "number"},
+                                                            "misc_details": {"type": "string"}
+                                                        },
+                                                        "required": ["min_income_range", "max_income_range", "rate_pct"]
+                                                    }
+                                                }
+                                            ]
+                                        }
                                     },
                                     "required": ["name", "benefit", "eligibility", "contractors_with_foreign_clients_eligible", "contractors_with_local_clients_eligible", "employees_with_foreign_employer_eligible", "social_security", "income_tax"]
                                 }
@@ -281,18 +315,27 @@ schema = {
                     },
                     "required_documents": {"type": "array", "items": {"type": "string"}}
                 },
-                "required": ["visa_name", "nomad_visa", "official_government_link", "key_consideration", "validity_months", "income_requirement", "application_timeline_days", "application_in_country", "application_fee", "dependent_application", "local_tax_on_foreign_income", "renewability", "renewability_details", "days_in_country_to_renew_visa", "special_tax_regime", "special_tax_regime_details", "leads_to_permanent_residence", "permanent_residency_details", "taxes", "required_documents"]
+                "required": ["visa_name", "nomad_visa", "key_consideration", "special_tax_regime"],
+                "if": {
+                    "properties": {
+                        "nomad_visa": {
+                            "const": False
+                        }
+                    }
+                },
+                "then": {
+                    "required": ["visa_name"]
+                }
             }
         }
     },
     "required": [
-        "country_name", "country_code", "capital", "display", "currency", "anchor_country", "has_nomad_visa", 
-        "schengen_zone", "in_european_union", "cost_of_living_index", "cost_of_living_lvl", "practical_tips", 
-        "key_consideration", "best_for", "action_comment", "tagline", "image", "tax_residency_trigger", 
-        "tax_residency_trigger_details", "country_standard_taxes"
+        "country_name", "country_code", "capital", "display", "currency", "anchor_country", "has_nomad_visa",
+        "schengen_zone", "in_european_union", "cost_of_living_index", "cost_of_living_lvl", "practical_tips",
+        "key_consideration", "best_for", "action_comment", "tagline", "image", "tax_residency_trigger",
+        "tax_residency_trigger_details", "country_standard_taxes", "visas"
     ]
 }
-
 
 def validate_json_files(directory):
     json_files = Path(directory).glob('*.json')
@@ -310,9 +353,5 @@ def validate_json_files(directory):
             print(f"{json_file.name}: Error decoding JSON. Error: {e.msg} on line {e.lineno}\n")
 
 # Specify the directory containing the JSON files
-directory = "/Users/erickufta/Projects/Wealthy-Wanderers/NomadTaxPro-backend/admin/countries/07:17:2024"
+directory = "/Users/erickufta/Projects/admin-wealthy-wanderers/countries/07:20:2024"
 validate_json_files(directory)
-
-
-
-

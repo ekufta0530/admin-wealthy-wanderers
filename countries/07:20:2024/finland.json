@@ -1,303 +1,303 @@
 {
-  "country_name": "Finland",
-  "country_code": "FI",
-  "capital": "Helsinki",
-  "display": true,
-  "currency": "EUR",
-  "anchor_country": false,
-  "has_nomad_visa": false,
-  "schengen_zone": true,
-  "in_european_union": true,
-  "cost_of_living_index": 65.5,
-  "cost_of_living_lvl": "$$$",
-  "practical_tips": {
-    "financial_benefits": [
-      {
-        "benefit": "Progressive Tax System",
-        "description": "Finland operates on a progressive income tax system, providing robust public services and social benefits."
-      },
-      {
-        "benefit": "High Income Levels",
-        "description": "Salaries in Finland are generally higher compared to many other countries."
-      }
-    ],
-    "lifestyle_benefits": [
-      {
-        "benefit": "High Quality of Life",
-        "description": "Finland consistently ranks high in quality of life indexes, offering excellent healthcare and education."
-      },
-      {
-        "benefit": "Nature and Outdoor Activities",
-        "description": "Enjoy Finland's pristine nature and outdoor activities throughout the year."
-      }
-    ],
-    "additional_benefits": [
-      {
-        "benefit": "English Proficiency",
-        "description": "English is widely spoken in Finland, making it easy for expatriates to communicate."
-      },
-      {
-        "benefit": "Design and Innovation",
-        "description": "Finland is known for its design, technology innovations, and progressive society."
-      }
-    ]
-  },
-  "key_consideration": "Finland does not have a specific digital nomad visa, but offers work permits and residence permits for skilled workers, entrepreneurs, and students.",
-  "best_for": [
-    "employees",
-    "contractors"
-  ],
-  "action_comment": "Consider Finland for its high standard of living, technological advancements, and natural beauty.",
-  "tagline": "Experience Finland's unique blend of nature, innovation, and culture.",
-  "image": "finland.jpg",
-  "tax_residency_trigger": 183,
-  "tax_residency_trigger_details": "You are considered a tax resident if you stay in Finland for more than 183 days in a calendar year.",
-  "country_standard_taxes": {
-    "tax_currency": "EUR",
-    "employees": {
-      "income_tax": [
-        {
-          "min_income_range": 0,
-          "max_income_range": 18600,
-          "rate_pct": 0
-        },
-        {
-          "min_income_range": 18600,
-          "max_income_range": 27900,
-          "rate_pct": 6
-        },
-        {
-          "min_income_range": 27900,
-          "max_income_range": 45900,
-          "rate_pct": 17.25
-        },
-        {
-          "min_income_range": 45490,
-          "max_income_range": 80500,
-          "rate_pct": 21.25
-        },
-        {
-          "min_income_range": 80500,
-          "max_income_range": null,
-          "rate_pct": 31.25
-        }
-      ],
-      "social_security": [
-        {
-          "min_income_range": 0,
-          "max_income_range": null,
-          "rate_pct": 7.15
-        }
-      ]
+    "country_name": "Finland",
+    "country_code": "FI",
+    "capital": "Helsinki",
+    "display": true,
+    "currency": "EUR",
+    "anchor_country": false,
+    "has_nomad_visa": false,
+    "schengen_zone": true,
+    "in_european_union": true,
+    "cost_of_living_index": 65.5,
+    "cost_of_living_lvl": "$$$",
+    "practical_tips": {
+        "financial_benefits": [
+            {
+                "benefit": "Progressive Tax System",
+                "description": "Finland operates on a progressive income tax system, providing robust public services and social benefits."
+            },
+            {
+                "benefit": "High Income Levels",
+                "description": "Salaries in Finland are generally higher compared to many other countries."
+            }
+        ],
+        "lifestyle_benefits": [
+            {
+                "benefit": "High Quality of Life",
+                "description": "Finland consistently ranks high in quality of life indexes, offering excellent healthcare and education."
+            },
+            {
+                "benefit": "Nature and Outdoor Activities",
+                "description": "Enjoy Finland's pristine nature and outdoor activities throughout the year."
+            }
+        ],
+        "additional_benefits": [
+            {
+                "benefit": "English Proficiency",
+                "description": "English is widely spoken in Finland, making it easy for expatriates to communicate."
+            },
+            {
+                "benefit": "Design and Innovation",
+                "description": "Finland is known for its design, technology innovations, and progressive society."
+            }
+        ]
     },
-    "contractors": {
-      "income_tax": [
-        {
-          "min_income_range": 0,
-          "max_income_range": 18100,
-          "rate_pct": 0
-        },
-        {
-          "min_income_range": 18101,
-          "max_income_range": 40900,
-          "rate_pct": 6.5
-        },
-        {
-          "min_income_range": 40901,
-          "max_income_range": 72500,
-          "rate_pct": 17.5
-        },
-        {
-          "min_income_range": 72501,
-          "max_income_range": 153300,
-          "rate_pct": 21.5
-        },
-        {
-          "min_income_range": 153301,
-          "max_income_range": null,
-          "rate_pct": 31.75
-        }
-      ],
-      "social_security": [
-        {
-          "min_income_range": 0,
-          "max_income_range": null,
-          "rate_pct": 7.15
-        }
-      ]
-    },
-    "retirees": {
-      "income_tax": [
-        {
-          "min_income_range": 0,
-          "max_income_range": 18100,
-          "rate_pct": 0
-        },
-        {
-          "min_income_range": 18101,
-          "max_income_range": 40900,
-          "rate_pct": 6.5
-        },
-        {
-          "min_income_range": 40901,
-          "max_income_range": 72500,
-          "rate_pct": 17.5
-        },
-        {
-          "min_income_range": 72501,
-          "max_income_range": 153300,
-          "rate_pct": 21.5
-        },
-        {
-          "min_income_range": 153301,
-          "max_income_range": null,
-          "rate_pct": 31.75
-        }
-      ],
-      "social_security": []
-    }
-  },
-  "visas": [
-    {
-      "visa_name": "Work Permit",
-      "nomad_visa": false,
-      "official_government_link": "https://migri.fi/en/work",
-      "key_consideration": "For individuals with a job offer or employment contract in Finland.",
-      "validity_months": 24,
-      "income_requirement": {
-        "currency": "EUR",
-        "single_monthly": 1514,
-        "family_monthly": 1514,
-        "misc_details": "Salary must meet minimum wage requirements depending on the job category."
-      },
-      "application_timeline_days": 90,
-      "application_in_country": true,
-      "application_fee": {
-        "currency": "EUR",
-        "single": 520,
-        "family": 520,
-        "details": "Fee varies based on the type of application."
-      },
-      "dependent_application": true,
-      "local_tax_on_foreign_income": true,
-      "renewability": true,
-      "renewability_details": "Can be renewed based on continued employment and eligibility.",
-      "days_in_country_to_renew_visa": 183,
-      "special_tax_regime": false,
-      "special_tax_regime_details": "",
-      "leads_to_permanent_residence": true,
-      "permanent_residency_details": "Eligible for permanent residency after fulfilling residency and other conditions.",
-      "taxes": {
+    "key_consideration": "Finland does not have a specific digital nomad visa, but offers work permits and residence permits for skilled workers, entrepreneurs, and students.",
+    "best_for": [
+        "employees",
+        "contractors"
+    ],
+    "action_comment": "Consider Finland for its high standard of living, technological advancements, and natural beauty.",
+    "tagline": "Experience Finland's unique blend of nature, innovation, and culture.",
+    "image": "finland.jpg",
+    "tax_residency_trigger": 183,
+    "tax_residency_trigger_details": "You are considered a tax resident if you stay in Finland for more than 183 days in a calendar year.",
+    "country_standard_taxes": {
+        "tax_currency": "EUR",
         "employees": {
-          "income_tax": [
-            {
-              "min_income_range": 0,
-              "max_income_range": 18100,
-              "rate_pct": 0
-            },
-            {
-              "min_income_range": 18101,
-              "max_income_range": 40900,
-              "rate_pct": 6.5
-            },
-            {
-              "min_income_range": 40901,
-              "max_income_range": 72500,
-              "rate_pct": 17.5
-            },
-            {
-              "min_income_range": 72501,
-              "max_income_range": 153300,
-              "rate_pct": 21.5
-            },
-            {
-              "min_income_range": 153301,
-              "max_income_range": null,
-              "rate_pct": 31.75
-            }
-          ],
-          "social_security": [
-            {
-              "min_income_range": 0,
-              "max_income_range": null,
-              "rate_pct": 7.15
-            }
-          ]
+            "income_tax": [
+                {
+                    "min_income_range": 0,
+                    "max_income_range": 18600,
+                    "rate_pct": 0
+                },
+                {
+                    "min_income_range": 18600,
+                    "max_income_range": 27900,
+                    "rate_pct": 6
+                },
+                {
+                    "min_income_range": 27900,
+                    "max_income_range": 45900,
+                    "rate_pct": 17.25
+                },
+                {
+                    "min_income_range": 45490,
+                    "max_income_range": 80500,
+                    "rate_pct": 21.25
+                },
+                {
+                    "min_income_range": 80500,
+                    "max_income_range": null,
+                    "rate_pct": 31.25
+                }
+            ],
+            "social_security": [
+                {
+                    "min_income_range": 0,
+                    "max_income_range": null,
+                    "rate_pct": 7.15
+                }
+            ]
         },
         "contractors": {
-          "income_tax": [
-            {
-              "min_income_range": 0,
-              "max_income_range": 18100,
-              "rate_pct": 0
-            },
-            {
-              "min_income_range": 18101,
-              "max_income_range": 40900,
-              "rate_pct": 6.5
-            },
-            {
-              "min_income_range": 40901,
-              "max_income_range": 72500,
-              "rate_pct": 17.5
-            },
-            {
-              "min_income_range": 72501,
-              "max_income_range": 153300,
-              "rate_pct": 21.5
-            },
-            {
-              "min_income_range": 153301,
-              "max_income_range": null,
-              "rate_pct": 31.75
-            }
-          ],
-          "social_security": [
-            {
-              "min_income_range": 0,
-              "max_income_range": null,
-              "rate_pct": 7.15
-            }
-          ]
+            "income_tax": [
+                {
+                    "min_income_range": 0,
+                    "max_income_range": 18100,
+                    "rate_pct": 0
+                },
+                {
+                    "min_income_range": 18101,
+                    "max_income_range": 40900,
+                    "rate_pct": 6.5
+                },
+                {
+                    "min_income_range": 40901,
+                    "max_income_range": 72500,
+                    "rate_pct": 17.5
+                },
+                {
+                    "min_income_range": 72501,
+                    "max_income_range": 153300,
+                    "rate_pct": 21.5
+                },
+                {
+                    "min_income_range": 153301,
+                    "max_income_range": null,
+                    "rate_pct": 31.75
+                }
+            ],
+            "social_security": [
+                {
+                    "min_income_range": 0,
+                    "max_income_range": null,
+                    "rate_pct": 7.15
+                }
+            ]
         },
         "retirees": {
-          "income_tax": [
-            {
-              "min_income_range": 0,
-              "max_income_range": 18100,
-              "rate_pct": 0
+            "income_tax": [
+                {
+                    "min_income_range": 0,
+                    "max_income_range": 18100,
+                    "rate_pct": 0
+                },
+                {
+                    "min_income_range": 18101,
+                    "max_income_range": 40900,
+                    "rate_pct": 6.5
+                },
+                {
+                    "min_income_range": 40901,
+                    "max_income_range": 72500,
+                    "rate_pct": 17.5
+                },
+                {
+                    "min_income_range": 72501,
+                    "max_income_range": 153300,
+                    "rate_pct": 21.5
+                },
+                {
+                    "min_income_range": 153301,
+                    "max_income_range": null,
+                    "rate_pct": 31.75
+                }
+            ],
+            "social_security": []
+        }
+    },
+    "visas": [
+        {
+            "visa_name": "Work Permit",
+            "nomad_visa": false,
+            "official_government_link": "https://migri.fi/en/work",
+            "key_consideration": "For individuals with a job offer or employment contract in Finland.",
+            "validity_months": 24,
+            "income_requirement": {
+                "currency": "EUR",
+                "single_monthly": 1514,
+                "family_monthly": 1514,
+                "misc_details": "Salary must meet minimum wage requirements depending on the job category."
             },
-            {
-              "min_income_range": 18101,
-              "max_income_range": 40900,
-              "rate_pct": 6.5
+            "application_timeline_days": 90,
+            "application_in_country": true,
+            "application_fee": {
+                "currency": "EUR",
+                "single": 520,
+                "family": 520,
+                "details": "Fee varies based on the type of application."
             },
-            {
-              "min_income_range": 40901,
-              "max_income_range": 72500,
-              "rate_pct": 17.5
+            "dependent_application": true,
+            "local_tax_on_foreign_income": true,
+            "renewability": true,
+            "renewability_details": "Can be renewed based on continued employment and eligibility.",
+            "days_in_country_to_renew_visa": 183,
+            "special_tax_regime": false,
+            "special_tax_regime_details": "",
+            "leads_to_permanent_residence": true,
+            "permanent_residency_details": "Eligible for permanent residency after fulfilling residency and other conditions.",
+            "taxes": {
+                "employees": {
+                    "income_tax": [
+                        {
+                            "min_income_range": 0,
+                            "max_income_range": 18100,
+                            "rate_pct": 0
+                        },
+                        {
+                            "min_income_range": 18101,
+                            "max_income_range": 40900,
+                            "rate_pct": 6.5
+                        },
+                        {
+                            "min_income_range": 40901,
+                            "max_income_range": 72500,
+                            "rate_pct": 17.5
+                        },
+                        {
+                            "min_income_range": 72501,
+                            "max_income_range": 153300,
+                            "rate_pct": 21.5
+                        },
+                        {
+                            "min_income_range": 153301,
+                            "max_income_range": null,
+                            "rate_pct": 31.75
+                        }
+                    ],
+                    "social_security": [
+                        {
+                            "min_income_range": 0,
+                            "max_income_range": null,
+                            "rate_pct": 7.15
+                        }
+                    ]
+                },
+                "contractors": {
+                    "income_tax": [
+                        {
+                            "min_income_range": 0,
+                            "max_income_range": 18100,
+                            "rate_pct": 0
+                        },
+                        {
+                            "min_income_range": 18101,
+                            "max_income_range": 40900,
+                            "rate_pct": 6.5
+                        },
+                        {
+                            "min_income_range": 40901,
+                            "max_income_range": 72500,
+                            "rate_pct": 17.5
+                        },
+                        {
+                            "min_income_range": 72501,
+                            "max_income_range": 153300,
+                            "rate_pct": 21.5
+                        },
+                        {
+                            "min_income_range": 153301,
+                            "max_income_range": null,
+                            "rate_pct": 31.75
+                        }
+                    ],
+                    "social_security": [
+                        {
+                            "min_income_range": 0,
+                            "max_income_range": null,
+                            "rate_pct": 7.15
+                        }
+                    ]
+                },
+                "retirees": {
+                    "income_tax": [
+                        {
+                            "min_income_range": 0,
+                            "max_income_range": 18100,
+                            "rate_pct": 0
+                        },
+                        {
+                            "min_income_range": 18101,
+                            "max_income_range": 40900,
+                            "rate_pct": 6.5
+                        },
+                        {
+                            "min_income_range": 40901,
+                            "max_income_range": 72500,
+                            "rate_pct": 17.5
+                        },
+                        {
+                            "min_income_range": 72501,
+                            "max_income_range": 153300,
+                            "rate_pct": 21.5
+                        },
+                        {
+                            "min_income_range": 153301,
+                            "max_income_range": null,
+                            "rate_pct": 31.75
+                        }
+                    ],
+                    "social_security": []
+                },
+                "special_regimes": []
             },
-            {
-              "min_income_range": 72501,
-              "max_income_range": 153300,
-              "rate_pct": 21.5
-            },
-            {
-              "min_income_range": 153301,
-              "max_income_range": null,
-              "rate_pct": 31.75
-            }
-          ],
-          "social_security": []
-        },
-        "special_regimes": []
-      },
-      "required_documents": [
-        "Valid passport",
-        "Job offer or employment contract",
-        "Proof of qualifications or education certificates",
-        "Proof of accommodation in Finland"
-      ]
-    }
-  ]
+            "required_documents": [
+                "Valid passport",
+                "Job offer or employment contract",
+                "Proof of qualifications or education certificates",
+                "Proof of accommodation in Finland"
+            ]
+        }
+    ]
 }

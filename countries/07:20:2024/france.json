@@ -1,98 +1,103 @@
 {
-  "country_name": "France",
-  "country_code": "FR",
-  "capital": "Paris",
-  "display": true,
-  "currency": "EUR",
-  "anchor_country": false,
-  "has_nomad_visa": false,
-  "schengen_zone": true,
-  "in_european_union": true,
-  "cost_of_living_index": 75.3,
-  "cost_of_living_lvl": "$$$",
-  "practical_tips": {
-    "financial_benefits": [
-      {
-        "benefit": "Healthcare System",
-        "description": "France offers an excellent public healthcare system with comprehensive coverage."
-      },
-      {
-        "benefit": "Stable Economy",
-        "description": "As a major EU country, France provides a stable economic environment with the Euro as its currency."
-      }
-    ],
-    "lifestyle_benefits": [
-      {
-        "benefit": "Rich Culture",
-        "description": "France is known for its rich culture, history, and gastronomy."
-      },
-      {
-        "benefit": "Diverse Landscapes",
-        "description": "From the beaches of the French Riviera to the Alps, France offers diverse natural landscapes."
-      }
-    ],
-    "additional_benefits": [
-      {
-        "benefit": "High Quality of Life",
-        "description": "France consistently ranks high for quality of life and work-life balance."
-      },
-      {
-        "benefit": "Extensive Transportation Network",
-        "description": "France has an extensive and efficient public transportation network, including high-speed trains."
-      }
-    ]
-  },
-  "key_consideration": "The French Tech Visa allows remote workers, startup founders, and employees of startup companies to live and work in France for up to 4 years.",
-  "best_for": [
-    "contractors",
-    "retirees"
-  ],
-  "action_comment": "Consider France for its rich culture, excellent healthcare, and diverse landscapes.",
-  "tagline": "Experience the elegance and innovation of France.",
-  "image": "france.jpg",
-  "tax_residency_trigger": 183,
-  "tax_residency_trigger_details": "You are considered a tax resident if you stay for longer than 183 days in a calendar year.",
-  "country_standard_taxes": {
-    "tax_currency": "EUR",
-    "employees": {
-      "income_tax": [
-        {
-          "min_income_range": 0,
-          "max_income_range": 10777,
-          "rate_pct": 0
-        },
-        {
-          "min_income_range": 10778,
-          "max_income_range": 27478,
-          "rate_pct": 11
-        },
-        {
-          "min_income_range": 27479,
-          "max_income_range": 78570,
-          "rate_pct": 30
-        },
-        {
-          "min_income_range": 78571,
-          "max_income_range": 168994,
-          "rate_pct": 41
-        },
-        {
-          "min_income_range": 168995,
-          "max_income_range": null,
-          "rate_pct": 45
-        }
-      ],
-      "social_security": [
-        {
-          "min_income_range": 0,
-          "max_income_range": 41000,
-          "rate_pct": 22
-        }
-      ]
+    "country_name": "France",
+    "country_code": "FR",
+    "capital": "Paris",
+    "display": true,
+    "currency": "EUR",
+    "anchor_country": false,
+    "has_nomad_visa": false,
+    "schengen_zone": true,
+    "in_european_union": true,
+    "cost_of_living_index": 75.3,
+    "cost_of_living_lvl": "$$$",
+    "practical_tips": {
+        "financial_benefits": [
+            {
+                "benefit": "Healthcare System",
+                "description": "France offers an excellent public healthcare system with comprehensive coverage."
+            },
+            {
+                "benefit": "Stable Economy",
+                "description": "As a major EU country, France provides a stable economic environment with the Euro as its currency."
+            }
+        ],
+        "lifestyle_benefits": [
+            {
+                "benefit": "Rich Culture",
+                "description": "France is known for its rich culture, history, and gastronomy."
+            },
+            {
+                "benefit": "Diverse Landscapes",
+                "description": "From the beaches of the French Riviera to the Alps, France offers diverse natural landscapes."
+            }
+        ],
+        "additional_benefits": [
+            {
+                "benefit": "High Quality of Life",
+                "description": "France consistently ranks high for quality of life and work-life balance."
+            },
+            {
+                "benefit": "Extensive Transportation Network",
+                "description": "France has an extensive and efficient public transportation network, including high-speed trains."
+            }
+        ]
     },
-    "contractors": {
-      "income_tax": []
-    }
-  },
-  "visas": []
+    "key_consideration": "The French Tech Visa allows remote workers, startup founders, and employees of startup companies to live and work in France for up to 4 years.",
+    "best_for": [
+        "contractors",
+        "retirees"
+    ],
+    "action_comment": "Consider France for its rich culture, excellent healthcare, and diverse landscapes.",
+    "tagline": "Experience the elegance and innovation of France.",
+    "image": "france.jpg",
+    "tax_residency_trigger": 183,
+    "tax_residency_trigger_details": "You are considered a tax resident if you stay for longer than 183 days in a calendar year.",
+    "country_standard_taxes": {
+        "tax_currency": "EUR",
+        "employees": {
+            "income_tax": [
+                {
+                    "min_income_range": 0,
+                    "max_income_range": 10777,
+                    "rate_pct": 0
+                },
+                {
+                    "min_income_range": 10778,
+                    "max_income_range": 27478,
+                    "rate_pct": 11
+                },
+                {
+                    "min_income_range": 27479,
+                    "max_income_range": 78570,
+                    "rate_pct": 30
+                },
+                {
+                    "min_income_range": 78571,
+                    "max_income_range": 168994,
+                    "rate_pct": 41
+                },
+                {
+                    "min_income_range": 168995,
+                    "max_income_range": null,
+                    "rate_pct": 45
+                }
+            ],
+            "social_security": [
+                {
+                    "min_income_range": 0,
+                    "max_income_range": 41000,
+                    "rate_pct": 22
+                }
+            ]
+        },
+        "contractors": {
+            "income_tax": [],
+            "social_security":[]
+        },
+        "retirees": {
+            "income_tax": [],
+            "social_security":[]
+        }
+    },
+    "visas": []
 }

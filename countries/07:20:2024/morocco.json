@@ -1,310 +1,310 @@
 {
-  "country_name": "Morocco",
-  "country_code": "MA",
-  "capital": "Rabat",
-  "display": true,
-  "currency": "MAD",
-  "anchor_country": false,
-  "has_nomad_visa": false,
-  "schengen_zone": false,
-  "in_european_union": false,
-  "cost_of_living_index": 29.9,
-  "cost_of_living_lvl": "$$",
-  "practical_tips": {
-    "financial_benefits": [
-      {
-        "benefit": "Low Cost of Living",
-        "description": "Morocco offers a relatively low cost of living, making it affordable for expatriates."
-      },
-      {
-        "benefit": "Affordable Healthcare",
-        "description": "Healthcare costs are generally lower compared to many Western countries."
-      }
-    ],
-    "lifestyle_benefits": [
-      {
-        "benefit": "Diverse Culture",
-        "description": "Experience a rich blend of Arab, Berber, and French cultural influences."
-      },
-      {
-        "benefit": "Mild Climate",
-        "description": "Enjoy a Mediterranean climate with warm summers and mild winters."
-      }
-    ],
-    "additional_benefits": [
-      {
-        "benefit": "Multilingual Environment",
-        "description": "French and Arabic are widely spoken, with English becoming more common, facilitating communication."
-      },
-      {
-        "benefit": "Proximity to Europe",
-        "description": "Located close to Europe, allowing for easy travel to nearby countries."
-      }
-    ]
-  },
-  "key_consideration": "Foreign residents must obtain a residence permit if staying longer than 90 days.",
-  "best_for": [
-    "culture enthusiasts",
-    "budget travelers",
-    "nature lovers"
-  ],
-  "action_comment": "Consider Morocco for its diverse culture, affordable living, and proximity to Europe.",
-  "tagline": "Discover the vibrant flavors of Morocco.",
-  "image": "morocco.jpg",
-  "tax_residency_trigger": 183,
-  "tax_residency_trigger_details": "You are considered a tax resident if you reside in Morocco for more than 183 days in a calendar year.",
-  "country_standard_taxes": {
-    "tax_currency": "MAD",
-    "employees": {
-      "income_tax": [
-        {
-          "min_income_range": 0,
-          "max_income_range": 30000,
-          "rate_pct": 0
-        },
-        {
-          "min_income_range": 30001,
-          "max_income_range": 50000,
-          "rate_pct": 10
-        },
-        {
-          "min_income_range": 50001,
-          "max_income_range": 60000,
-          "rate_pct": 20
-        },
-        {
-          "min_income_range": 60001,
-          "max_income_range": 80000,
-          "rate_pct": 30
-        },
-        {
-          "min_income_range": 80001,
-          "max_income_range": 180000,
-          "rate_pct": 34
-        },
-        {
-          "min_income_range": 180000,
-          "max_income_range": null,
-          "rate_pct": 38
-        }
-      ],
-      "social_security": [
-        {
-          "min_income_range": 0,
-          "max_income_range": null,
-          "rate_pct": 4.48
-        }
-      ]
+    "country_name": "Morocco",
+    "country_code": "MA",
+    "capital": "Rabat",
+    "display": true,
+    "currency": "MAD",
+    "anchor_country": false,
+    "has_nomad_visa": false,
+    "schengen_zone": false,
+    "in_european_union": false,
+    "cost_of_living_index": 29.9,
+    "cost_of_living_lvl": "$$",
+    "practical_tips": {
+        "financial_benefits": [
+            {
+                "benefit": "Low Cost of Living",
+                "description": "Morocco offers a relatively low cost of living, making it affordable for expatriates."
+            },
+            {
+                "benefit": "Affordable Healthcare",
+                "description": "Healthcare costs are generally lower compared to many Western countries."
+            }
+        ],
+        "lifestyle_benefits": [
+            {
+                "benefit": "Diverse Culture",
+                "description": "Experience a rich blend of Arab, Berber, and French cultural influences."
+            },
+            {
+                "benefit": "Mild Climate",
+                "description": "Enjoy a Mediterranean climate with warm summers and mild winters."
+            }
+        ],
+        "additional_benefits": [
+            {
+                "benefit": "Multilingual Environment",
+                "description": "French and Arabic are widely spoken, with English becoming more common, facilitating communication."
+            },
+            {
+                "benefit": "Proximity to Europe",
+                "description": "Located close to Europe, allowing for easy travel to nearby countries."
+            }
+        ]
     },
-    "contractors": {
-      "income_tax": [
-        {
-          "min_income_range": 0,
-          "max_income_range": 30000,
-          "rate_pct": 0
-        },
-        {
-          "min_income_range": 30001,
-          "max_income_range": 60000,
-          "rate_pct": 10
-        },
-        {
-          "min_income_range": 60001,
-          "max_income_range": 180000,
-          "rate_pct": 20
-        },
-        {
-          "min_income_range": 180001,
-          "max_income_range": 300000,
-          "rate_pct": 30
-        },
-        {
-          "min_income_range": 300001,
-          "max_income_range": null,
-          "rate_pct": 34
-        }
-      ],
-      "social_security": [
-        {
-          "min_income_range": 0,
-          "max_income_range": null,
-          "rate_pct": 4.48
-        }
-      ]
-    },
-    "retirees": {
-      "income_tax": [
-        {
-          "min_income_range": 0,
-          "max_income_range": 30000,
-          "rate_pct": 0
-        },
-        {
-          "min_income_range": 30001,
-          "max_income_range": 60000,
-          "rate_pct": 10
-        },
-        {
-          "min_income_range": 60001,
-          "max_income_range": 180000,
-          "rate_pct": 20
-        },
-        {
-          "min_income_range": 180001,
-          "max_income_range": 300000,
-          "rate_pct": 30
-        },
-        {
-          "min_income_range": 300001,
-          "max_income_range": null,
-          "rate_pct": 34
-        }
-      ],
-      "social_security": []
-    }
-  },
-  "visas": [
-    {
-      "visa_name": "Residence Permit",
-      "nomad_visa": false,
-      "official_government_link": "https://www.consulat.ma/en/visa",
-      "key_consideration": "Required for foreign nationals staying longer than 90 days.",
-      "validity_months": 12,
-      "income_requirement": {
-        "currency": "MAD",
-        "single_monthly": 10000,
-        "family_monthly": 15000,
-        "misc_details": "Proof of sufficient funds to support oneself and dependents."
-      },
-      "application_timeline_days": 30,
-      "application_in_country": true,
-      "application_fee": {
-        "currency": "MAD",
-        "single": 1000,
-        "family": 2000,
-        "details": "Fee varies based on visa type and duration."
-      },
-      "dependent_application": true,
-      "local_tax_on_foreign_income": false,
-      "renewability": true,
-      "renewability_details": "Residence permits can be renewed within Morocco.",
-      "days_in_country_to_renew_visa": 90,
-      "special_tax_regime": false,
-      "special_tax_regime_details": "",
-      "leads_to_permanent_residence": true,
-      "permanent_residency_details": "Eligible for permanent residency after 5 years of continuous residence in Morocco.",
-      "taxes": {
+    "key_consideration": "Foreign residents must obtain a residence permit if staying longer than 90 days.",
+    "best_for": [
+        "culture enthusiasts",
+        "budget travelers",
+        "nature lovers"
+    ],
+    "action_comment": "Consider Morocco for its diverse culture, affordable living, and proximity to Europe.",
+    "tagline": "Discover the vibrant flavors of Morocco.",
+    "image": "morocco.jpg",
+    "tax_residency_trigger": 183,
+    "tax_residency_trigger_details": "You are considered a tax resident if you reside in Morocco for more than 183 days in a calendar year.",
+    "country_standard_taxes": {
+        "tax_currency": "MAD",
         "employees": {
-          "income_tax": [
-            {
-              "min_income_range": 0,
-              "max_income_range": 30000,
-              "rate_pct": 0
-            },
-            {
-              "min_income_range": 30001,
-              "max_income_range": 60000,
-              "rate_pct": 10
-            },
-            {
-              "min_income_range": 60001,
-              "max_income_range": 180000,
-              "rate_pct": 20
-            },
-            {
-              "min_income_range": 180001,
-              "max_income_range": 300000,
-              "rate_pct": 30
-            },
-            {
-              "min_income_range": 300001,
-              "max_income_range": null,
-              "rate_pct": 34
-            }
-          ],
-          "social_security": [
-            {
-              "min_income_range": 0,
-              "max_income_range": null,
-              "rate_pct": 4.48
-            }
-          ]
+            "income_tax": [
+                {
+                    "min_income_range": 0,
+                    "max_income_range": 30000,
+                    "rate_pct": 0
+                },
+                {
+                    "min_income_range": 30001,
+                    "max_income_range": 50000,
+                    "rate_pct": 10
+                },
+                {
+                    "min_income_range": 50001,
+                    "max_income_range": 60000,
+                    "rate_pct": 20
+                },
+                {
+                    "min_income_range": 60001,
+                    "max_income_range": 80000,
+                    "rate_pct": 30
+                },
+                {
+                    "min_income_range": 80001,
+                    "max_income_range": 180000,
+                    "rate_pct": 34
+                },
+                {
+                    "min_income_range": 180000,
+                    "max_income_range": null,
+                    "rate_pct": 38
+                }
+            ],
+            "social_security": [
+                {
+                    "min_income_range": 0,
+                    "max_income_range": null,
+                    "rate_pct": 4.48
+                }
+            ]
         },
         "contractors": {
-          "income_tax": [
-            {
-              "min_income_range": 0,
-              "max_income_range": 30000,
-              "rate_pct": 0
-            },
-            {
-              "min_income_range": 30001,
-              "max_income_range": 60000,
-              "rate_pct": 10
-            },
-            {
-              "min_income_range": 60001,
-              "max_income_range": 180000,
-              "rate_pct": 20
-            },
-            {
-              "min_income_range": 180001,
-              "max_income_range": 300000,
-              "rate_pct": 30
-            },
-            {
-              "min_income_range": 300001,
-              "max_income_range": null,
-              "rate_pct": 34
-            }
-          ],
-          "social_security": [
-            {
-              "min_income_range": 0,
-              "max_income_range": null,
-              "rate_pct": 4.48
-            }
-          ]
+            "income_tax": [
+                {
+                    "min_income_range": 0,
+                    "max_income_range": 30000,
+                    "rate_pct": 0
+                },
+                {
+                    "min_income_range": 30001,
+                    "max_income_range": 60000,
+                    "rate_pct": 10
+                },
+                {
+                    "min_income_range": 60001,
+                    "max_income_range": 180000,
+                    "rate_pct": 20
+                },
+                {
+                    "min_income_range": 180001,
+                    "max_income_range": 300000,
+                    "rate_pct": 30
+                },
+                {
+                    "min_income_range": 300001,
+                    "max_income_range": null,
+                    "rate_pct": 34
+                }
+            ],
+            "social_security": [
+                {
+                    "min_income_range": 0,
+                    "max_income_range": null,
+                    "rate_pct": 4.48
+                }
+            ]
         },
         "retirees": {
-          "income_tax": [
-            {
-              "min_income_range": 0,
-              "max_income_range": 30000,
-              "rate_pct": 0
+            "income_tax": [
+                {
+                    "min_income_range": 0,
+                    "max_income_range": 30000,
+                    "rate_pct": 0
+                },
+                {
+                    "min_income_range": 30001,
+                    "max_income_range": 60000,
+                    "rate_pct": 10
+                },
+                {
+                    "min_income_range": 60001,
+                    "max_income_range": 180000,
+                    "rate_pct": 20
+                },
+                {
+                    "min_income_range": 180001,
+                    "max_income_range": 300000,
+                    "rate_pct": 30
+                },
+                {
+                    "min_income_range": 300001,
+                    "max_income_range": null,
+                    "rate_pct": 34
+                }
+            ],
+            "social_security": []
+        }
+    },
+    "visas": [
+        {
+            "visa_name": "Residence Permit",
+            "nomad_visa": false,
+            "official_government_link": "https://www.consulat.ma/en/visa",
+            "key_consideration": "Required for foreign nationals staying longer than 90 days.",
+            "validity_months": 12,
+            "income_requirement": {
+                "currency": "MAD",
+                "single_monthly": 10000,
+                "family_monthly": 15000,
+                "misc_details": "Proof of sufficient funds to support oneself and dependents."
             },
-            {
-              "min_income_range": 30001,
-              "max_income_range": 60000,
-              "rate_pct": 10
+            "application_timeline_days": 30,
+            "application_in_country": true,
+            "application_fee": {
+                "currency": "MAD",
+                "single": 1000,
+                "family": 2000,
+                "details": "Fee varies based on visa type and duration."
             },
-            {
-              "min_income_range": 60001,
-              "max_income_range": 180000,
-              "rate_pct": 20
+            "dependent_application": true,
+            "local_tax_on_foreign_income": false,
+            "renewability": true,
+            "renewability_details": "Residence permits can be renewed within Morocco.",
+            "days_in_country_to_renew_visa": 90,
+            "special_tax_regime": false,
+            "special_tax_regime_details": "",
+            "leads_to_permanent_residence": true,
+            "permanent_residency_details": "Eligible for permanent residency after 5 years of continuous residence in Morocco.",
+            "taxes": {
+                "employees": {
+                    "income_tax": [
+                        {
+                            "min_income_range": 0,
+                            "max_income_range": 30000,
+                            "rate_pct": 0
+                        },
+                        {
+                            "min_income_range": 30001,
+                            "max_income_range": 60000,
+                            "rate_pct": 10
+                        },
+                        {
+                            "min_income_range": 60001,
+                            "max_income_range": 180000,
+                            "rate_pct": 20
+                        },
+                        {
+                            "min_income_range": 180001,
+                            "max_income_range": 300000,
+                            "rate_pct": 30
+                        },
+                        {
+                            "min_income_range": 300001,
+                            "max_income_range": null,
+                            "rate_pct": 34
+                        }
+                    ],
+                    "social_security": [
+                        {
+                            "min_income_range": 0,
+                            "max_income_range": null,
+                            "rate_pct": 4.48
+                        }
+                    ]
+                },
+                "contractors": {
+                    "income_tax": [
+                        {
+                            "min_income_range": 0,
+                            "max_income_range": 30000,
+                            "rate_pct": 0
+                        },
+                        {
+                            "min_income_range": 30001,
+                            "max_income_range": 60000,
+                            "rate_pct": 10
+                        },
+                        {
+                            "min_income_range": 60001,
+                            "max_income_range": 180000,
+                            "rate_pct": 20
+                        },
+                        {
+                            "min_income_range": 180001,
+                            "max_income_range": 300000,
+                            "rate_pct": 30
+                        },
+                        {
+                            "min_income_range": 300001,
+                            "max_income_range": null,
+                            "rate_pct": 34
+                        }
+                    ],
+                    "social_security": [
+                        {
+                            "min_income_range": 0,
+                            "max_income_range": null,
+                            "rate_pct": 4.48
+                        }
+                    ]
+                },
+                "retirees": {
+                    "income_tax": [
+                        {
+                            "min_income_range": 0,
+                            "max_income_range": 30000,
+                            "rate_pct": 0
+                        },
+                        {
+                            "min_income_range": 30001,
+                            "max_income_range": 60000,
+                            "rate_pct": 10
+                        },
+                        {
+                            "min_income_range": 60001,
+                            "max_income_range": 180000,
+                            "rate_pct": 20
+                        },
+                        {
+                            "min_income_range": 180001,
+                            "max_income_range": 300000,
+                            "rate_pct": 30
+                        },
+                        {
+                            "min_income_range": 300001,
+                            "max_income_range": null,
+                            "rate_pct": 34
+                        }
+                    ],
+                    "social_security": []
+                },
+                "special_regimes": []
             },
-            {
-              "min_income_range": 180001,
-              "max_income_range": 300000,
-              "rate_pct": 30
-            },
-            {
-              "min_income_range": 300001,
-              "max_income_range": null,
-              "rate_pct": 34
-            }
-          ],
-          "social_security": []
-        },
-        "special_regimes": []
-      },
-      "required_documents": [
-        "Valid passport",
-        "Passport-sized photograph",
-        "Proof of accommodation in Morocco",
-        "Bank statements showing sufficient funds",
-        "Health insurance covering the duration of stay"
-      ]
-    }
-  ]
+            "required_documents": [
+                "Valid passport",
+                "Passport-sized photograph",
+                "Proof of accommodation in Morocco",
+                "Bank statements showing sufficient funds",
+                "Health insurance covering the duration of stay"
+            ]
+        }
+    ]
 }

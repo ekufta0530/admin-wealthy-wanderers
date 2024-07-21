@@ -1,264 +1,264 @@
 {
-  "country_name": "Netherlands",
-  "country_code": "NL",
-  "capital": "Amsterdam",
-  "display": true,
-  "currency": "EUR",
-  "anchor_country": false,
-  "has_nomad_visa": false,
-  "schengen_zone": true,
-  "in_european_union": true,
-  "cost_of_living_index": 64.3,
-  "cost_of_living_lvl": "$$$$",
-  "practical_tips": {
-    "financial_benefits": [
-      {
-        "benefit": "Strong Economy",
-        "description": "The Netherlands boasts a stable and prosperous economy with numerous opportunities in various sectors."
-      },
-      {
-        "benefit": "High Wages",
-        "description": "The country offers competitive wages and a high standard of living."
-      }
+    "country_name": "Netherlands",
+    "country_code": "NL",
+    "capital": "Amsterdam",
+    "display": true,
+    "currency": "EUR",
+    "anchor_country": false,
+    "has_nomad_visa": false,
+    "schengen_zone": true,
+    "in_european_union": true,
+    "cost_of_living_index": 64.3,
+    "cost_of_living_lvl": "$$$$",
+    "practical_tips": {
+        "financial_benefits": [
+            {
+                "benefit": "Strong Economy",
+                "description": "The Netherlands boasts a stable and prosperous economy with numerous opportunities in various sectors."
+            },
+            {
+                "benefit": "High Wages",
+                "description": "The country offers competitive wages and a high standard of living."
+            }
+        ],
+        "lifestyle_benefits": [
+            {
+                "benefit": "Excellent Infrastructure",
+                "description": "The Netherlands has a well-developed infrastructure, making travel and daily life convenient."
+            },
+            {
+                "benefit": "Multicultural Environment",
+                "description": "The Netherlands is known for its diverse and multicultural society."
+            }
+        ],
+        "additional_benefits": [
+            {
+                "benefit": "High English Proficiency",
+                "description": "Most Dutch people speak English fluently, facilitating communication for expatriates."
+            },
+            {
+                "benefit": "High Quality of Life",
+                "description": "The Netherlands consistently ranks high in quality of life indices, with excellent healthcare and education systems."
+            }
+        ]
+    },
+    "key_consideration": "The Netherlands offers various visas for long-term stays but does not have a specific digital nomad visa. However, it provides numerous opportunities for professionals and entrepreneurs.",
+    "best_for": [
+        "contractors",
+        "retirees"
     ],
-    "lifestyle_benefits": [
-      {
-        "benefit": "Excellent Infrastructure",
-        "description": "The Netherlands has a well-developed infrastructure, making travel and daily life convenient."
-      },
-      {
-        "benefit": "Multicultural Environment",
-        "description": "The Netherlands is known for its diverse and multicultural society."
-      }
-    ],
-    "additional_benefits": [
-      {
-        "benefit": "High English Proficiency",
-        "description": "Most Dutch people speak English fluently, facilitating communication for expatriates."
-      },
-      {
-        "benefit": "High Quality of Life",
-        "description": "The Netherlands consistently ranks high in quality of life indices, with excellent healthcare and education systems."
-      }
+    "action_comment": "Consider the Netherlands for its robust economy, high quality of life, and excellent infrastructure.",
+    "tagline": "Live and work in a country known for its high quality of life and thriving economy.",
+    "image": "netherlands.jpg",
+    "tax_residency_trigger": 183,
+    "tax_residency_trigger_details": "You are considered a tax resident if you stay for longer than 183 days in a calendar year.",
+    "country_standard_taxes": {
+        "tax_currency": "EUR",
+        "employees": {
+            "income_tax": [
+                {
+                    "min_income_range": 0,
+                    "max_income_range": 20843,
+                    "rate_pct": 9.7
+                },
+                {
+                    "min_income_range": 20844,
+                    "max_income_range": 68507,
+                    "rate_pct": 37.07
+                },
+                {
+                    "min_income_range": 68508,
+                    "max_income_range": null,
+                    "rate_pct": 49.5
+                }
+            ],
+            "social_security": [
+                {
+                    "min_income_range": 0,
+                    "max_income_range": 34844,
+                    "rate_pct": 27.65
+                }
+            ]
+        },
+        "contractors": {
+            "income_tax": [
+                {
+                    "min_income_range": 0,
+                    "max_income_range": 20843,
+                    "rate_pct": 9.7
+                },
+                {
+                    "min_income_range": 20844,
+                    "max_income_range": 68507,
+                    "rate_pct": 37.07
+                },
+                {
+                    "min_income_range": 68508,
+                    "max_income_range": null,
+                    "rate_pct": 49.5
+                }
+            ],
+            "social_security": [
+                {
+                    "min_income_range": 0,
+                    "max_income_range": 34844,
+                    "rate_pct": 27.65
+                }
+            ]
+        },
+        "retirees": {
+            "income_tax": [
+                {
+                    "min_income_range": 0,
+                    "max_income_range": 20843,
+                    "rate_pct": 9.7
+                },
+                {
+                    "min_income_range": 20844,
+                    "max_income_range": 68507,
+                    "rate_pct": 37.07
+                },
+                {
+                    "min_income_range": 68508,
+                    "max_income_range": null,
+                    "rate_pct": 49.5
+                }
+            ],
+            "social_security": [
+                {
+                    "min_income_range": 0,
+                    "max_income_range": 34844,
+                    "rate_pct": 27.65
+                }
+            ]
+        }
+    },
+    "visas": [
+        {
+            "visa_name": "Startup Visa",
+            "nomad_visa": false,
+            "official_government_link": "https://ind.nl/en/temporary-stay/startup",
+            "key_consideration": "For ambitious entrepreneurs seeking to build an innovative business in the Netherlands.",
+            "validity_months": 12,
+            "income_requirement": {
+                "currency": "EUR",
+                "single_monthly": 0,
+                "family_monthly": 0,
+                "misc_details": "No specific income requirement, but must demonstrate sufficient means to support oneself."
+            },
+            "application_timeline_days": 90,
+            "application_in_country": true,
+            "application_fee": {
+                "currency": "EUR",
+                "single": 349,
+                "family": 349,
+                "details": "Fee applies per applicant."
+            },
+            "dependent_application": true,
+            "local_tax_on_foreign_income": true,
+            "renewability": true,
+            "renewability_details": "Can apply for extension through the self-employment scheme after one year.",
+            "days_in_country_to_renew_visa": 0,
+            "special_tax_regime": false,
+            "special_tax_regime_details": "",
+            "leads_to_permanent_residence": true,
+            "permanent_residency_details": "Eligible for permanent residence after 5 years.",
+            "taxes": {
+                "employees": {
+                    "income_tax": [],
+                    "social_security": [
+                        {
+                            "min_income_range": 0,
+                            "max_income_range": 34844,
+                            "rate_pct": 27.65
+                        }
+                    ]
+                },
+                "contractors": {
+                    "income_tax": [],
+                    "social_security": [
+                        {
+                            "min_income_range": 0,
+                            "max_income_range": 34844,
+                            "rate_pct": 27.65
+                        }
+                    ]
+                },
+                "retirees": {
+                    "income_tax": [],
+                    "social_security": []
+                },
+                "special_regimes": []
+            },
+            "required_documents": [
+                "Valid passport or travel document",
+                "Proof of innovative business idea",
+                "Business plan",
+                "Facilitator agreement"
+            ]
+        },
+        {
+            "visa_name": "Highly Skilled Migrant Visa",
+            "nomad_visa": false,
+            "official_government_link": "https://ind.nl/en/work/Pages/Highly-skilled-migrant.aspx",
+            "key_consideration": "For individuals with a job offer from a Dutch employer recognized as a sponsor by the IND.",
+            "validity_months": 60,
+            "income_requirement": {
+                "currency": "EUR",
+                "single_monthly": 4840,
+                "family_monthly": 4840,
+                "misc_details": "Income requirements may vary based on age and employment conditions."
+            },
+            "application_timeline_days": 90,
+            "application_in_country": true,
+            "application_fee": {
+                "currency": "EUR",
+                "single": 320,
+                "family": 320,
+                "details": "Fee applies per applicant."
+            },
+            "dependent_application": true,
+            "local_tax_on_foreign_income": true,
+            "renewability": true,
+            "renewability_details": "Can extend visa as long as the employment conditions are met.",
+            "days_in_country_to_renew_visa": 0,
+            "special_tax_regime": false,
+            "special_tax_regime_details": "",
+            "leads_to_permanent_residence": true,
+            "permanent_residency_details": "Eligible for permanent residence after 5 years.",
+            "taxes": {
+                "employees": {
+                    "income_tax": [],
+                    "social_security": [
+                        {
+                            "min_income_range": 0,
+                            "max_income_range": 34844,
+                            "rate_pct": 27.65
+                        }
+                    ]
+                },
+                "contractors": {
+                    "income_tax": [],
+                    "social_security": [
+                        {
+                            "min_income_range": 0,
+                            "max_income_range": 34844,
+                            "rate_pct": 27.65
+                        }
+                    ]
+                },
+                "retirees": {
+                    "income_tax": [],
+                    "social_security": []
+                },
+                "special_regimes": []
+            },
+            "required_documents": [
+                "Valid passport or travel document",
+                "Employment contract",
+                "Proof of qualifications and experience",
+                "Proof of sufficient income"
+            ]
+        }
     ]
-  },
-  "key_consideration": "The Netherlands offers various visas for long-term stays but does not have a specific digital nomad visa. However, it provides numerous opportunities for professionals and entrepreneurs.",
-  "best_for": [
-    "contractors",
-    "retirees"
-  ],
-  "action_comment": "Consider the Netherlands for its robust economy, high quality of life, and excellent infrastructure.",
-  "tagline": "Live and work in a country known for its high quality of life and thriving economy.",
-  "image": "netherlands.jpg",
-  "tax_residency_trigger": 183,
-  "tax_residency_trigger_details": "You are considered a tax resident if you stay for longer than 183 days in a calendar year.",
-  "country_standard_taxes": {
-    "tax_currency": "EUR",
-    "employees": {
-      "income_tax": [
-        {
-          "min_income_range": 0,
-          "max_income_range": 20843,
-          "rate_pct": 9.7
-        },
-        {
-          "min_income_range": 20844,
-          "max_income_range": 68507,
-          "rate_pct": 37.07
-        },
-        {
-          "min_income_range": 68508,
-          "max_income_range": null,
-          "rate_pct": 49.5
-        }
-      ],
-      "social_security": [
-        {
-          "min_income_range": 0,
-          "max_income_range": 34844,
-          "rate_pct": 27.65
-        }
-      ]
-    },
-    "contractors": {
-      "income_tax": [
-        {
-          "min_income_range": 0,
-          "max_income_range": 20843,
-          "rate_pct": 9.7
-        },
-        {
-          "min_income_range": 20844,
-          "max_income_range": 68507,
-          "rate_pct": 37.07
-        },
-        {
-          "min_income_range": 68508,
-          "max_income_range": null,
-          "rate_pct": 49.5
-        }
-      ],
-      "social_security": [
-        {
-          "min_income_range": 0,
-          "max_income_range": 34844,
-          "rate_pct": 27.65
-        }
-      ]
-    },
-    "retirees": {
-      "income_tax": [
-        {
-          "min_income_range": 0,
-          "max_income_range": 20843,
-          "rate_pct": 9.7
-        },
-        {
-          "min_income_range": 20844,
-          "max_income_range": 68507,
-          "rate_pct": 37.07
-        },
-        {
-          "min_income_range": 68508,
-          "max_income_range": null,
-          "rate_pct": 49.5
-        }
-      ],
-      "social_security": [
-        {
-          "min_income_range": 0,
-          "max_income_range": 34844,
-          "rate_pct": 27.65
-        }
-      ]
-    }
-  },
-  "visas": [
-    {
-      "visa_name": "Startup Visa",
-      "nomad_visa": false,
-      "official_government_link": "https://ind.nl/en/temporary-stay/startup",
-      "key_consideration": "For ambitious entrepreneurs seeking to build an innovative business in the Netherlands.",
-      "validity_months": 12,
-      "income_requirement": {
-        "currency": "EUR",
-        "single_monthly": 0,
-        "family_monthly": 0,
-        "misc_details": "No specific income requirement, but must demonstrate sufficient means to support oneself."
-      },
-      "application_timeline_days": 90,
-      "application_in_country": true,
-      "application_fee": {
-        "currency": "EUR",
-        "single": 349,
-        "family": 349,
-        "details": "Fee applies per applicant."
-      },
-      "dependent_application": true,
-      "local_tax_on_foreign_income": true,
-      "renewability": true,
-      "renewability_details": "Can apply for extension through the self-employment scheme after one year.",
-      "days_in_country_to_renew_visa": 0,
-      "special_tax_regime": false,
-      "special_tax_regime_details": "",
-      "leads_to_permanent_residence": true,
-      "permanent_residency_details": "Eligible for permanent residence after 5 years.",
-      "taxes": {
-        "employees": {
-          "income_tax": [],
-          "social_security": [
-            {
-              "min_income_range": 0,
-              "max_income_range": 34844,
-              "rate_pct": 27.65
-            }
-          ]
-        },
-        "contractors": {
-          "income_tax": [],
-          "social_security": [
-            {
-              "min_income_range": 0,
-              "max_income_range": 34844,
-              "rate_pct": 27.65
-            }
-          ]
-        },
-        "retirees": {
-          "income_tax": [],
-          "social_security": []
-        },
-        "special_regimes": []
-      },
-      "required_documents": [
-        "Valid passport or travel document",
-        "Proof of innovative business idea",
-        "Business plan",
-        "Facilitator agreement"
-      ]
-    },
-    {
-      "visa_name": "Highly Skilled Migrant Visa",
-      "nomad_visa": false,
-      "official_government_link": "https://ind.nl/en/work/Pages/Highly-skilled-migrant.aspx",
-      "key_consideration": "For individuals with a job offer from a Dutch employer recognized as a sponsor by the IND.",
-      "validity_months": 60,
-      "income_requirement": {
-        "currency": "EUR",
-        "single_monthly": 4840,
-        "family_monthly": 4840,
-        "misc_details": "Income requirements may vary based on age and employment conditions."
-      },
-      "application_timeline_days": 90,
-      "application_in_country": true,
-      "application_fee": {
-        "currency": "EUR",
-        "single": 320,
-        "family": 320,
-        "details": "Fee applies per applicant."
-      },
-      "dependent_application": true,
-      "local_tax_on_foreign_income": true,
-      "renewability": true,
-      "renewability_details": "Can extend visa as long as the employment conditions are met.",
-      "days_in_country_to_renew_visa": 0,
-      "special_tax_regime": false,
-      "special_tax_regime_details": "",
-      "leads_to_permanent_residence": true,
-      "permanent_residency_details": "Eligible for permanent residence after 5 years.",
-      "taxes": {
-        "employees": {
-          "income_tax": [],
-          "social_security": [
-            {
-              "min_income_range": 0,
-              "max_income_range": 34844,
-              "rate_pct": 27.65
-            }
-          ]
-        },
-        "contractors": {
-          "income_tax": [],
-          "social_security": [
-            {
-              "min_income_range": 0,
-              "max_income_range": 34844,
-              "rate_pct": 27.65
-            }
-          ]
-        },
-        "retirees": {
-          "income_tax": [],
-          "social_security": []
-        },
-        "special_regimes": []
-      },
-      "required_documents": [
-        "Valid passport or travel document",
-        "Employment contract",
-        "Proof of qualifications and experience",
-        "Proof of sufficient income"
-      ]
-    }
-  ]
 }
