@@ -270,6 +270,8 @@ schema = {
                                         "contractors_with_foreign_clients_eligible": {"type": "boolean"},
                                         "contractors_with_local_clients_eligible": {"type": "boolean"},
                                         "employees_with_foreign_employer_eligible": {"type": "boolean"},
+                                        "apply_standard_rate_after_trigger": {"type": "boolean"},
+                                        "apply_special_rate_after_trigger": {"type": "boolean"},
                                         "social_security": {
                                             "anyOf": [
                                                 {"type": "boolean"},
@@ -307,7 +309,7 @@ schema = {
                                             ]
                                         }
                                     },
-                                    "required": ["name", "benefit", "eligibility", "contractors_with_foreign_clients_eligible", "contractors_with_local_clients_eligible", "employees_with_foreign_employer_eligible", "social_security", "income_tax"]
+                                    "required": ["name", "apply_special_rate_after_trigger", "apply_standard_rate_after_trigger", "benefit", "eligibility", "contractors_with_foreign_clients_eligible", "contractors_with_local_clients_eligible", "employees_with_foreign_employer_eligible", "social_security", "income_tax"]
                                 }
                             }
                         },
