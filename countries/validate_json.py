@@ -1,6 +1,6 @@
 import json
 import os
-from jsonschema import validate, ValidationError
+from jsonschema import validate, ValidationError #type: ignore
 from pathlib import Path
 
 # Define the JSON schema based on your template
