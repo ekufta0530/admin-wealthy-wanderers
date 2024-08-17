@@ -1,0 +1,124 @@
+{
+    "country_name": "Vanuatu",
+    "country_code": "VU",
+    "capital": "Port Vila",
+    "display": true,
+    "currency": "VUV",
+    "anchor_country": false,
+    "has_nomad_visa": false,
+    "schengen_zone": false,
+    "in_european_union": false,
+    "cost_of_living_index": 52.8,
+    "cost_of_living_lvl": "$$",
+    "practical_tips": {
+        "financial_benefits": [
+            {
+                "benefit": "No Personal Income Tax",
+                "description": "Vanuatu does not levy personal income tax, making it attractive for remote workers and investors."
+            },
+            {
+                "benefit": "Stable Economy",
+                "description": "The local currency, Vanuatu Vatu (VUV), is stable, providing a secure financial environment."
+            }
+        ],
+        "lifestyle_benefits": [
+            {
+                "benefit": "Tropical Paradise",
+                "description": "Enjoy a tropical climate with stunning beaches, coral reefs, and lush rainforests."
+            },
+            {
+                "benefit": "Relaxed Lifestyle",
+                "description": "Experience a laid-back island lifestyle with friendly locals and minimal hustle."
+            }
+        ],
+        "additional_benefits": [
+            {
+                "benefit": "English Speaking",
+                "description": "English and French are both official languages, facilitating communication for expatriates."
+            },
+            {
+                "benefit": "Cultural Diversity",
+                "description": "Explore a rich cultural heritage with influences from Melanesian, French, and British traditions."
+            }
+        ]
+    },
+    "key_consideration": "Vanuatu offers a Citizenship by Investment program for obtaining citizenship, which requires a significant financial investment.",
+    "best_for": [
+        "remote workers",
+        "nature enthusiasts",
+        "retirees"
+    ],
+    "action_comment": "Consider Vanuatu for its tax advantages, natural beauty, and cultural diversity.",
+    "tagline": "Live and thrive in tropical Vanuatu.",
+    "image": "vanuatu.jpg",
+    "tax_residency_trigger": 183,
+    "tax_residency_trigger_details": "You are considered a tax resident if you reside in Vanuatu for more than 183 days in a calendar year.",
+    "country_standard_taxes": {
+        "tax_currency": "VUV",
+        "employees": {
+            "income_tax": [],
+            "social_security": []
+        },
+        "contractors": {
+            "income_tax": [],
+            "social_security": []
+        },
+        "retirees": {
+            "income_tax": [],
+            "social_security": []
+        }
+    },
+    "visas": [
+        {
+            "visa_name": "Development Support Program Visa",
+            "nomad_visa": true,
+            "official_government_link": "https://www.vanuatuinvest.com/",
+            "key_consideration": "Obtain Vanuatu citizenship through investment in approved projects or contributions.",
+            "validity_months": 60,
+            "income_requirement": {
+                "currency": "USD",
+                "single_monthly": 0,
+                "family_monthly": 0,
+                "misc_details": "Investment required, with options starting from $130,000 for a single applicant."
+            },
+            "application_timeline_days": 60,
+            "application_in_country": false,
+            "application_fee": {
+                "currency": "USD",
+                "single": 130000,
+                "family": 180000,
+                "details": "Includes processing fees and contribution to the Vanuatu government."
+            },
+            "dependent_application": true,
+            "local_tax_on_foreign_income": false,
+            "renewability": true,
+            "renewability_details": "Visa can be renewed as long as investment or contribution conditions are met.",
+            "days_in_country_to_renew_visa": 0,
+            "special_tax_regime": false,
+            "special_tax_regime_details": "",
+            "leads_to_permanent_residence": true,
+            "permanent_residency_details": "Visa leads to Vanuatu citizenship upon meeting investment or contribution requirements.",
+            "taxes": {
+                "employees": {
+                    "income_tax": [],
+                    "social_security": []
+                },
+                "contractors": {
+                    "income_tax": [],
+                    "social_security": []
+                },
+                "retirees": {
+                    "income_tax": [],
+                    "social_security": []
+                },
+                "special_regimes": []
+            },
+            "required_documents": [
+                "Valid passport",
+                "Police clearance certificate",
+                "Proof of investment or contribution",
+                "Health insurance covering the duration of stay"
+            ]
+        }
+    ]
+}

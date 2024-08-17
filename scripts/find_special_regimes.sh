@@ -1,4 +1,4 @@
-#!/bin/bash
+dc .#!/bin/bash
 
 # Directory containing the JSON files
 directory="/Users/erickufta/Projects/admin-wealthy-wanderers/countries/07:31:2024"

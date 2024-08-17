@@ -1,0 +1,157 @@
+{
+    "country_name": "",
+    "country_code": "",
+    "capital": "",
+    "display": "",
+    "currency": "",
+    "anchor_country": "",
+    "has_nomad_visa": "",
+    "schengen_zone": "",
+    "in_european_union": "",
+    "cost_of_living_index": "",
+    "cost_of_living_lvl": "",
+    "practical_tips": {
+      "financial_benefits": [
+        {
+          "benefit": "",
+          "description": ""
+        },
+        {
+          "benefit": "",
+          "description": ""
+        }
+      ],
+      "lifestyle_benefits": [
+        {
+          "benefit": "",
+          "description": ""
+        },
+        {
+          "benefit": "",
+          "description": ""
+        }
+      ],
+      "additional_benefits": [
+        {
+          "benefit": "",
+          "description": ""
+        },
+        {
+          "benefit": "",
+          "description": ""
+        }
+      ]
+    },
+    "key_consideration": "",
+    "best_for": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "action_comment": "",
+    "tagline": "",
+    "image": "",
+    "tax_residency_trigger": "",
+    "tax_residency_trigger_details": "",
+    "country_standard_taxes": {
+      "tax_currency": "",
+      "employees": {
+        "income_tax": [],
+        "social_security": [
+            {
+                "min_income_range": "",
+                "max_income_range": "",
+                "rate_pct": ""
+            }
+        ]
+      },
+      "contractors": {
+        "income_tax": [],
+        "social_security": [
+            {
+                "min_income_range": "",
+                "max_income_range": "",
+                "rate_pct": ""
+            }
+        ]
+      },
+      "retirees": {
+        "income_tax": [],
+        "social_security": []
+      }
+    },
+    "visas": [
+      {
+        "visa_name": "",
+        "nomad_visa": "",
+        "official_government_link": "",
+        "key_consideration": "",
+        "validity_months": "",
+        "income_requirement": {
+          "currency": "",
+          "single_monthly": "",
+          "family_monthly": "",
+          "misc_details": ""
+        },
+        "application_timeline_days": "",
+        "application_in_country": "",
+        "application_fee": {
+          "currency": "",
+          "single": "",
+          "family": "",
+          "details": ""
+        },
+        "dependent_application": "",
+        "local_tax_on_foreign_income": "",
+        "renewability": "",
+        "renewability_details": "",
+        "days_in_country_to_renew_visa": "",
+        "special_tax_regime": "",
+        "special_tax_regime_details": "",
+        "leads_to_permanent_residence": "",
+        "permanent_residency_details": "",
+        "taxes": {
+          "employees": {
+            "income_tax": [],
+            "social_security": []
+          },
+          "contractors": {
+            "income_tax": [],
+            "social_security": []
+          },
+          "retirees": {
+            "income_tax": [],
+            "social_security": []
+          },
+          "special_regimes": [
+            {
+              "name": "",
+              "benefit": "",
+              "eligibility": [
+              ],
+              "contractors_with_foreign_clients_eligible": "",
+              "contractors_with_local_clients_eligible": "",
+              "employees_with_foreign_employer_eligible": "",
+              "social_security": "",
+              "income_tax": ""
+            }
+          ]
+        },
+        "required_documents": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "visa_name": "",
+        "special_tax_regime": "",
+        "nomad_visa": "",
+        "type": "",
+        "key_consideration": ""
+      }
+    ]
+  }

@@ -1,0 +1,301 @@
+{
+    "country_name": "Singapore",
+    "country_code": "SG",
+    "capital": "Singapore City",
+    "display": true,
+    "currency": "SGD",
+    "anchor_country": false,
+    "has_nomad_visa": false,
+    "schengen_zone": false,
+    "in_european_union": false,
+    "cost_of_living_index": 81.9,
+    "cost_of_living_lvl": "$$$$$",
+    "practical_tips": {
+        "financial_benefits": [
+            {
+                "benefit": "Competitive Tax Rates",
+                "description": "Singapore offers competitive personal and corporate tax rates, with various schemes and incentives for businesses."
+            },
+            {
+                "benefit": "Robust Financial Hub",
+                "description": "As a global financial center, Singapore provides access to sophisticated banking services and investment opportunities."
+            }
+        ],
+        "lifestyle_benefits": [
+            {
+                "benefit": "Safe and Clean Environment",
+                "description": "Singapore is known for its safety, cleanliness, and efficient public services."
+            },
+            {
+                "benefit": "Diverse Culture",
+                "description": "Experience a blend of cultures with a rich culinary scene, festivals, and cultural attractions."
+            }
+        ],
+        "additional_benefits": [
+            {
+                "benefit": "English Proficiency",
+                "description": "English is widely spoken and used in business and daily life, facilitating communication for expatriates."
+            },
+            {
+                "benefit": "Efficient Public Transport",
+                "description": "Enjoy a well-connected public transportation system that makes commuting convenient."
+            }
+        ]
+    },
+    "key_consideration": "Foreigners in Singapore are subject to tax on income earned in Singapore and certain foreign income remitted into Singapore, depending on residency status and duration of stay.",
+    "best_for": [
+        "professionals",
+        "entrepreneurs",
+        "finance specialists"
+    ],
+    "action_comment": "Consider Singapore for its strategic location, business-friendly environment, and high quality of life.",
+    "tagline": "Experience innovation and diversity in Singapore.",
+    "image": "singapore.jpg",
+    "tax_residency_trigger": 183,
+    "tax_residency_trigger_details": "You are considered a tax resident in Singapore if you reside or work in Singapore for 183 days or more in a calendar year.",
+    "country_standard_taxes": {
+        "tax_currency": "SGD",
+        "employees": {
+            "income_tax": [
+                {
+                    "min_income_range": 0,
+                    "max_income_range": 20000,
+                    "rate_pct": 0
+                },
+                {
+                    "min_income_range": 20001,
+                    "max_income_range": 30000,
+                    "rate_pct": 2
+                },
+                {
+                    "min_income_range": 30001,
+                    "max_income_range": 40000,
+                    "rate_pct": 3.5
+                },
+                {
+                    "min_income_range": 40001,
+                    "max_income_range": 80000,
+                    "rate_pct": 7
+                },
+                {
+                    "min_income_range": 80001,
+                    "max_income_range": 120000,
+                    "rate_pct": 11.5
+                },
+                {
+                    "min_income_range": 120001,
+                    "max_income_range": 160000,
+                    "rate_pct": 15
+                },
+                {
+                    "min_income_range": 160001,
+                    "max_income_range": 200000,
+                    "rate_pct": 18
+                },
+                {
+                    "min_income_range": 200001,
+                    "max_income_range": 240000,
+                    "rate_pct": 19
+                },
+                {
+                    "min_income_range": 240001,
+                    "max_income_range": 280000,
+                    "rate_pct": 19.5
+                },
+                {
+                    "min_income_range": 280001,
+                    "max_income_range": 320000,
+                    "rate_pct": 20
+                },
+                {
+                    "min_income_range": 320001,
+                    "max_income_range": null,
+                    "rate_pct": 22
+                }
+            ],
+            "social_security": []
+        },
+        "contractors": {
+            "income_tax": [
+                {
+                    "min_income_range": 0,
+                    "max_income_range": null,
+                    "rate_pct": 17
+                }
+            ],
+            "social_security": []
+        },
+        "retirees": {
+            "income_tax": [
+                {
+                    "min_income_range": 0,
+                    "max_income_range": 20000,
+                    "rate_pct": 0
+                },
+                {
+                    "min_income_range": 20001,
+                    "max_income_range": 30000,
+                    "rate_pct": 2
+                },
+                {
+                    "min_income_range": 30001,
+                    "max_income_range": 40000,
+                    "rate_pct": 3.5
+                },
+                {
+                    "min_income_range": 40001,
+                    "max_income_range": 80000,
+                    "rate_pct": 7
+                },
+                {
+                    "min_income_range": 80001,
+                    "max_income_range": 120000,
+                    "rate_pct": 11.5
+                },
+                {
+                    "min_income_range": 120001,
+                    "max_income_range": 160000,
+                    "rate_pct": 15
+                },
+                {
+                    "min_income_range": 160001,
+                    "max_income_range": 200000,
+                    "rate_pct": 18
+                },
+                {
+                    "min_income_range": 200001,
+                    "max_income_range": 240000,
+                    "rate_pct": 19
+                },
+                {
+                    "min_income_range": 240001,
+                    "max_income_range": 280000,
+                    "rate_pct": 19.5
+                },
+                {
+                    "min_income_range": 280001,
+                    "max_income_range": 320000,
+                    "rate_pct": 20
+                },
+                {
+                    "min_income_range": 320001,
+                    "max_income_range": 360000,
+                    "rate_pct": 22
+                },
+                {
+                    "min_income_range": 360001,
+                    "max_income_range": 400000,
+                    "rate_pct": 22.5
+                },
+                {
+                    "min_income_range": 400001,
+                    "max_income_range": null,
+                    "rate_pct": 22.5
+                }
+            ],
+            "social_security": []
+        }
+    },
+    "visas": [
+        {
+            "visa_name": "Employment Pass",
+            "nomad_visa": true,
+            "official_government_link": "https://www.mom.gov.sg/passes-and-permits",
+            "key_consideration": "Allows foreign professionals, managers, executives, and specialists to work in Singapore. Pass duration depends on salary and job type.",
+            "validity_months": 24,
+            "income_requirement": {
+                "currency": "SGD",
+                "single_monthly": 3600,
+                "family_monthly": 6000,
+                "misc_details": "Salary requirement varies based on job role and applicant's qualifications."
+            },
+            "application_timeline_days": 7,
+            "application_in_country": true,
+            "application_fee": {
+                "currency": "SGD",
+                "single": 105,
+                "family": 225,
+                "details": "Application fee varies depending on the pass type and duration."
+            },
+            "dependent_application": true,
+            "local_tax_on_foreign_income": true,
+            "renewability": true,
+            "renewability_details": "EP can be renewed as long as the pass holder remains employed and meets renewal criteria.",
+            "days_in_country_to_renew_visa": 0,
+            "special_tax_regime": false,
+            "special_tax_regime_details": "",
+            "leads_to_permanent_residence": true,
+            "permanent_residency_details": "EP holders are eligible to apply for permanent residency (PR) after fulfilling eligibility criteria, including salary and duration of stay.",
+            "taxes": {
+                "employees": {
+                    "income_tax": [],
+                    "social_security": []
+                },
+                "contractors": {
+                    "income_tax": [],
+                    "social_security": []
+                },
+                "retirees": {
+                    "income_tax": [],
+                    "social_security": []
+                },
+                "special_regimes": []
+            },
+            "required_documents": [
+                "Passport with valid visa",
+                "Employment contract or offer letter",
+                "Educational certificates and professional qualifications"
+            ]
+        },
+        {
+            "visa_name": "EntrePass",
+            "nomad_visa": false,
+            "official_government_link": "https://www.mom.gov.sg/passes-and-permits",
+            "key_consideration": "For foreign entrepreneurs looking to start and operate a business in Singapore. Must meet eligibility criteria related to business innovation and investment.",
+            "validity_months": 24,
+            "income_requirement": {
+                "currency": "SGD",
+                "single_monthly": 0,
+                "family_monthly": 0,
+                "misc_details": "No specific income threshold; assessed based on business plan, investment amount, and innovation."
+            },
+            "application_timeline_days": 8,
+            "application_in_country": true,
+            "application_fee": {
+                "currency": "SGD",
+                "single": 348,
+                "family": 0,
+                "details": "Application fee for each EntrePass application."
+            },
+            "dependent_application": true,
+            "local_tax_on_foreign_income": true,
+            "renewability": true,
+            "renewability_details": "EntrePass can be renewed based on meeting business milestones and criteria.",
+            "days_in_country_to_renew_visa": 0,
+            "special_tax_regime": false,
+            "special_tax_regime_details": "",
+            "leads_to_permanent_residence": true,
+            "permanent_residency_details": "EntrePass holders can apply for PR after meeting eligibility criteria, including business success and contribution to the economy.",
+            "taxes": {
+                "employees": {
+                    "income_tax": [],
+                    "social_security": []
+                },
+                "contractors": {
+                    "income_tax": [],
+                    "social_security": []
+                },
+                "retirees": {
+                    "income_tax": [],
+                    "social_security": []
+                },
+                "special_regimes": []
+            },
+            "required_documents": [
+                "Passport with valid visa",
+                "Detailed business plan",
+                "Financial statements and evidence of business investment"
+            ]
+        }
+    ]
+}

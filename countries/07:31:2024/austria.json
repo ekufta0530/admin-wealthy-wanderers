@@ -1,0 +1,278 @@
+{
+    "country_name": "Austria",
+    "country_code": "AT",
+    "capital": "Vienna",
+    "display": true,
+    "currency": "EUR",
+    "anchor_country": false,
+    "has_nomad_visa": false,
+    "schengen_zone": true,
+    "in_european_union": true,
+    "cost_of_living_index": 66.8,
+    "cost_of_living_lvl": "$$$",
+    "practical_tips": {
+        "financial_benefits": [
+            {
+                "benefit": "Strong Economy",
+                "description": "Austria boasts a strong and stable economy with diverse business opportunities."
+            },
+            {
+                "benefit": "Access to Schengen Area",
+                "description": "Being part of the Schengen Area, Austria allows easy travel across 26 European countries."
+            }
+        ],
+        "lifestyle_benefits": [
+            {
+                "benefit": "Cultural Richness",
+                "description": "Vienna, the capital, is known for its rich cultural heritage, music, and art scene."
+            },
+            {
+                "benefit": "High Quality of Life",
+                "description": "Austria offers a high standard of living with excellent healthcare and education systems."
+            }
+        ],
+        "additional_benefits": [
+            {
+                "benefit": "Multilingual Environment",
+                "description": "Apart from German, many Austrians speak English, making it easier for expatriates to communicate."
+            },
+            {
+                "benefit": "Outdoor Activities",
+                "description": "Enjoy outdoor activities such as skiing, hiking, and exploring picturesque landscapes."
+            }
+        ]
+    },
+    "key_consideration": "Austria does not have a specific digital nomad visa, but offers various visa options for employment, business, and residence.",
+    "best_for": [
+        "employees",
+        "contractors"
+    ],
+    "action_comment": "Consider Austria for its vibrant cultural scene, high quality of life, and strategic location within Europe.",
+    "tagline": "Experience Austria's cultural richness and scenic beauty.",
+    "image": "austria.jpg",
+    "tax_residency_trigger": 183,
+    "tax_residency_trigger_details": "You are considered a tax resident if you spend more than 183 days in Austria in a calendar year.",
+    "country_standard_taxes": {
+        "tax_currency": "EUR",
+        "employees": {
+            "income_tax": [
+                {
+                    "min_income_range": 0,
+                    "max_income_range": 11693,
+                    "rate_pct": 0
+                },
+                {
+                    "min_income_range": 11694,
+                    "max_income_range": 19134,
+                    "rate_pct": 20
+                },
+                {
+                    "min_income_range": 19135,
+                    "max_income_range": 32075,
+                    "rate_pct": 30
+                },
+                {
+                    "min_income_range": 32076,
+                    "max_income_range": 62080,
+                    "rate_pct": 42
+                },
+                {
+                    "min_income_range": 93121,
+                    "max_income_range": 1000000,
+                    "rate_pct": 48
+                }
+            ],
+            "social_security": [
+                {
+                    "min_income_range": 0,
+                    "max_income_range": null,
+                    "rate_pct": 18.12
+                }
+            ]
+        },
+        "contractors": {
+            "income_tax": [
+                {
+                    "min_income_range": 0,
+                    "max_income_range": 11000,
+                    "rate_pct": 0
+                },
+                {
+                    "min_income_range": 11001,
+                    "max_income_range": 25000,
+                    "rate_pct": 25
+                },
+                {
+                    "min_income_range": 25001,
+                    "max_income_range": 60000,
+                    "rate_pct": 35
+                },
+                {
+                    "min_income_range": 60001,
+                    "max_income_range": null,
+                    "rate_pct": 55
+                }
+            ],
+            "social_security": [
+                {
+                    "min_income_range": 0,
+                    "max_income_range": null,
+                    "rate_pct": 18.12
+                }
+            ]
+        },
+        "retirees": {
+            "income_tax": [
+                {
+                    "min_income_range": 0,
+                    "max_income_range": 11000,
+                    "rate_pct": 0
+                },
+                {
+                    "min_income_range": 11001,
+                    "max_income_range": 25000,
+                    "rate_pct": 25
+                },
+                {
+                    "min_income_range": 25001,
+                    "max_income_range": 60000,
+                    "rate_pct": 35
+                },
+                {
+                    "min_income_range": 60001,
+                    "max_income_range": null,
+                    "rate_pct": 55
+                }
+            ],
+            "social_security": []
+        }
+    },
+    "visas": [
+        {
+            "visa_name": "Red-White-Red Card",
+            "nomad_visa": false,
+            "official_government_link": "https://www.migration.gv.at/en/types-of-immigration/permanent-immigration-red-white-red-card/",
+            "key_consideration": "For highly skilled workers, self-employed individuals, and graduates.",
+            "validity_months": 24,
+            "income_requirement": {
+                "currency": "EUR",
+                "single_monthly": 2187,
+                "family_monthly": 2187,
+                "misc_details": "Salary must meet specified minimum levels depending on the category."
+            },
+            "application_timeline_days": 90,
+            "application_in_country": true,
+            "application_fee": {
+                "currency": "EUR",
+                "single": 120,
+                "family": 120,
+                "details": "Fee varies based on the type of application."
+            },
+            "dependent_application": true,
+            "local_tax_on_foreign_income": true,
+            "renewability": true,
+            "renewability_details": "Can be renewed or extended based on continued eligibility.",
+            "days_in_country_to_renew_visa": 183,
+            "special_tax_regime": false,
+            "special_tax_regime_details": "",
+            "leads_to_permanent_residence": true,
+            "permanent_residency_details": "Eligible for permanent residency after fulfilling residency and other conditions.",
+            "taxes": {
+                "employees": {
+                    "income_tax": [
+                        {
+                            "min_income_range": 0,
+                            "max_income_range": 11000,
+                            "rate_pct": 0
+                        },
+                        {
+                            "min_income_range": 11001,
+                            "max_income_range": 25000,
+                            "rate_pct": 25
+                        },
+                        {
+                            "min_income_range": 25001,
+                            "max_income_range": 60000,
+                            "rate_pct": 35
+                        },
+                        {
+                            "min_income_range": 60001,
+                            "max_income_range": null,
+                            "rate_pct": 55
+                        }
+                    ],
+                    "social_security": [
+                        {
+                            "min_income_range": 0,
+                            "max_income_range": null,
+                            "rate_pct": 18.12
+                        }
+                    ]
+                },
+                "contractors": {
+                    "income_tax": [
+                        {
+                            "min_income_range": 0,
+                            "max_income_range": 11000,
+                            "rate_pct": 0
+                        },
+                        {
+                            "min_income_range": 11001,
+                            "max_income_range": 25000,
+                            "rate_pct": 25
+                        },
+                        {
+                            "min_income_range": 25001,
+                            "max_income_range": 60000,
+                            "rate_pct": 35
+                        },
+                        {
+                            "min_income_range": 60001,
+                            "max_income_range": null,
+                            "rate_pct": 55
+                        }
+                    ],
+                    "social_security": [
+                        {
+                            "min_income_range": 0,
+                            "max_income_range": null,
+                            "rate_pct": 18.12
+                        }
+                    ]
+                },
+                "retirees": {
+                    "income_tax": [
+                        {
+                            "min_income_range": 0,
+                            "max_income_range": 11000,
+                            "rate_pct": 0
+                        },
+                        {
+                            "min_income_range": 11001,
+                            "max_income_range": 25000,
+                            "rate_pct": 25
+                        },
+                        {
+                            "min_income_range": 25001,
+                            "max_income_range": 60000,
+                            "rate_pct": 35
+                        },
+                        {
+                            "min_income_range": 60001,
+                            "max_income_range": null,
+                            "rate_pct": 55
+                        }
+                    ],
+                    "social_security": []
+                },
+                "special_regimes": []
+            },
+            "required_documents": [
+                "Valid passport",
+                "Job offer or employment contract",
+                "Proof of qualifications or education certificates",
+                "Proof of accommodation in Austria"
+            ]
+        }
+    ]
+}

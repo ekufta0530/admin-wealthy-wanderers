@@ -1,0 +1,175 @@
+{
+    "country_name": "Guatemala",
+    "country_code": "GT",
+    "capital": "Guatemala City",
+    "display": true,
+    "currency": "GTQ",
+    "anchor_country": false,
+    "has_nomad_visa": false,
+    "schengen_zone": false,
+    "in_european_union": false,
+    "cost_of_living_index": 37.7,
+    "cost_of_living_lvl": "$$",
+    "practical_tips": {
+        "financial_benefits": [
+            {
+                "benefit": "Low Cost of Living",
+                "description": "Guatemala offers a low cost of living compared to many Western countries."
+            },
+            {
+                "benefit": "Foreign Income Exemption",
+                "description": "Income earned outside Guatemala is generally not taxed locally."
+            }
+        ],
+        "lifestyle_benefits": [
+            {
+                "benefit": "Rich Cultural Heritage",
+                "description": "Experience Guatemala's diverse indigenous cultures and historical sites."
+            },
+            {
+                "benefit": "Natural Beauty",
+                "description": "Enjoy Guatemala's landscapes, including volcanoes, lakes, and rainforests."
+            }
+        ],
+        "additional_benefits": [
+            {
+                "benefit": "Spanish Language",
+                "description": "Spanish is the official language, providing an opportunity to learn or improve language skills."
+            },
+            {
+                "benefit": "Adventure Activities",
+                "description": "Engage in outdoor activities such as hiking, volcano climbing, and exploring ancient ruins."
+            }
+        ]
+    },
+    "key_consideration": "Guatemala offers a favorable environment for digital nomads and retirees with its low cost of living and rich cultural experiences.",
+    "best_for": [
+        "nature enthusiasts",
+        "culture seekers",
+        "adventure travelers"
+    ],
+    "action_comment": "Consider Guatemala for its affordable living, cultural richness, and diverse landscapes.",
+    "tagline": "Discover Guatemala: Where history meets adventure.",
+    "image": "guatemala.jpg",
+    "tax_residency_trigger": 183,
+    "tax_residency_trigger_details": "You become a tax resident if you reside in Guatemala for 183 days or more in a calendar year.",
+    "country_standard_taxes": {
+        "tax_currency": "GTQ",
+        "employees": {
+            "income_tax": [],
+            "social_security": []
+        },
+        "contractors": {
+            "income_tax": [],
+            "social_security": []
+        },
+        "retirees": {
+            "income_tax": [],
+            "social_security": []
+        }
+    },
+    "visas": [
+        {
+            "visa_name": "Tourist Visa",
+            "nomad_visa": false,
+            "official_government_link": "https://www.minex.gob.gt/Directorio%20de%20servicios/Servicios%20Consulares/Visas%20y%20Permisos/Visas/tarjeta-de-turista-extendida/",
+            "key_consideration": "Allows for temporary stays for tourism purposes.",
+            "validity_months": 3,
+            "income_requirement": {
+                "currency": "GTQ",
+                "single_monthly": 0,
+                "family_monthly": 0,
+                "misc_details": "Proof of sufficient funds for the duration of stay may be required."
+            },
+            "application_timeline_days": 15,
+            "application_in_country": true,
+            "application_fee": {
+                "currency": "GTQ",
+                "single": 150,
+                "family": 250,
+                "details": "Application fee applies per person."
+            },
+            "dependent_application": true,
+            "local_tax_on_foreign_income": false,
+            "renewability": true,
+            "renewability_details": "Can be extended in-country upon application.",
+            "days_in_country_to_renew_visa": 0,
+            "special_tax_regime": false,
+            "special_tax_regime_details": "",
+            "leads_to_permanent_residence": false,
+            "permanent_residency_details": "",
+            "taxes": {
+                "employees": {
+                    "income_tax": [],
+                    "social_security": []
+                },
+                "contractors": {
+                    "income_tax": [],
+                    "social_security": []
+                },
+                "retirees": {
+                    "income_tax": [],
+                    "social_security": []
+                },
+                "special_regimes": []
+            },
+            "required_documents": [
+                "Passport with at least 6 months validity",
+                "Proof of sufficient funds (bank statements)",
+                "Travel itinerary",
+                "Proof of accommodation in Guatemala"
+            ]
+        },
+        {
+            "visa_name": "Temporary Resident Visa",
+            "nomad_visa": false,
+            "official_government_link": "https://www.minex.gob.gt/Directorio%20de%20servicios/Servicios%20Consulares/Visas%20y%20Permisos/Visas/Residente-Temporario/",
+            "key_consideration": "Allows for longer-term stays with additional requirements.",
+            "validity_months": 12,
+            "income_requirement": {
+                "currency": "GTQ",
+                "single_monthly": 2500,
+                "family_monthly": 0,
+                "misc_details": "Proof of income or funds to support yourself during your stay."
+            },
+            "application_timeline_days": 30,
+            "application_in_country": true,
+            "application_fee": {
+                "currency": "GTQ",
+                "single": 300,
+                "family": 500,
+                "details": "Application fee covers principal applicant and dependents."
+            },
+            "dependent_application": true,
+            "local_tax_on_foreign_income": false,
+            "renewability": true,
+            "renewability_details": "Renewable annually upon meeting visa conditions.",
+            "days_in_country_to_renew_visa": 0,
+            "special_tax_regime": false,
+            "special_tax_regime_details": "",
+            "leads_to_permanent_residence": false,
+            "permanent_residency_details": "",
+            "taxes": {
+                "employees": {
+                    "income_tax": [],
+                    "social_security": []
+                },
+                "contractors": {
+                    "income_tax": [],
+                    "social_security": []
+                },
+                "retirees": {
+                    "income_tax": [],
+                    "social_security": []
+                },
+                "special_regimes": []
+            },
+            "required_documents": [
+                "Passport with at least 1 year validity",
+                "Proof of income (bank statements, employment contract, etc.)",
+                "Police record",
+                "Health certificate"
+            ]
+        }
+    ]
+}
